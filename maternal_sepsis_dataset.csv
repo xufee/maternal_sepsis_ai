@@ -1,0 +1,1001 @@
+Patient_ID,Age,Parity,BMI,Pre_existing_conditions,C_section_type,Duration_surgery_min,Blood_loss_ml,Antibiotics_given,Indication_for_C_section,Temperature_C,Heart_rate_bpm,Respiratory_rate_bpm,BP_systolic_mmHg,BP_diastolic_mmHg,SpO2_percent,WBC_count_x10^9/L,CRP_mg/L,Procalcitonin_ng/mL,Lactate_mmol/L,Blood_culture_result,Wound_status,Uterine_tenderness,Urine_output_ml/hr,Organ_dysfunction,Sepsis_detected,Time_to_diagnosis_hr,Outcome
+4c18b921-4cc9-44e8-b0d5-70f871abcecb,37,1,21.9,Anemia,Elective,117,615,No,Previous C-section,37.0,79,16,122,60,96.0,14.3,23.1,0.88,0.7,Klebsiella pneumoniae,Pus discharge,Yes,74,Yes,Yes,47.0,Recovered
+a1a86714-01ef-41c2-ab18-4bc723498f73,40,5,34.7,Hypertension,Emergency,54,810,Yes,Prolonged labor,36.6,119,25,133,73,98.1,10.0,52.1,3.92,3.1,Staphylococcus aureus,Pus discharge,No,65,Yes,Yes,14.0,Mortality
+c809f4ab-e0bf-49cd-b236-feb685bad9a1,40,1,32.7,Anemia,Emergency,70,544,Yes,Fetal distress,37.9,90,17,123,65,99.0,10.8,38.1,4.94,4.0,Klebsiella pneumoniae,Pus discharge,Yes,61,No,No,,Recovered
+2c401cde-99e2-4c0d-b7a3-f956dec21e02,45,3,26.3,Diabetes,Elective,90,852,Yes,Fetal distress,37.7,69,18,100,72,94.5,10.0,7.6,3.74,3.1,Staphylococcus aureus,Pus discharge,Yes,42,Yes,Yes,28.0,Recovered
+57adf4cf-3777-4adc-8996-2aeff1632f4f,19,0,34.0,Obesity,Elective,109,460,No,Fetal distress,37.1,136,21,131,86,94.5,9.4,4.0,1.8,1.1,Negative,Pus discharge,Yes,80,Yes,Yes,1.0,ICU
+c45092dc-4b85-40ef-915f-071fc7563dcd,28,5,31.4,Diabetes,Emergency,90,800,Yes,Placenta previa,38.1,104,12,91,78,99.0,15.2,33.8,3.34,1.4,Staphylococcus aureus,Erythema,Yes,41,Yes,Yes,34.0,ICU
+a35c17b9-5855-48d5-902e-0dba7aa2bcf1,31,3,23.1,None,Elective,93,736,No,Previous C-section,37.8,105,18,106,83,98.4,7.8,53.0,3.27,1.2,Staphylococcus aureus,Pus discharge,Yes,47,Yes,Yes,25.0,Mortality
+feb81698-dc98-466a-a671-d5b22824c7ed,32,3,26.9,Diabetes,Elective,57,457,Yes,Placenta previa,37.0,82,19,139,86,93.6,10.5,28.6,4.43,0.9,Staphylococcus aureus,Erythema,Yes,40,Yes,Yes,46.0,Recovered
+05ee6b9b-7ef2-4d56-a956-82f8c40383f8,42,4,18.6,Hypertension,Emergency,108,858,No,Prolonged labor,36.4,69,14,127,63,94.2,12.2,27.4,1.78,1.4,Staphylococcus aureus,Clean,Yes,78,No,No,,Recovered
+27e390fc-f1e0-46e1-8b45-1d181c9da696,34,0,20.3,Obesity,Emergency,87,790,Yes,Previous C-section,36.3,96,17,131,87,97.2,10.0,30.0,3.97,2.5,Staphylococcus aureus,Clean,No,45,Yes,Yes,40.0,Mortality
+92c7db1c-a623-4be5-a1ff-3c977a8fdaf1,18,5,24.6,Hypertension,Elective,120,601,Yes,Placenta previa,38.5,65,25,95,70,95.7,14.2,16.0,4.88,3.6,Negative,Pus discharge,No,57,No,No,,Recovered
+845eb740-ff6c-4241-99af-30ce972f7bed,33,1,33.8,Anemia,Elective,48,537,No,Previous C-section,39.0,68,30,103,85,97.0,8.4,21.2,2.48,1.0,Klebsiella pneumoniae,Pus discharge,No,60,No,No,,Recovered
+dae0f09e-05f5-4c48-b353-189de58acf56,44,4,32.6,Anemia,Elective,80,985,Yes,Previous C-section,35.9,108,12,128,70,96.0,11.2,0.2,2.08,2.9,Staphylococcus aureus,Clean,Yes,79,No,No,,Recovered
+96325931-3b06-4317-8821-901f151689a0,41,0,26.2,Hypertension,Emergency,34,1094,No,Previous C-section,37.0,89,21,124,84,92.7,7.2,32.7,3.18,1.2,Staphylococcus aureus,Clean,Yes,33,Yes,Yes,38.0,Mortality
+f42b8421-cd1f-4fd6-8365-b1ef7881a072,23,2,22.5,Anemia,Emergency,46,1076,No,Previous C-section,36.4,135,26,99,67,96.7,8.8,55.8,4.84,0.6,Klebsiella pneumoniae,Clean,No,80,No,No,,Recovered
+f1ad53c4-3d67-4fe2-8a6d-ca9bd17b779b,29,1,34.9,Anemia,Elective,63,806,No,Placenta previa,38.2,136,12,139,74,93.4,8.9,1.8,4.98,0.8,E. coli,Pus discharge,No,56,No,No,,Recovered
+93bf6bc9-d5b8-4843-8d7b-15631b74af60,23,3,19.2,Diabetes,Emergency,58,425,No,Placenta previa,37.3,121,18,117,80,97.9,10.0,46.8,2.68,3.3,E. coli,Pus discharge,Yes,71,No,No,,Recovered
+df41472b-9727-49ff-abe5-64308fa8511b,32,3,34.8,None,Elective,98,1132,No,Previous C-section,36.9,114,29,113,77,99.6,5.0,55.2,2.93,0.7,E. coli,Clean,Yes,66,No,No,,Recovered
+bbd72c70-ec47-4299-937b-03937251f8f7,25,3,18.5,Hypertension,Elective,30,528,Yes,Placenta previa,37.1,66,28,90,70,93.0,8.7,40.3,1.07,1.7,Staphylococcus aureus,Clean,Yes,49,No,No,,Recovered
+d27daf98-3356-4c90-99ba-578ab2881687,19,2,20.5,Anemia,Emergency,59,683,No,Placenta previa,37.1,113,29,120,60,99.0,12.8,57.3,0.1,2.4,Negative,Pus discharge,Yes,70,No,No,,Recovered
+230cc61a-811e-49a0-8404-8ea17f0f9c88,37,3,30.5,None,Elective,74,1142,Yes,Previous C-section,37.2,69,19,121,72,97.3,7.2,41.5,0.67,0.8,Negative,Pus discharge,Yes,63,No,No,,Recovered
+6706eef2-7532-4040-a169-72a655e626cf,33,3,31.6,Obesity,Elective,67,737,No,Placenta previa,36.3,130,26,112,66,93.4,10.0,5.6,2.36,1.5,E. coli,Erythema,No,76,Yes,Yes,48.0,Mortality
+b26cbb22-68a2-43ef-b45c-32fc37de8744,31,4,33.7,Anemia,Elective,75,359,No,Placenta previa,35.8,89,26,98,85,99.1,8.1,56.0,3.8,1.2,Klebsiella pneumoniae,Pus discharge,No,21,No,No,,Recovered
+8d241f1f-0810-4668-9198-005f0d044f2a,34,5,18.2,Anemia,Emergency,102,711,No,Fetal distress,37.3,126,18,93,64,95.8,8.7,26.9,1.39,2.9,E. coli,Pus discharge,Yes,25,No,No,,Recovered
+e6003884-dc21-4e0e-ab55-6d695c299750,30,0,30.9,Obesity,Elective,99,490,No,Placenta previa,36.2,97,19,92,81,93.6,9.1,4.3,0.69,1.7,Klebsiella pneumoniae,Clean,Yes,79,No,No,,Recovered
+b79d4a13-6193-4bbf-a2bd-15a8e2fe92d6,32,4,33.1,Hypertension,Emergency,39,1125,No,Prolonged labor,37.3,129,14,138,77,99.9,7.7,9.0,4.37,2.8,E. coli,Pus discharge,No,73,Yes,Yes,12.0,Mortality
+37d779fa-c4df-4e4a-8cd9-1d55fcd22efb,18,3,22.9,Obesity,Elective,38,1149,Yes,Prolonged labor,35.9,101,17,95,74,95.1,8.1,24.6,4.08,3.9,Klebsiella pneumoniae,Erythema,No,39,No,No,,Recovered
+f780e535-141a-465c-b8f1-2518f6e8132d,37,2,18.4,Diabetes,Emergency,89,528,Yes,Prolonged labor,36.3,118,13,123,75,97.9,11.4,29.7,2.74,3.2,Negative,Erythema,No,33,Yes,Yes,6.0,Recovered
+2cd98b96-edf4-4291-bfeb-80eb7cc8ffae,32,1,31.6,None,Emergency,36,1150,No,Fetal distress,35.3,126,24,133,61,96.1,7.1,25.2,0.64,0.6,Negative,Pus discharge,Yes,26,No,No,,Recovered
+1cf217ba-0139-42c6-aa30-41c977cf0e00,37,5,23.5,Obesity,Elective,114,344,No,Previous C-section,35.9,103,29,126,80,93.6,8.0,38.8,0.23,1.1,E. coli,Clean,Yes,41,Yes,Yes,30.0,ICU
+1c2e73f4-c5db-4780-a1a0-04f69f6b5c07,40,5,18.2,Anemia,Emergency,87,631,No,Placenta previa,37.6,60,18,109,86,93.2,6.8,15.5,0.67,2.7,Staphylococcus aureus,Pus discharge,No,33,Yes,Yes,3.0,Mortality
+9dcf4541-6b5b-410e-bb5c-3100a9db3867,24,2,29.8,Anemia,Elective,79,318,Yes,Placenta previa,38.1,102,13,119,66,97.5,16.3,62.5,3.55,2.7,Negative,Erythema,No,50,No,No,,Recovered
+3ed7d07b-244a-495f-9efa-010ca2fb51ce,44,4,27.7,Obesity,Elective,83,491,No,Placenta previa,37.1,133,12,101,61,97.6,8.5,21.7,0.91,0.7,Negative,Pus discharge,Yes,28,Yes,Yes,31.0,Mortality
+95f86255-6d44-43a3-904c-7c33269a692a,45,3,19.0,Diabetes,Emergency,81,546,Yes,Previous C-section,35.7,80,13,138,77,95.1,8.1,19.0,4.47,4.0,Klebsiella pneumoniae,Pus discharge,No,49,No,No,,Recovered
+319fb1cb-3449-4f2e-96e7-5d5d67f2257f,32,5,18.3,Obesity,Emergency,86,565,Yes,Placenta previa,36.9,80,13,111,60,92.7,3.6,34.4,2.61,2.8,Negative,Pus discharge,No,25,Yes,Yes,13.0,ICU
+c8d626ec-47e9-4e86-8d8e-991a21c95938,27,2,26.1,Hypertension,Elective,99,820,No,Fetal distress,36.7,87,29,104,84,97.8,6.9,60.7,4.78,3.2,Klebsiella pneumoniae,Erythema,Yes,20,Yes,Yes,3.0,Mortality
+dda70673-093b-4d53-ae4e-ce39a7db0777,34,1,24.8,Hypertension,Emergency,68,782,No,Prolonged labor,35.9,105,13,95,62,97.6,10.5,31.2,0.82,2.3,Klebsiella pneumoniae,Erythema,No,80,No,No,,Recovered
+efc40851-8085-4438-8b83-bb1f5a8ce2fd,19,4,20.0,None,Elective,44,634,No,Fetal distress,37.2,91,29,94,74,99.9,8.4,12.5,1.34,1.3,E. coli,Clean,No,42,Yes,Yes,1.0,Mortality
+06d4822d-b2aa-46f9-af04-1865b64d874c,43,3,23.1,Diabetes,Elective,116,412,Yes,Prolonged labor,37.3,85,16,120,81,98.4,12.4,41.0,1.69,2.6,Klebsiella pneumoniae,Clean,Yes,64,No,No,,Recovered
+5b10797c-4b9e-4da5-adc4-40997f4b8103,19,3,23.3,None,Elective,74,928,No,Previous C-section,36.7,113,15,109,87,93.7,11.9,27.0,3.64,0.6,Staphylococcus aureus,Pus discharge,No,46,Yes,Yes,23.0,ICU
+586f92c8-762b-487a-8a95-2524c46682d8,41,4,18.3,Hypertension,Elective,110,1132,No,Placenta previa,35.6,96,16,134,72,96.9,15.8,32.9,1.22,0.6,Klebsiella pneumoniae,Pus discharge,Yes,60,Yes,Yes,29.0,ICU
+54f7cb43-01c0-404e-a173-3672929109ca,21,1,26.5,Obesity,Emergency,38,1035,Yes,Previous C-section,35.4,113,23,92,65,98.7,11.0,0.7,3.65,0.6,Negative,Clean,No,56,No,No,,Recovered
+b60d6d10-288d-4482-9697-bfca9672cc02,44,4,26.5,Diabetes,Elective,109,1129,No,Previous C-section,37.7,118,26,106,88,99.6,10.9,50.5,1.46,1.2,Staphylococcus aureus,Pus discharge,Yes,62,Yes,Yes,41.0,ICU
+9617e385-36d7-4256-9353-09d21ccfafa9,40,0,30.7,None,Elective,101,685,No,Previous C-section,37.2,131,14,95,66,96.3,7.8,64.0,0.67,2.8,Staphylococcus aureus,Erythema,Yes,29,No,No,,Recovered
+af257e5b-1095-4c4f-9c21-2ea9f344b804,22,1,21.6,Obesity,Elective,67,549,Yes,Placenta previa,37.1,101,12,138,87,97.1,7.1,33.6,2.12,3.8,Staphylococcus aureus,Clean,Yes,29,Yes,Yes,9.0,Mortality
+8575f019-89c1-4a2e-a3fb-e7cba0f1b073,27,5,19.0,None,Elective,111,815,Yes,Fetal distress,36.8,104,30,134,84,96.5,12.4,24.6,1.14,3.8,E. coli,Pus discharge,No,33,No,No,,Recovered
+42840c81-0254-474f-ae2c-cb88ec59a881,42,3,31.9,Diabetes,Elective,44,519,No,Fetal distress,36.4,81,17,139,81,94.3,5.6,52.5,4.63,4.0,E. coli,Clean,No,56,Yes,Yes,9.0,ICU
+ad956ae0-a6ae-4b5d-9ed6-8ef194bd0c9c,21,4,34.4,Obesity,Emergency,119,966,No,Prolonged labor,37.2,86,16,103,70,99.4,10.8,34.7,1.2,1.5,Klebsiella pneumoniae,Erythema,No,37,No,No,,Recovered
+6b67c297-e224-4661-8ca9-d7cd9e36666b,30,0,29.3,Obesity,Elective,107,370,Yes,Fetal distress,35.9,73,24,126,74,96.8,6.7,61.1,0.95,1.6,Klebsiella pneumoniae,Pus discharge,Yes,57,No,No,,Recovered
+f99ea513-f92a-47de-9342-cb06942dd802,28,2,21.1,Hypertension,Elective,80,1029,Yes,Placenta previa,36.5,86,28,125,85,92.2,9.6,21.4,0.1,0.8,Negative,Clean,Yes,21,No,No,,Recovered
+ae5bce16-4c42-4d14-93b9-5d531c347de7,43,1,31.5,Hypertension,Emergency,46,325,Yes,Fetal distress,38.0,74,15,131,71,92.8,11.8,-37.0,3.78,0.8,E. coli,Pus discharge,No,32,Yes,Yes,7.0,ICU
+f535bc06-fcb0-4fd6-955c-4a0801c17a3e,38,0,26.6,Hypertension,Elective,96,314,No,Placenta previa,37.9,89,13,126,65,93.3,8.0,30.7,0.54,2.9,E. coli,Pus discharge,No,43,No,No,,Recovered
+c24ce780-519c-4da4-be8b-da4f17b6f955,30,4,28.3,Diabetes,Emergency,38,689,No,Placenta previa,37.8,74,26,137,85,99.6,11.6,29.7,3.12,2.8,Staphylococcus aureus,Erythema,No,49,Yes,Yes,10.0,ICU
+be852dbb-fdc8-4652-b0e4-0ebd62ba5d84,26,2,23.3,Obesity,Elective,89,589,Yes,Placenta previa,35.9,91,19,96,77,95.8,10.0,59.7,4.94,2.7,Negative,Clean,Yes,64,No,No,,Recovered
+a9ced218-5630-40e0-a6c3-48690dd6d275,24,3,18.4,None,Elective,53,574,Yes,Fetal distress,35.5,89,23,100,61,93.3,18.3,38.6,1.71,3.0,Negative,Clean,No,53,No,No,,Recovered
+bd453ba2-4161-47af-96c5-9131d86a8fdb,20,4,21.6,Obesity,Elective,48,1124,No,Placenta previa,35.1,120,15,108,72,94.5,8.2,31.0,3.8,3.8,Klebsiella pneumoniae,Clean,No,68,No,No,,Recovered
+62a0087f-954f-4a0b-9b99-150eff83aab0,43,4,30.8,Anemia,Emergency,120,1127,No,Previous C-section,37.4,118,18,116,75,95.9,9.8,33.1,0.74,2.2,Staphylococcus aureus,Pus discharge,Yes,33,Yes,Yes,45.0,Mortality
+e008193c-382b-4ce7-a3cb-2f93079be4f5,30,1,25.5,None,Elective,89,1118,No,Placenta previa,36.7,106,13,111,64,95.7,8.5,16.9,3.83,1.3,Staphylococcus aureus,Pus discharge,Yes,46,Yes,Yes,12.0,Mortality
+22441db4-8d68-4f29-9439-f71851aacb6b,29,0,26.0,Hypertension,Elective,108,476,Yes,Placenta previa,37.6,70,12,124,60,95.6,3.4,33.4,2.99,0.7,Staphylococcus aureus,Clean,No,60,No,No,,Recovered
+7b250248-45a8-4823-b6a2-6fbe6cbfc8e6,23,1,27.0,Diabetes,Emergency,88,417,Yes,Previous C-section,36.9,120,16,132,76,92.6,11.0,34.5,3.56,1.7,Negative,Erythema,No,43,Yes,Yes,10.0,Recovered
+2bbf666c-84f2-40b1-88df-d47fb37c0acb,33,2,33.2,Obesity,Elective,76,966,No,Previous C-section,38.8,132,19,100,71,95.6,7.2,49.3,0.39,2.3,Klebsiella pneumoniae,Clean,Yes,74,No,No,,Recovered
+fe6b167a-37a0-438f-a9dc-3a9477814460,42,1,34.6,Hypertension,Emergency,50,583,No,Previous C-section,35.4,63,24,95,67,92.3,6.9,26.5,3.63,2.9,E. coli,Pus discharge,Yes,64,No,No,,Recovered
+dae4222a-6414-4cb4-9b51-e4c12e9ea47d,22,5,25.0,Obesity,Elective,109,602,Yes,Previous C-section,35.9,118,19,118,79,92.4,3.4,8.1,4.16,0.5,Staphylococcus aureus,Erythema,Yes,71,No,No,,Recovered
+ee6e5480-7920-4662-bdf6-ba6c50d6b99a,25,1,22.9,Anemia,Emergency,47,778,No,Fetal distress,37.6,138,23,140,66,95.7,10.7,27.7,1.95,3.5,Klebsiella pneumoniae,Clean,Yes,42,No,No,,Recovered
+be0d9af5-be38-42dc-8b4b-0b58ae5070fd,25,3,34.1,Diabetes,Emergency,39,506,No,Prolonged labor,36.7,83,24,138,72,92.4,8.2,36.9,2.95,1.8,Staphylococcus aureus,Clean,Yes,41,Yes,Yes,7.0,Recovered
+f13c3204-0344-4743-bf6d-1f0253783b39,30,2,25.2,Diabetes,Elective,116,313,Yes,Prolonged labor,37.1,138,16,129,71,97.0,6.4,16.1,1.63,1.7,E. coli,Erythema,No,40,No,No,,Recovered
+10698fdf-5aa8-41c2-b5b5-3a1d83a34c90,25,3,21.1,Hypertension,Elective,61,909,No,Prolonged labor,37.3,136,14,137,65,97.1,12.3,42.5,4.71,3.3,E. coli,Clean,Yes,26,No,No,,Recovered
+826744cd-9269-4b57-95bb-54d098cbdfb8,26,4,31.9,Anemia,Emergency,45,1042,No,Prolonged labor,37.7,78,24,136,76,97.1,10.3,37.9,2.76,3.4,Staphylococcus aureus,Erythema,No,38,No,No,,Recovered
+bbffeec2-5b67-4476-938e-9365cb10d95d,38,2,23.9,Obesity,Emergency,85,1010,Yes,Prolonged labor,37.7,139,29,101,62,98.4,9.0,21.0,3.12,1.0,Negative,Clean,No,42,Yes,Yes,4.0,Recovered
+a9465a8e-5cfb-4fad-9a1d-912e8aea44a2,40,1,19.7,Hypertension,Elective,88,890,No,Fetal distress,36.0,68,24,126,73,98.7,9.6,-7.6,1.78,0.6,E. coli,Erythema,Yes,59,Yes,Yes,43.0,Recovered
+ccfe7335-c49b-4306-bb94-4898d94da817,28,5,20.0,Diabetes,Emergency,92,630,Yes,Prolonged labor,37.3,79,25,92,86,99.3,10.0,29.3,2.22,2.3,Klebsiella pneumoniae,Erythema,Yes,65,Yes,Yes,19.0,Recovered
+f1ab3431-31d4-4518-8a8d-5aa6ffad51a2,35,5,20.3,Hypertension,Emergency,58,722,No,Fetal distress,37.5,121,29,101,70,98.1,7.0,-23.4,3.27,2.3,Negative,Pus discharge,No,42,Yes,Yes,36.0,Recovered
+d6138950-9f8b-43af-8a5f-228d3db78ea7,26,2,26.4,Obesity,Emergency,52,742,Yes,Placenta previa,36.9,77,19,123,66,98.6,14.8,56.9,3.63,3.6,E. coli,Erythema,No,34,Yes,Yes,28.0,Recovered
+77c5908e-fe19-4c1d-b086-c41fad7f3212,25,4,33.3,Diabetes,Emergency,49,304,No,Fetal distress,36.8,63,26,108,82,98.1,9.3,25.7,0.22,1.1,Staphylococcus aureus,Clean,No,46,No,No,,Recovered
+db0ce34c-d9e4-4b92-8598-d0f30cfb5f8c,28,3,31.1,Obesity,Emergency,105,384,Yes,Fetal distress,35.6,73,18,135,63,95.1,8.0,15.7,1.69,0.8,Klebsiella pneumoniae,Clean,Yes,28,Yes,Yes,45.0,ICU
+b512a3a2-e8fe-4d1e-a6d1-fd6b1c7c7767,28,5,23.0,Anemia,Elective,100,1000,Yes,Previous C-section,37.1,62,14,137,75,93.8,10.4,18.2,2.41,3.3,Negative,Pus discharge,Yes,77,No,No,,Recovered
+dfba07bb-ef70-4eec-acfa-1d056b66303e,42,2,22.6,Anemia,Emergency,114,551,No,Fetal distress,36.9,88,25,122,78,95.5,8.9,-14.1,2.27,2.9,Negative,Clean,No,44,Yes,Yes,37.0,ICU
+f1caf306-2eba-4d55-8fca-fc34265f128a,31,3,33.3,Obesity,Elective,54,727,Yes,Previous C-section,36.8,101,23,133,84,96.0,13.9,-0.6,4.71,0.7,Negative,Clean,No,72,No,No,,Recovered
+3397ec2b-0446-4d11-b516-2cc3c9ecaab0,22,2,32.0,Hypertension,Emergency,77,345,No,Previous C-section,38.4,120,24,101,64,95.2,14.9,30.5,2.82,3.1,Staphylococcus aureus,Clean,Yes,27,No,No,,Recovered
+0d1822ef-6cb9-4077-9227-66ac5b797a38,32,1,30.2,None,Elective,42,1112,Yes,Previous C-section,36.4,119,23,93,67,96.4,6.9,24.7,1.44,3.5,E. coli,Erythema,No,28,No,No,,Recovered
+be5dfb98-3092-40a6-a404-2a5df982d389,42,1,31.5,Hypertension,Elective,34,1158,Yes,Prolonged labor,36.7,115,19,97,61,98.3,14.4,-0.9,2.28,1.1,E. coli,Clean,Yes,55,Yes,Yes,8.0,Mortality
+99ea2078-a048-476f-9a5b-d6f3bb01deee,30,2,28.6,Anemia,Elective,91,644,Yes,Fetal distress,36.9,89,16,92,72,96.2,4.6,31.4,2.45,3.7,Klebsiella pneumoniae,Erythema,Yes,71,Yes,Yes,33.0,Recovered
+84abae1c-3d10-4046-bb9f-fe2a33ac0265,37,1,23.9,None,Emergency,94,887,Yes,Fetal distress,37.2,84,13,100,77,97.4,9.8,11.2,3.35,3.9,Staphylococcus aureus,Clean,Yes,79,Yes,Yes,21.0,ICU
+6882630e-0514-4f55-9ae0-1aa4bfe6d046,22,2,32.5,None,Emergency,40,1067,Yes,Prolonged labor,37.2,137,23,137,64,92.6,10.5,10.0,4.34,3.6,Klebsiella pneumoniae,Clean,Yes,77,No,No,,Recovered
+70d90570-c108-4555-bdff-827256158535,45,2,24.3,Hypertension,Elective,38,1098,No,Placenta previa,36.8,62,18,140,60,93.6,6.7,42.1,1.18,1.0,E. coli,Clean,Yes,57,Yes,Yes,46.0,ICU
+a705635c-7e07-4429-93e4-aea916c3c82f,29,2,30.7,Diabetes,Elective,97,729,Yes,Placenta previa,37.4,134,14,113,79,95.4,13.4,15.0,0.95,3.0,Staphylococcus aureus,Clean,Yes,63,Yes,Yes,13.0,ICU
+ccf4d271-d2cb-497e-bfd0-92a7850f6b7e,25,2,33.5,Obesity,Emergency,97,690,Yes,Previous C-section,37.3,121,21,136,87,96.9,10.3,3.6,4.22,2.8,E. coli,Erythema,No,60,No,No,,Recovered
+6df97f1f-9753-4184-abbc-a96cbb69bf3e,21,3,34.1,Obesity,Emergency,50,428,Yes,Placenta previa,36.5,112,13,117,66,95.1,11.0,47.8,1.42,1.5,Negative,Erythema,No,31,Yes,Yes,17.0,Recovered
+d45a8202-3443-4a63-8053-59b691509891,36,3,21.6,Anemia,Emergency,48,662,Yes,Previous C-section,37.1,69,16,140,68,98.5,5.6,45.6,4.37,0.9,E. coli,Erythema,Yes,73,Yes,Yes,39.0,Mortality
+e785e6a7-694e-4b26-95da-75dc9263517a,27,4,24.3,Diabetes,Emergency,114,870,No,Prolonged labor,36.4,108,16,124,63,93.6,12.1,-10.0,4.72,2.8,Klebsiella pneumoniae,Pus discharge,No,53,No,No,,Recovered
+f2279891-dd84-4bfa-9e64-51d12509606a,28,0,24.9,Anemia,Emergency,98,337,Yes,Previous C-section,36.5,108,30,112,77,93.7,8.8,40.1,4.14,3.1,Negative,Pus discharge,Yes,72,Yes,Yes,20.0,ICU
+0bae0948-ed92-4d5b-acfd-ed961146fcfa,39,1,31.8,Hypertension,Emergency,76,753,Yes,Fetal distress,37.3,67,25,133,81,96.4,8.2,27.5,1.77,0.9,E. coli,Clean,No,20,Yes,Yes,15.0,ICU
+ce725b2f-cbed-44ff-a670-8a9159763fe1,19,0,20.2,Obesity,Emergency,89,509,No,Placenta previa,36.2,138,28,120,75,97.3,11.6,23.9,3.88,3.4,Staphylococcus aureus,Pus discharge,Yes,65,Yes,Yes,26.0,Recovered
+35c7be8b-4c89-49b5-92d7-2b9683bf2c30,45,5,29.8,Obesity,Elective,72,384,Yes,Previous C-section,35.7,77,27,99,72,92.6,9.8,22.2,4.45,2.8,E. coli,Clean,No,32,Yes,Yes,41.0,ICU
+dbc15255-41d3-4022-b0ae-7895a422aacf,41,0,20.1,Anemia,Emergency,102,723,Yes,Fetal distress,35.7,60,21,139,70,98.9,16.4,19.8,0.82,0.7,Klebsiella pneumoniae,Erythema,No,65,No,No,,Recovered
+22419e07-9e99-4ca5-bb14-55a448426caf,19,0,19.1,Anemia,Emergency,50,984,No,Previous C-section,37.1,117,16,130,76,92.8,9.5,9.0,2.6,3.0,Negative,Clean,No,73,No,No,,Recovered
+a19ede54-be7c-452b-b0fd-c13972aa116f,27,4,25.2,Obesity,Emergency,61,743,Yes,Previous C-section,38.2,99,25,109,67,93.9,11.0,51.5,1.9,2.6,Staphylococcus aureus,Pus discharge,No,50,Yes,Yes,36.0,ICU
+57cfad10-4198-4058-8299-e51007a90929,34,0,32.8,None,Elective,53,750,Yes,Previous C-section,38.6,102,29,116,79,92.3,6.3,26.9,4.39,3.6,Klebsiella pneumoniae,Pus discharge,No,76,Yes,Yes,25.0,Mortality
+d1095413-44c2-402f-8d23-73fc689d721d,19,5,21.0,Anemia,Emergency,113,1046,No,Prolonged labor,37.8,76,27,101,81,98.5,10.6,65.4,0.16,3.0,E. coli,Erythema,No,73,Yes,Yes,19.0,ICU
+9f75d96d-7475-431c-bdee-75d6991bc667,20,5,33.5,Hypertension,Emergency,49,832,Yes,Prolonged labor,37.5,80,19,124,77,96.9,9.3,69.6,4.08,2.3,E. coli,Clean,No,75,Yes,Yes,24.0,Mortality
+de3db38c-8d98-44b4-bfbd-6211ceff8eaa,22,3,26.6,Hypertension,Emergency,62,1054,Yes,Previous C-section,37.7,133,26,95,67,97.6,9.8,31.6,4.53,2.1,E. coli,Pus discharge,No,38,Yes,Yes,32.0,ICU
+efcb9ab9-1d05-445c-87ae-ba8a88f89a66,33,5,24.0,Obesity,Elective,105,1108,Yes,Prolonged labor,36.3,79,27,107,62,99.2,10.5,44.8,3.3,3.4,E. coli,Clean,No,30,No,No,,Recovered
+d3bcee24-9c4a-423e-a49a-d0de88552247,45,2,26.3,Hypertension,Elective,116,502,Yes,Fetal distress,37.6,123,25,113,79,96.9,15.9,43.5,4.63,2.5,E. coli,Erythema,Yes,26,Yes,Yes,2.0,Recovered
+d551caa5-1b94-4c0e-8604-ecc98d12ad6f,39,3,30.3,Hypertension,Emergency,42,487,No,Fetal distress,36.5,117,22,139,85,95.9,15.5,8.7,4.25,2.9,Negative,Clean,Yes,22,Yes,Yes,41.0,Recovered
+ab5ac1ee-5644-4fd8-a11c-202100d3a1e9,25,3,28.1,Diabetes,Emergency,105,1164,Yes,Fetal distress,37.4,115,23,91,62,94.5,15.7,53.7,0.49,1.7,Klebsiella pneumoniae,Clean,Yes,41,No,No,,Recovered
+04f71211-9a47-43bf-9e89-e90d47c847c8,24,0,27.1,Hypertension,Emergency,65,1003,No,Placenta previa,36.6,72,27,140,70,96.3,10.0,6.5,3.47,3.0,E. coli,Pus discharge,Yes,29,No,No,,Recovered
+940e34ce-6629-4165-8148-1d748488fd3d,24,2,18.2,Hypertension,Emergency,97,680,No,Prolonged labor,36.8,63,25,139,76,96.1,14.4,18.7,2.28,3.8,Klebsiella pneumoniae,Pus discharge,Yes,57,Yes,Yes,44.0,Mortality
+09e240a9-dec4-4e65-a16e-71486c1fc4cb,40,2,33.4,None,Emergency,56,961,Yes,Fetal distress,36.2,96,20,99,69,93.4,7.4,20.0,0.77,3.9,Staphylococcus aureus,Clean,No,31,Yes,Yes,22.0,ICU
+511295a2-643f-4778-81c5-d1688922ac7e,32,3,33.1,Anemia,Emergency,62,629,Yes,Prolonged labor,36.1,101,24,112,63,92.8,11.3,64.2,1.47,3.1,Negative,Erythema,Yes,56,Yes,Yes,38.0,Recovered
+1332ca17-60df-4bc1-b3a5-8237fbbd7ee6,37,4,18.7,Diabetes,Emergency,76,613,Yes,Placenta previa,38.7,116,14,103,75,98.6,8.4,48.7,4.03,1.3,E. coli,Clean,Yes,42,No,No,,Recovered
+58ab8d05-d0ed-4f45-8174-53f1a5470ceb,21,0,28.8,Hypertension,Emergency,71,488,Yes,Prolonged labor,36.2,104,19,136,87,99.3,13.3,1.1,3.32,1.0,Staphylococcus aureus,Pus discharge,No,23,Yes,Yes,25.0,ICU
+1f4ef394-a759-4fab-a0f9-a389ea8d1fbd,22,0,28.3,Hypertension,Elective,44,430,Yes,Fetal distress,37.5,105,28,139,74,95.2,10.1,25.5,2.36,3.5,E. coli,Clean,Yes,55,No,No,,Recovered
+6ae381e5-857e-4ca9-ac66-8e9c1be8494b,34,0,27.0,Diabetes,Emergency,78,823,No,Previous C-section,36.6,65,30,93,79,93.5,6.5,34.7,1.69,3.4,Klebsiella pneumoniae,Clean,No,48,Yes,Yes,9.0,Mortality
+4e2463b4-7514-48ef-af91-d87fb706debc,45,1,23.1,Anemia,Emergency,79,949,Yes,Prolonged labor,36.6,91,27,109,77,99.4,15.5,26.1,0.15,0.6,Staphylococcus aureus,Pus discharge,No,58,Yes,Yes,31.0,Recovered
+8902e8d2-65d0-4688-b65b-96690e1009a3,30,5,20.3,Obesity,Elective,72,824,Yes,Placenta previa,37.1,84,21,99,88,95.8,5.2,68.4,2.8,3.8,Negative,Erythema,Yes,29,Yes,Yes,41.0,Mortality
+e8d146b1-0f68-45af-89be-0fc6903d9ca6,33,2,27.5,Anemia,Elective,117,1185,Yes,Placenta previa,36.3,98,13,93,84,96.7,9.5,32.5,2.67,2.0,Staphylococcus aureus,Erythema,Yes,58,Yes,Yes,38.0,ICU
+8abfb3e7-085c-4db9-be16-3410c64fd91a,22,4,26.8,Anemia,Emergency,38,401,No,Prolonged labor,36.7,98,14,137,84,96.4,11.2,56.4,2.26,3.5,E. coli,Erythema,Yes,40,No,No,,Recovered
+17b751fe-7915-461f-83c0-0b02538e6306,22,1,20.7,Diabetes,Emergency,109,434,No,Fetal distress,36.6,123,25,134,83,93.8,13.6,26.8,4.76,1.8,E. coli,Pus discharge,Yes,63,Yes,Yes,37.0,ICU
+bbe3cff7-358b-46c4-9c13-a327040ce502,32,5,33.9,Diabetes,Emergency,38,818,Yes,Fetal distress,36.9,123,22,116,65,99.9,13.3,53.9,2.74,1.4,Negative,Clean,Yes,59,Yes,Yes,14.0,Mortality
+44703aad-7e69-4337-a939-df39ff3ee598,42,2,21.5,Anemia,Emergency,111,944,Yes,Prolonged labor,36.2,98,13,120,75,93.3,9.0,22.7,2.79,1.3,Klebsiella pneumoniae,Pus discharge,Yes,64,No,No,,Recovered
+d251c4c3-a1e3-4306-a201-121f3903c921,39,4,22.2,Anemia,Emergency,71,670,Yes,Placenta previa,35.2,128,28,91,60,99.4,10.6,10.7,3.01,3.4,Klebsiella pneumoniae,Pus discharge,No,52,No,No,,Recovered
+64ab017a-dd67-483f-bfa4-c62c41460310,20,2,18.6,Hypertension,Emergency,62,1060,Yes,Previous C-section,37.3,74,18,130,69,94.2,10.1,36.8,2.69,1.6,Negative,Pus discharge,Yes,20,No,No,,Recovered
+37fda795-07d6-45e3-9222-3abc4416e3ac,21,0,25.3,Anemia,Elective,109,1082,No,Placenta previa,37.4,135,20,118,68,96.9,9.0,10.6,4.08,2.8,Negative,Pus discharge,Yes,77,Yes,Yes,46.0,ICU
+0b679bbe-8b1e-4f4b-a810-b022cf3880dc,43,3,21.2,Diabetes,Elective,118,1034,Yes,Previous C-section,36.6,83,19,90,90,97.9,7.0,45.7,2.55,3.6,E. coli,Erythema,Yes,33,No,No,,Recovered
+60c931e2-6e53-4193-9ae7-75368e63f16f,38,0,33.4,Diabetes,Elective,109,1065,Yes,Placenta previa,36.9,71,12,117,62,99.3,12.0,32.5,3.2,2.7,E. coli,Erythema,Yes,33,Yes,Yes,16.0,Mortality
+4a8f5027-18b2-41c5-8a05-37d3fcb6f6ff,43,2,28.0,Diabetes,Elective,93,1129,No,Placenta previa,37.5,117,16,135,77,95.8,1.9,24.6,1.69,3.1,Klebsiella pneumoniae,Erythema,No,64,No,No,,Recovered
+dcb07306-892a-4fc0-b9aa-2ac188f1db7b,24,1,30.4,Anemia,Emergency,70,1171,No,Fetal distress,35.9,110,12,91,83,93.9,9.8,23.0,4.7,2.0,Klebsiella pneumoniae,Pus discharge,Yes,56,Yes,Yes,42.0,ICU
+04c7c396-061c-4c47-8786-a92d9eda9cb7,40,5,21.9,Diabetes,Emergency,94,451,Yes,Placenta previa,37.8,128,14,123,75,95.4,10.7,29.9,4.76,2.9,E. coli,Pus discharge,No,43,Yes,Yes,19.0,Mortality
+9d4aa2fa-488a-43da-9b8b-7f5aac7657be,21,1,24.7,Hypertension,Elective,106,637,Yes,Fetal distress,37.6,126,18,96,74,93.5,10.3,14.2,1.99,1.4,Klebsiella pneumoniae,Clean,No,80,No,No,,Recovered
+222fe981-e950-4038-8f97-0d27628e9369,25,1,29.4,Anemia,Elective,53,329,No,Prolonged labor,37.0,87,24,123,89,95.7,9.5,27.3,4.13,1.2,Staphylococcus aureus,Clean,No,36,No,No,,Recovered
+76798f2d-7c14-4614-9e3b-fb7e3f54943f,18,4,25.2,Diabetes,Emergency,75,921,No,Placenta previa,37.2,102,19,126,82,95.0,14.7,30.9,1.82,3.1,Klebsiella pneumoniae,Erythema,Yes,52,No,No,,Recovered
+5d0fe2fc-b459-4f06-9b87-b1dd2e1d618e,31,3,34.0,Anemia,Elective,33,473,No,Previous C-section,36.1,113,22,122,63,94.2,13.3,55.8,3.96,2.9,E. coli,Clean,Yes,77,No,No,,Recovered
+993ed52b-c6eb-4b9a-9a82-984cbb7a95cc,40,0,18.2,Hypertension,Elective,77,890,Yes,Previous C-section,36.3,93,21,110,76,95.4,9.3,31.9,1.09,3.3,E. coli,Pus discharge,Yes,51,Yes,Yes,19.0,Mortality
+35832af7-a779-4d01-a579-1de572c1637c,43,1,26.7,Obesity,Emergency,34,756,Yes,Prolonged labor,36.9,124,26,128,70,94.5,7.3,33.9,0.39,2.1,Staphylococcus aureus,Pus discharge,No,62,Yes,Yes,33.0,Mortality
+508463a0-4b00-4ca1-bf55-e628d49bf065,36,4,19.6,Diabetes,Elective,44,894,No,Fetal distress,39.3,111,18,131,87,97.8,9.6,16.1,1.37,2.9,Klebsiella pneumoniae,Clean,Yes,73,Yes,Yes,37.0,Mortality
+bd89a28e-6186-46bf-902c-f6d04f1453cf,18,0,20.1,None,Emergency,113,442,No,Prolonged labor,37.3,64,15,129,72,94.6,12.4,23.0,4.74,2.6,Klebsiella pneumoniae,Pus discharge,No,33,No,No,,Recovered
+fe7ce1f7-acaf-4803-91dd-a65a0c49108c,32,0,32.3,None,Elective,120,896,No,Prolonged labor,37.2,137,18,117,66,99.5,8.9,30.1,3.53,3.6,Negative,Pus discharge,Yes,21,No,No,,Recovered
+afa0b72d-e534-4577-ad4a-6be20f1fe780,24,3,34.7,Obesity,Emergency,45,422,No,Prolonged labor,38.1,78,15,109,64,94.7,8.6,9.4,3.04,1.6,E. coli,Pus discharge,Yes,35,Yes,Yes,15.0,Mortality
+c8aaebc3-a6af-4e40-8968-58b60ff28287,40,3,18.9,Hypertension,Emergency,106,746,Yes,Previous C-section,35.0,140,21,104,87,96.3,14.4,47.0,2.42,3.9,E. coli,Pus discharge,No,26,Yes,Yes,14.0,Mortality
+a7a742fd-8ffc-4055-9741-1a810dc8878a,28,5,31.0,Obesity,Emergency,108,413,No,Placenta previa,36.7,134,21,114,80,92.9,5.2,16.4,0.09,2.7,Negative,Erythema,Yes,53,No,No,,Recovered
+f4c6eb46-ff41-412e-bf4d-9b467379e47a,39,0,28.5,Hypertension,Emergency,113,1185,No,Fetal distress,36.3,119,13,117,87,92.4,8.9,39.9,1.1,3.1,Staphylococcus aureus,Pus discharge,Yes,70,Yes,Yes,42.0,Recovered
+38c67c65-e382-423b-98a1-d322f42840d0,29,2,33.4,Obesity,Elective,78,546,No,Placenta previa,37.6,129,22,91,62,92.8,7.6,38.8,0.91,3.8,E. coli,Erythema,Yes,73,No,No,,Recovered
+499d1bdc-2ca2-46dd-99fb-0a897c40f80f,26,2,23.9,None,Elective,41,761,No,Fetal distress,38.7,73,16,114,82,97.0,9.1,8.6,3.53,1.4,Klebsiella pneumoniae,Clean,No,34,Yes,Yes,13.0,Mortality
+aa3d9e96-961a-4ad8-abca-9a68bcb9603e,41,0,29.4,Anemia,Elective,38,1145,No,Prolonged labor,36.9,114,16,115,70,95.7,10.8,47.2,2.92,2.8,Klebsiella pneumoniae,Clean,No,73,Yes,Yes,34.0,Recovered
+a7cbe5e1-10e1-40f5-9af4-c0ac425bcda5,29,4,29.0,Hypertension,Elective,30,832,No,Prolonged labor,35.5,76,24,122,78,98.9,14.6,13.9,0.71,3.5,E. coli,Clean,Yes,27,No,No,,Recovered
+1ad7914f-12b8-4ff1-9cd6-3e90088dd907,45,4,21.9,Obesity,Emergency,104,785,Yes,Placenta previa,36.2,95,27,100,60,94.1,14.6,-13.1,3.79,3.5,Staphylococcus aureus,Pus discharge,No,37,Yes,Yes,37.0,Mortality
+c8a15f50-4980-41b6-9f21-5b6acf25712f,20,4,21.3,Obesity,Elective,61,660,No,Placenta previa,35.4,89,30,97,63,99.5,11.0,36.6,3.13,1.1,Negative,Pus discharge,No,73,Yes,Yes,26.0,Mortality
+3b0dcc3a-0965-4b3a-aca6-cae69ff1e9d4,34,3,33.9,Obesity,Elective,107,624,Yes,Placenta previa,37.7,134,20,98,78,98.5,5.3,26.7,3.25,0.5,Negative,Clean,No,41,No,No,,Recovered
+16b9cee6-18da-4b41-8284-4a0b5528e266,31,5,33.0,Anemia,Elective,62,499,Yes,Placenta previa,39.2,121,22,114,74,93.9,9.6,6.0,1.39,3.3,Staphylococcus aureus,Pus discharge,No,44,No,No,,Recovered
+eb86b16e-d5c6-44e9-a5bc-61c8830c1ba2,31,3,27.1,Hypertension,Elective,80,1068,Yes,Previous C-section,37.6,111,23,112,85,92.0,9.7,8.0,4.97,1.2,Negative,Pus discharge,No,65,No,No,,Recovered
+cfdc6cf7-3cc7-4d1e-98c1-e2d2f048c680,26,3,19.5,Anemia,Emergency,73,338,Yes,Previous C-section,37.1,73,17,98,60,97.6,11.4,33.8,0.77,2.7,Staphylococcus aureus,Pus discharge,No,61,No,No,,Recovered
+b21f3e7f-5f2b-40ff-ae75-139ac225267e,19,1,20.7,Obesity,Elective,51,1151,Yes,Prolonged labor,37.7,124,20,96,76,95.7,12.9,45.0,4.21,3.7,Staphylococcus aureus,Erythema,No,65,No,No,,Recovered
+b5911688-27b6-4d6d-b543-eb77a628465a,34,4,26.8,Diabetes,Elective,43,319,Yes,Fetal distress,37.0,104,19,112,79,92.8,7.5,29.0,2.08,1.1,Staphylococcus aureus,Pus discharge,No,51,No,No,,Recovered
+12ae0c5d-b0e3-496a-9c52-ff21203b6648,43,4,34.6,Hypertension,Emergency,120,1059,Yes,Previous C-section,37.5,89,13,129,79,95.6,10.3,39.4,4.32,2.9,Negative,Erythema,Yes,69,Yes,Yes,46.0,Mortality
+58e78485-d603-46b2-b514-55ffdffdb024,26,2,21.4,None,Emergency,52,563,Yes,Prolonged labor,36.8,63,12,116,83,92.4,10.6,53.5,2.18,3.6,E. coli,Pus discharge,No,74,No,No,,Recovered
+675e18e6-016e-4277-bdd6-fccac781fd58,20,0,33.5,Hypertension,Elective,111,1104,Yes,Previous C-section,36.3,123,24,137,63,94.6,10.5,6.6,3.77,1.6,Klebsiella pneumoniae,Erythema,Yes,74,No,No,,Recovered
+41c4f3bd-3402-4f63-b545-6c3d98bfdba4,33,4,30.9,Hypertension,Elective,76,678,Yes,Placenta previa,37.7,133,21,99,78,98.1,10.2,10.7,1.14,1.4,Staphylococcus aureus,Erythema,Yes,73,Yes,Yes,30.0,Mortality
+74691dac-4a21-49fd-995c-18502aa6e2de,29,5,27.6,Hypertension,Elective,115,343,Yes,Fetal distress,37.3,127,24,107,63,94.7,7.1,32.8,4.12,0.9,Klebsiella pneumoniae,Erythema,No,42,Yes,Yes,16.0,Mortality
+3055a157-4edf-49e8-b425-4b2cf2ce1746,37,0,33.7,Obesity,Emergency,31,900,Yes,Previous C-section,36.3,73,21,122,71,99.6,9.3,17.9,5.0,2.5,Klebsiella pneumoniae,Pus discharge,No,66,Yes,Yes,21.0,Recovered
+c576533d-aae5-4a15-bdbb-cf716c11f86a,29,1,31.4,None,Emergency,68,760,No,Fetal distress,38.3,134,26,122,62,97.5,13.0,-0.4,4.72,3.2,Negative,Clean,No,74,No,No,,Recovered
+f0fe9fee-87b6-478e-b797-1cce7535ecc0,34,2,18.6,Anemia,Elective,56,673,No,Previous C-section,36.9,73,23,90,89,96.3,11.9,27.6,0.28,1.0,Staphylococcus aureus,Pus discharge,Yes,33,Yes,Yes,24.0,ICU
+87b2c7f3-a86a-40c6-b1e7-6eb7cbac3660,19,1,18.2,Anemia,Elective,103,1057,Yes,Placenta previa,37.4,120,13,139,78,98.7,6.8,2.3,3.92,3.8,Klebsiella pneumoniae,Erythema,Yes,65,Yes,Yes,10.0,Recovered
+ba91ed49-a212-4d9f-9af0-d9bbf4a77657,35,1,33.0,Anemia,Elective,76,1129,No,Previous C-section,35.9,109,18,104,61,95.3,9.0,9.4,4.02,3.6,Staphylococcus aureus,Pus discharge,Yes,77,No,No,,Recovered
+6715f63c-7a8a-433d-bf74-26949e0bcd33,22,0,29.3,Diabetes,Emergency,40,1039,Yes,Fetal distress,36.8,70,19,126,77,99.7,12.0,40.4,2.87,2.1,Staphylococcus aureus,Erythema,No,37,No,No,,Recovered
+b8603cb6-6520-43a0-b675-5dbc3a4e2a96,32,4,21.4,Hypertension,Emergency,109,753,Yes,Prolonged labor,36.8,125,20,137,79,93.6,17.1,36.0,3.64,2.5,Negative,Clean,Yes,41,No,No,,Recovered
+1f0eb163-f548-4136-96e1-3ac36f45056c,42,1,27.8,Hypertension,Emergency,117,1027,No,Fetal distress,37.9,80,22,136,75,93.0,11.9,64.5,3.59,1.4,Klebsiella pneumoniae,Erythema,No,40,Yes,Yes,5.0,Mortality
+429c46c7-27ca-41bf-8ec8-5d7b8fea2750,30,4,23.0,Anemia,Elective,117,597,Yes,Placenta previa,37.6,70,21,112,75,96.4,10.1,36.6,2.05,2.4,Staphylococcus aureus,Clean,Yes,31,Yes,Yes,1.0,Recovered
+40fd433b-c171-4598-a482-955a9602f43e,35,1,29.9,None,Emergency,60,306,Yes,Prolonged labor,37.1,127,22,114,86,97.0,8.8,32.5,2.45,1.6,Negative,Pus discharge,No,41,Yes,Yes,33.0,Recovered
+3177c997-0ad8-492b-bd33-6fa280c039e3,20,0,19.0,Anemia,Elective,112,768,Yes,Previous C-section,36.5,63,29,127,86,94.3,10.5,68.0,0.79,2.8,Negative,Clean,Yes,60,No,No,,Recovered
+f0b7d1b0-d1d2-497e-b01a-ea9b7494a922,24,4,28.7,None,Elective,69,655,No,Placenta previa,36.9,72,22,91,69,92.4,8.8,27.9,1.06,1.8,E. coli,Pus discharge,Yes,57,No,No,,Recovered
+e683166c-9ec3-43d8-b5a2-cf8327d1aa3d,36,0,24.9,Anemia,Emergency,85,961,No,Previous C-section,36.1,121,29,122,73,92.2,13.9,21.2,2.53,1.2,Staphylococcus aureus,Erythema,No,44,Yes,Yes,15.0,ICU
+f4809c17-6238-4942-8b18-4ceeb55742aa,23,5,30.6,Anemia,Emergency,47,381,Yes,Prolonged labor,36.4,72,28,131,78,94.6,11.8,11.0,0.24,1.7,Klebsiella pneumoniae,Clean,No,71,No,No,,Recovered
+41afddda-2f42-4c0f-9f97-e646709e8fd0,18,5,18.9,Diabetes,Emergency,93,1111,Yes,Previous C-section,35.7,74,19,93,79,96.1,11.4,16.3,4.15,2.4,E. coli,Erythema,Yes,47,Yes,Yes,42.0,Recovered
+6ccea627-ccf4-4381-b3b7-459158de9286,28,2,30.6,None,Elective,41,832,Yes,Placenta previa,38.1,84,29,111,76,95.0,14.1,50.5,2.25,3.5,Klebsiella pneumoniae,Pus discharge,No,48,No,No,,Recovered
+165bd5c5-7162-4d00-9013-edd331ecf56f,41,3,23.2,Anemia,Elective,68,443,Yes,Previous C-section,38.1,63,21,133,63,94.1,12.0,-7.1,3.78,3.0,Negative,Erythema,Yes,65,No,No,,Recovered
+54deab4c-5831-4e09-ab81-e8240cf813a6,18,5,20.2,Hypertension,Elective,51,827,No,Previous C-section,37.4,81,18,132,78,98.4,4.4,23.3,4.21,3.2,E. coli,Erythema,No,42,No,No,,Recovered
+3c0dbc39-a277-4549-ae82-c777b721cf6f,40,5,20.6,Obesity,Emergency,112,587,Yes,Fetal distress,36.0,64,12,120,69,96.4,10.8,37.1,1.08,1.9,E. coli,Pus discharge,No,26,Yes,Yes,18.0,Mortality
+1c6f5dc3-e0a9-4a6d-995e-afe6d80d49ab,31,0,29.3,Anemia,Emergency,98,557,No,Placenta previa,36.1,135,25,91,87,97.2,6.3,45.5,1.02,2.8,Staphylococcus aureus,Pus discharge,No,60,No,No,,Recovered
+d9deda2b-a70e-4346-b87a-1912e0e0bec8,37,1,19.1,Anemia,Emergency,31,883,Yes,Previous C-section,36.5,123,16,137,81,97.1,8.7,72.8,3.31,2.7,Negative,Clean,Yes,21,No,No,,Recovered
+e8485dad-8fb7-4765-98c7-9911cd6dde7a,33,5,21.4,Diabetes,Emergency,89,1061,Yes,Fetal distress,36.5,118,23,136,71,99.6,9.9,37.7,0.75,3.0,Negative,Pus discharge,Yes,65,No,No,,Recovered
+50397ec4-5c6e-4ffe-b4da-d8f0459f459f,35,3,31.7,Anemia,Emergency,81,1036,Yes,Placenta previa,38.8,112,13,102,89,96.8,7.2,30.1,4.4,1.6,E. coli,Erythema,No,57,No,No,,Recovered
+57a95056-66b5-4bce-bf66-88f34de2b7b4,32,3,23.0,Hypertension,Elective,69,1017,Yes,Fetal distress,37.1,67,24,123,65,93.7,11.3,35.8,3.84,2.1,E. coli,Erythema,No,36,No,No,,Recovered
+3ee2e474-5fa5-4eaa-bdf5-bf23cba44d03,38,2,28.7,Hypertension,Emergency,82,606,No,Previous C-section,37.1,102,19,133,71,92.7,9.6,55.8,3.49,2.0,E. coli,Pus discharge,Yes,63,No,No,,Recovered
+79b3f023-14f8-4d77-b0db-6c91f4d9cd0f,21,5,18.9,Obesity,Elective,71,397,No,Fetal distress,37.6,117,21,139,66,94.8,10.0,36.6,3.97,1.9,Negative,Erythema,Yes,27,Yes,Yes,39.0,Recovered
+40ea6ce9-16bb-4f59-af42-26afd35aca9b,35,0,28.4,Diabetes,Emergency,70,604,Yes,Placenta previa,37.9,75,24,129,84,93.5,10.6,26.2,4.23,3.6,Negative,Clean,Yes,39,Yes,Yes,39.0,Mortality
+9f844485-d5ca-4919-a991-3f91f79020be,39,4,31.8,Anemia,Elective,95,404,Yes,Previous C-section,37.7,94,22,133,82,98.1,11.6,53.9,3.38,2.7,E. coli,Pus discharge,No,22,Yes,Yes,9.0,ICU
+fd2509eb-a8c5-4c84-9978-72c9a3303dc1,20,3,27.6,Obesity,Emergency,34,418,No,Fetal distress,37.1,103,20,108,60,95.4,12.8,45.6,1.27,3.1,E. coli,Clean,Yes,56,Yes,Yes,13.0,Recovered
+1afe8c0e-4ddd-4914-9b90-1b50e1fa8ea5,38,1,29.6,Diabetes,Elective,36,370,No,Fetal distress,37.2,84,29,107,88,98.3,10.4,66.6,2.89,3.9,E. coli,Pus discharge,No,28,No,No,,Recovered
+dd09485f-c730-4f5d-a7f5-828b9606ad64,35,3,27.8,Hypertension,Emergency,42,1035,Yes,Prolonged labor,36.5,69,14,115,60,97.9,10.5,37.3,3.47,2.6,Negative,Pus discharge,No,45,Yes,Yes,31.0,Recovered
+8eda42fb-7682-4591-8a80-053050bebed3,45,4,31.1,Anemia,Elective,34,709,Yes,Prolonged labor,38.0,120,24,131,76,92.9,10.8,20.6,3.36,2.2,E. coli,Pus discharge,Yes,55,No,No,,Recovered
+53b8fcc1-96df-45f6-98ef-7bb3a636450d,31,1,30.2,Anemia,Emergency,38,892,Yes,Previous C-section,37.8,93,29,93,64,98.2,10.9,29.7,3.46,3.7,Staphylococcus aureus,Erythema,No,41,No,No,,Recovered
+935bf3dc-82dc-4c53-84c3-ddefde2ca70a,32,3,19.3,None,Elective,117,428,Yes,Prolonged labor,37.1,75,26,109,84,92.5,10.5,8.8,2.4,2.2,Klebsiella pneumoniae,Erythema,Yes,39,Yes,Yes,6.0,ICU
+b77a51ef-3f9e-4e06-8da4-af7973cbc47c,19,0,33.0,Hypertension,Elective,40,767,Yes,Fetal distress,36.2,91,25,100,80,99.5,11.1,47.7,3.86,2.3,Staphylococcus aureus,Clean,No,56,Yes,Yes,30.0,Mortality
+117e20b7-60ae-4793-805e-c03afa4ce0c8,43,3,19.2,Hypertension,Emergency,81,342,No,Prolonged labor,37.7,60,15,96,82,99.9,13.8,27.8,1.53,3.5,Klebsiella pneumoniae,Pus discharge,No,31,No,No,,Recovered
+bfd975a5-4ede-4abe-a787-6c327566e872,32,5,22.7,Obesity,Elective,100,992,No,Prolonged labor,37.2,111,19,125,85,96.1,9.3,11.1,2.71,1.9,Klebsiella pneumoniae,Erythema,No,74,Yes,Yes,40.0,ICU
+76ec45aa-8d04-4174-9715-8046d23ff6de,36,2,22.0,None,Emergency,105,910,No,Prolonged labor,36.9,92,25,128,77,94.5,6.7,29.1,1.18,3.0,E. coli,Clean,No,60,No,No,,Recovered
+66e5fb63-3cc3-47c4-aafa-8aa5e32bd41b,18,1,19.6,Obesity,Emergency,98,560,No,Prolonged labor,37.4,114,21,129,89,93.8,14.8,21.0,3.23,1.3,Klebsiella pneumoniae,Pus discharge,Yes,35,No,No,,Recovered
+bf41960c-114a-409a-905b-e23ef33f2ecd,39,3,22.8,Diabetes,Elective,35,735,No,Placenta previa,37.7,98,25,133,80,94.4,7.2,30.7,3.46,1.9,Negative,Pus discharge,Yes,39,Yes,Yes,22.0,Mortality
+456ed3c0-e2b4-4e70-8549-71d09219157b,36,5,22.1,None,Elective,85,1159,Yes,Fetal distress,36.9,84,20,124,68,93.0,10.0,37.6,2.3,3.5,E. coli,Clean,No,41,No,No,,Recovered
+f481f053-d72e-4f70-8f33-0908a191d390,32,3,24.1,Hypertension,Elective,39,703,No,Placenta previa,36.9,130,26,116,81,96.6,8.3,68.3,2.08,3.1,Negative,Clean,Yes,53,No,No,,Recovered
+36c7f82c-625c-478e-b7bd-7b4d6467a05a,20,2,21.3,None,Emergency,44,772,No,Previous C-section,37.8,114,27,90,83,92.3,8.6,36.9,2.78,3.4,Klebsiella pneumoniae,Pus discharge,Yes,79,Yes,Yes,15.0,ICU
+22738afa-b0d7-4ccd-9a7e-63fd9a31bf0e,37,3,20.4,None,Emergency,120,566,Yes,Previous C-section,37.9,90,28,127,67,95.3,12.0,23.3,2.93,1.3,Klebsiella pneumoniae,Clean,No,76,No,No,,Recovered
+45825ed6-8508-45e1-b9e6-024bea37a6a0,32,3,25.7,Obesity,Elective,103,1077,Yes,Prolonged labor,37.3,71,12,102,87,95.8,11.0,61.1,1.83,3.3,Klebsiella pneumoniae,Clean,Yes,52,Yes,Yes,17.0,Recovered
+c5947377-3f5a-432c-b5b5-6f0964e9703a,21,0,18.4,Diabetes,Elective,93,553,Yes,Prolonged labor,37.3,72,23,100,82,97.8,10.5,12.6,4.68,2.2,Klebsiella pneumoniae,Pus discharge,No,29,Yes,Yes,31.0,ICU
+a614406d-c54d-4e0d-bf7d-49c882ab3ad6,45,0,33.9,Hypertension,Emergency,79,511,Yes,Fetal distress,37.3,120,13,121,64,99.7,8.9,13.0,2.29,1.9,Negative,Erythema,Yes,75,Yes,Yes,4.0,Recovered
+c87c0c8b-fc4e-41a8-91f0-d8c10275ad15,27,5,34.8,Hypertension,Elective,62,397,No,Prolonged labor,36.6,79,29,105,85,99.5,11.2,46.7,4.89,1.2,E. coli,Erythema,No,35,No,No,,Recovered
+76fb4b8b-4623-48c7-a66c-de01bac072c0,38,0,27.0,Hypertension,Emergency,98,1119,Yes,Previous C-section,37.3,74,15,132,87,92.4,7.9,-8.1,4.35,1.6,Staphylococcus aureus,Erythema,No,73,Yes,Yes,21.0,Recovered
+02784435-23a1-42c4-a554-22cecdb740a9,25,1,23.2,None,Elective,89,974,Yes,Fetal distress,36.5,70,30,96,75,95.8,13.8,29.3,1.78,3.2,Klebsiella pneumoniae,Erythema,Yes,76,No,No,,Recovered
+26ad0c6e-f455-40a4-b110-d21938a9bd9b,19,3,23.5,Anemia,Elective,96,326,Yes,Previous C-section,37.4,128,14,137,71,100.0,4.3,19.7,2.09,1.2,Staphylococcus aureus,Pus discharge,Yes,47,Yes,Yes,47.0,Mortality
+3fff9c70-6c9f-4546-b468-050ae808fc67,31,4,23.9,None,Emergency,109,609,Yes,Previous C-section,35.3,102,17,140,72,96.4,8.5,23.2,1.46,0.6,Klebsiella pneumoniae,Clean,No,46,No,No,,Recovered
+164a8ee9-3f34-4687-bcf2-51d84610e854,45,2,25.6,Diabetes,Emergency,118,1056,No,Fetal distress,36.3,121,16,128,85,98.9,10.3,0.0,4.54,3.6,E. coli,Pus discharge,No,75,Yes,Yes,30.0,Mortality
+54ec472b-73be-4da3-a861-42581b6eac21,42,1,20.6,Obesity,Emergency,55,580,Yes,Prolonged labor,37.5,138,24,91,74,95.9,15.0,32.1,3.69,2.1,E. coli,Pus discharge,No,60,No,No,,Recovered
+dd0989c9-0e6b-4f00-aa57-db15f5b5da6f,31,2,33.9,Obesity,Elective,87,529,No,Prolonged labor,36.2,72,28,117,60,99.3,5.0,34.2,2.89,1.9,E. coli,Clean,Yes,57,No,No,,Recovered
+37d9ea41-de8d-4970-afae-39be5430af90,36,5,32.5,Anemia,Emergency,49,1040,Yes,Previous C-section,36.1,124,20,96,80,93.2,10.7,14.3,1.53,2.9,Negative,Clean,No,79,Yes,Yes,35.0,ICU
+6c018951-d452-4670-b96c-ba9e2b3dc043,20,3,32.2,Obesity,Elective,61,553,Yes,Previous C-section,38.3,114,17,112,77,99.2,11.5,26.8,1.96,3.7,E. coli,Clean,No,33,No,No,,Recovered
+123524a0-e57a-4f55-9c01-01bbb5a94fc4,27,5,34.1,Anemia,Emergency,80,484,No,Previous C-section,37.1,68,14,92,77,96.8,9.4,10.5,4.49,0.8,E. coli,Pus discharge,No,80,No,No,,Recovered
+e9df073a-a4c4-4899-a99a-5605c7fbdf8c,45,0,32.3,Obesity,Elective,111,361,Yes,Fetal distress,37.6,97,14,118,78,95.0,5.0,9.3,0.12,1.1,Negative,Clean,No,39,Yes,Yes,33.0,Mortality
+29352dab-14e6-4f51-8b0d-1a537c8ef3f0,18,2,27.4,Obesity,Elective,90,461,Yes,Previous C-section,36.8,139,28,94,89,95.9,15.5,27.9,1.33,0.8,Negative,Clean,No,55,Yes,Yes,24.0,Recovered
+370f59aa-513b-4991-a164-c41d7a62b81c,19,5,27.1,Hypertension,Elective,80,322,No,Prolonged labor,38.0,133,27,126,69,95.4,8.0,28.0,1.33,3.9,E. coli,Clean,Yes,50,Yes,Yes,38.0,Recovered
+9fbe4de3-9aff-4356-b647-a156b1b7fda2,36,5,21.9,Obesity,Emergency,56,1020,Yes,Prolonged labor,36.6,136,24,125,60,95.6,6.5,44.0,0.5,1.4,Negative,Pus discharge,No,23,Yes,Yes,14.0,Mortality
+f6995790-dd7e-4f9d-ba4f-346c22bc30ea,22,3,33.3,None,Emergency,40,973,No,Fetal distress,36.5,112,26,102,85,92.7,11.6,40.0,4.56,1.6,Staphylococcus aureus,Pus discharge,No,62,Yes,Yes,48.0,Mortality
+009561ed-0fa4-46a2-99c6-83d0b7781c9a,25,0,18.6,Diabetes,Elective,37,685,Yes,Fetal distress,36.7,62,22,135,75,95.3,11.9,18.8,1.44,1.0,Negative,Erythema,No,58,No,No,,Recovered
+c5d27cd2-bc39-4d0c-af04-4411ef3fc30c,36,3,25.2,Anemia,Elective,73,752,No,Previous C-section,36.9,110,12,103,75,95.8,13.0,2.5,0.39,1.1,Staphylococcus aureus,Pus discharge,No,50,Yes,Yes,12.0,Recovered
+e30b0db9-fea5-4baa-86dd-975c9b6f7804,18,3,29.0,Diabetes,Emergency,104,591,No,Previous C-section,36.3,66,25,134,89,93.0,9.1,58.9,2.49,1.8,Klebsiella pneumoniae,Clean,No,60,No,No,,Recovered
+b2bed739-dba7-48b3-92bc-84b5e60b4af2,45,3,22.9,Obesity,Emergency,78,466,No,Fetal distress,36.8,124,19,129,85,97.8,10.2,43.0,2.39,3.1,Negative,Erythema,Yes,77,Yes,Yes,20.0,ICU
+04196b23-cbbe-4fc3-bd7b-844a4235e3f7,44,3,30.9,Diabetes,Emergency,108,471,Yes,Previous C-section,36.5,125,15,90,74,97.2,8.1,41.0,4.39,3.8,Negative,Pus discharge,No,23,No,No,,Recovered
+4b0d366e-aa8f-42f2-a72f-9dd1c3423d7a,33,5,21.0,Diabetes,Emergency,62,801,No,Placenta previa,36.3,102,20,111,85,98.4,16.6,9.4,4.78,2.5,Negative,Erythema,Yes,33,No,No,,Recovered
+a9c320a3-1680-4a81-8fa5-4f3ea0e75790,24,3,30.2,None,Emergency,32,1038,No,Prolonged labor,37.3,85,19,96,83,98.2,11.8,30.1,4.98,3.4,E. coli,Erythema,Yes,73,Yes,Yes,30.0,ICU
+e52d8213-ca1e-48da-82c3-df53c2642775,31,0,24.7,Obesity,Emergency,64,1068,Yes,Placenta previa,37.4,67,20,90,80,95.5,5.7,26.0,0.85,3.7,E. coli,Clean,No,79,No,No,,Recovered
+b1daff57-39ad-4dec-b512-df96a8bc775a,33,2,24.8,None,Emergency,64,521,Yes,Previous C-section,36.6,87,26,94,81,99.1,8.4,51.9,0.95,3.2,E. coli,Pus discharge,No,79,No,No,,Recovered
+81512835-e511-4f57-977c-9b56716e40ad,41,5,20.7,Diabetes,Elective,58,840,No,Placenta previa,36.8,116,28,140,60,98.4,6.6,39.7,3.85,1.5,Negative,Pus discharge,Yes,61,Yes,Yes,48.0,Mortality
+fba822c1-d301-4a60-a495-53ad2cb1d81d,35,4,27.0,Obesity,Elective,78,475,Yes,Prolonged labor,36.9,62,17,140,80,97.5,13.0,19.6,0.22,0.7,E. coli,Erythema,No,67,No,No,,Recovered
+a90ef563-0709-479a-bd02-1c94a828cf13,36,3,34.5,Anemia,Emergency,68,482,Yes,Fetal distress,36.7,97,18,126,84,95.6,6.7,33.3,3.09,3.4,Negative,Pus discharge,No,77,Yes,Yes,21.0,Recovered
+b1b10f61-af57-4255-b4fe-f7566a3b3d73,20,2,22.5,Obesity,Elective,54,661,No,Previous C-section,37.9,114,29,126,81,97.1,11.5,18.5,0.2,1.1,Negative,Erythema,No,38,Yes,Yes,20.0,ICU
+e2a8e4e0-7ff2-418a-ac38-77492eb32e17,38,4,27.7,Obesity,Elective,50,607,Yes,Prolonged labor,35.9,62,27,116,66,97.7,7.1,55.0,4.25,4.0,E. coli,Erythema,No,70,No,No,,Recovered
+69a10cb4-e672-4d54-b944-0538147f4f08,25,3,22.8,Diabetes,Emergency,98,948,Yes,Placenta previa,37.4,132,22,95,89,93.1,6.7,31.2,4.42,2.4,E. coli,Pus discharge,No,65,No,No,,Recovered
+416eb534-7707-41b9-943c-0f46e0c0f3be,35,1,24.4,Anemia,Emergency,119,1117,No,Fetal distress,37.5,106,26,116,61,97.6,7.7,53.6,1.47,1.8,Klebsiella pneumoniae,Clean,Yes,66,No,No,,Recovered
+c34fb2d8-f493-4126-9ad2-79e65d5e2be3,19,0,19.9,Obesity,Elective,111,1137,Yes,Previous C-section,39.3,133,14,134,61,96.8,11.5,19.8,1.31,3.5,Staphylococcus aureus,Pus discharge,Yes,56,No,No,,Recovered
+ab886717-4884-48cf-bbf8-8ed52a385482,37,0,28.0,Diabetes,Elective,61,632,Yes,Prolonged labor,36.6,140,27,128,61,92.8,6.1,21.4,4.69,1.9,E. coli,Clean,Yes,34,Yes,Yes,27.0,Mortality
+f258fdbe-c8ef-49a9-a1be-076dec829070,44,0,24.6,Hypertension,Emergency,106,909,Yes,Prolonged labor,36.7,89,14,94,61,99.9,9.2,11.8,3.99,3.6,Klebsiella pneumoniae,Clean,No,63,No,No,,Recovered
+aee476fb-fc94-4c49-aabe-70e46b0818ea,37,0,21.4,Diabetes,Elective,81,355,Yes,Placenta previa,37.2,86,24,129,68,99.3,4.7,19.5,1.01,2.4,Klebsiella pneumoniae,Pus discharge,Yes,50,Yes,Yes,44.0,Mortality
+e698aca2-aec8-4226-9c0a-c8219e9643f2,30,5,28.7,Hypertension,Emergency,84,1098,Yes,Prolonged labor,36.0,64,30,113,82,93.0,16.3,52.1,0.14,1.7,Negative,Erythema,No,25,Yes,Yes,31.0,Mortality
+d09590da-e750-4e5f-b2b3-ea681b90f431,38,5,33.3,Anemia,Emergency,108,797,No,Placenta previa,36.5,127,28,97,75,93.6,7.8,49.8,0.11,0.8,Negative,Pus discharge,No,21,Yes,Yes,20.0,Recovered
+ee51c26d-0fd1-4f26-895f-ef83d9ee5bed,35,5,18.0,None,Emergency,37,545,No,Previous C-section,36.7,127,12,115,80,97.5,7.5,42.5,1.56,3.4,Negative,Clean,No,76,Yes,Yes,29.0,Mortality
+6fd75161-30e1-4d4a-bf30-2ad6d4c4199d,35,3,23.5,Obesity,Elective,39,482,No,Prolonged labor,38.5,97,18,98,72,93.6,10.5,33.2,4.64,1.1,Klebsiella pneumoniae,Clean,Yes,74,No,No,,Recovered
+84bfa20e-aa2f-4efc-941a-d66d58f8b59d,39,0,29.9,Hypertension,Emergency,45,1156,No,Fetal distress,37.0,110,30,126,82,99.7,7.9,42.7,0.89,0.6,Klebsiella pneumoniae,Pus discharge,No,59,No,No,,Recovered
+774705c4-796d-491a-b199-3393973dd432,37,2,30.8,Anemia,Elective,103,683,No,Fetal distress,37.8,123,25,113,70,94.7,3.4,24.8,1.59,0.7,Negative,Clean,No,39,Yes,Yes,11.0,ICU
+61bf2479-dc1a-4771-8764-2a0eac1e58d2,34,3,31.4,Obesity,Emergency,108,375,No,Previous C-section,36.9,121,30,97,64,96.1,6.0,11.6,4.87,3.0,Klebsiella pneumoniae,Erythema,No,26,Yes,Yes,46.0,Recovered
+d16caa33-ed94-44f6-849c-9288e2c2e4a9,26,2,32.0,Diabetes,Elective,52,473,No,Prolonged labor,39.0,137,30,137,68,98.6,12.5,12.2,0.63,1.9,Negative,Pus discharge,Yes,73,Yes,Yes,38.0,Mortality
+d09cfa5f-0f4d-4a9f-a43a-352d84829728,37,5,25.7,Obesity,Emergency,33,421,Yes,Placenta previa,37.2,73,18,122,75,95.0,12.0,44.0,3.65,1.3,Staphylococcus aureus,Clean,Yes,44,Yes,Yes,24.0,Recovered
+cbb0f558-1c30-4dbf-bc0d-e059c87318a7,24,3,22.9,Obesity,Emergency,59,1065,Yes,Fetal distress,38.0,103,19,126,89,96.6,5.7,12.8,1.29,2.3,Klebsiella pneumoniae,Erythema,Yes,55,No,No,,Recovered
+6a565a2f-d02b-459b-b8d8-5a7e4e0713a2,45,1,22.3,Diabetes,Emergency,60,628,No,Placenta previa,37.9,112,29,124,69,99.0,10.3,68.0,0.87,3.7,Negative,Erythema,Yes,45,Yes,Yes,24.0,ICU
+c50a9c7b-c150-4ad5-a6ba-3688ed1839c6,39,5,30.7,Hypertension,Elective,68,1172,No,Placenta previa,36.8,117,27,124,74,92.3,10.3,32.6,2.99,2.4,Klebsiella pneumoniae,Erythema,Yes,67,Yes,Yes,16.0,Recovered
+26b87678-0fc0-459b-9d62-1a33d56cd752,25,5,30.9,Anemia,Emergency,96,708,Yes,Prolonged labor,37.0,121,28,127,63,96.6,8.1,36.7,0.38,0.7,Klebsiella pneumoniae,Erythema,Yes,60,Yes,Yes,20.0,ICU
+f8a302cc-3d56-47a8-9ece-2e340cf88d05,27,1,30.2,Anemia,Emergency,117,790,Yes,Prolonged labor,38.3,129,16,109,84,95.8,11.0,22.8,3.27,2.9,Klebsiella pneumoniae,Erythema,Yes,74,No,No,,Recovered
+02c695c6-ea4d-4e19-a83b-f6daea055615,20,4,27.9,None,Emergency,43,496,No,Placenta previa,36.9,118,23,117,89,98.0,8.9,-7.1,3.29,2.3,Klebsiella pneumoniae,Erythema,Yes,53,Yes,Yes,29.0,Recovered
+763dece0-2270-4267-9d09-67d9338afd59,27,0,31.8,Obesity,Elective,63,512,Yes,Previous C-section,35.6,135,17,134,79,96.1,8.3,1.0,3.79,2.0,Staphylococcus aureus,Erythema,Yes,28,Yes,Yes,41.0,ICU
+3bc8d690-72da-494e-a444-b78f12d047e6,39,1,22.0,None,Elective,62,829,No,Prolonged labor,36.5,92,13,132,61,95.8,14.0,39.3,3.52,2.6,Staphylococcus aureus,Erythema,Yes,69,Yes,Yes,26.0,Recovered
+ae44d869-3c68-4590-b9e4-105e0ebd4e31,35,4,33.2,Diabetes,Emergency,77,749,No,Fetal distress,37.5,86,26,101,80,95.2,7.5,59.2,3.07,1.5,Negative,Clean,No,75,No,No,,Recovered
+fd920683-9834-4a03-af1f-ef989b49d10d,24,2,27.3,Obesity,Emergency,72,751,No,Placenta previa,39.0,96,18,117,79,96.1,8.5,-20.7,2.55,4.0,E. coli,Pus discharge,Yes,63,No,No,,Recovered
+5a8cfe0b-ba8f-452d-bbd5-322257efaf65,37,0,28.7,Hypertension,Emergency,103,889,No,Fetal distress,35.9,66,14,130,78,97.4,13.6,41.0,0.71,0.9,E. coli,Pus discharge,No,52,Yes,Yes,4.0,Mortality
+1256e2d2-2e79-47a9-9800-47000afd7f76,44,5,27.2,Hypertension,Emergency,34,1029,No,Fetal distress,37.8,135,17,104,68,92.7,10.8,32.3,2.96,2.1,E. coli,Pus discharge,Yes,74,Yes,Yes,27.0,Recovered
+2144cac7-fed2-4886-b5b6-6b286617922b,33,5,21.5,Hypertension,Emergency,35,351,Yes,Fetal distress,36.2,95,29,120,63,95.8,7.8,78.1,2.96,0.7,Staphylococcus aureus,Clean,No,74,Yes,Yes,28.0,Recovered
+f256d083-1221-42dc-b5e9-80962282423a,33,2,29.3,None,Emergency,57,1184,Yes,Prolonged labor,36.8,89,21,136,64,96.8,7.5,27.1,4.97,3.4,Klebsiella pneumoniae,Erythema,Yes,69,No,No,,Recovered
+69e0fcc4-eebf-433e-9761-a50fe39aa7b1,29,3,26.5,Obesity,Elective,40,764,No,Prolonged labor,34.4,120,19,133,89,96.9,10.1,47.9,1.45,2.4,Klebsiella pneumoniae,Erythema,No,77,Yes,Yes,14.0,ICU
+d25f0caf-5f7d-44fe-a5cf-c0b9599d12d5,36,0,27.8,Anemia,Emergency,118,1060,Yes,Fetal distress,36.4,121,18,120,89,99.0,7.6,48.2,4.55,3.8,Staphylococcus aureus,Erythema,No,37,Yes,Yes,47.0,Mortality
+9f13091b-7559-4a8e-adb6-7533a6fb6978,33,1,30.2,None,Elective,96,989,Yes,Prolonged labor,37.5,73,27,126,81,94.3,9.4,35.1,4.46,1.3,Negative,Erythema,No,26,Yes,Yes,35.0,ICU
+65a4d80b-5804-4699-ab95-3dd1c3c1e60f,40,3,20.9,Anemia,Emergency,120,849,No,Prolonged labor,38.2,137,30,95,89,92.8,12.6,37.0,3.46,0.8,Negative,Pus discharge,Yes,46,Yes,Yes,32.0,ICU
+a2041e34-67bd-4658-a141-372e614486da,43,4,22.5,Obesity,Emergency,86,904,No,Placenta previa,36.3,107,25,135,67,98.2,6.6,-10.0,0.15,3.3,Staphylococcus aureus,Erythema,No,70,No,No,,Recovered
+10639257-5a81-483c-b226-e70f90cb48bf,23,3,31.2,Anemia,Emergency,60,588,Yes,Prolonged labor,36.7,99,21,103,90,92.8,9.3,48.8,3.8,0.7,E. coli,Clean,Yes,55,Yes,Yes,38.0,Recovered
+82beeb7e-f496-4b5b-bacd-1fd7ba4494fb,30,3,25.0,Diabetes,Emergency,113,635,Yes,Prolonged labor,36.7,96,18,138,88,98.2,9.8,16.3,1.22,3.5,E. coli,Pus discharge,Yes,35,Yes,Yes,25.0,Mortality
+8d14b5ef-4352-4d87-97cb-20ecba8601b9,30,5,31.4,Obesity,Emergency,60,320,Yes,Fetal distress,37.2,108,29,117,66,95.4,6.4,32.1,4.03,0.7,E. coli,Pus discharge,No,27,Yes,Yes,48.0,ICU
+8d8dafa3-7bc2-4679-a4a0-6c3d27328ab4,22,4,27.0,Hypertension,Elective,45,934,No,Fetal distress,36.7,138,17,119,74,93.2,7.0,-2.8,4.69,1.8,Staphylococcus aureus,Pus discharge,No,22,No,No,,Recovered
+5f3f7c15-c95f-449a-bfaf-23a73b9beeb5,25,3,28.5,Anemia,Emergency,87,502,No,Previous C-section,37.6,92,15,112,82,98.8,7.3,59.8,0.9,3.5,Klebsiella pneumoniae,Pus discharge,No,40,Yes,Yes,35.0,Mortality
+9f1ad9a9-9d2d-41ea-bbf0-38c7f96b0952,41,3,31.4,Diabetes,Emergency,106,1112,Yes,Prolonged labor,36.2,81,21,95,81,92.3,8.7,67.3,3.02,2.2,E. coli,Erythema,Yes,62,No,No,,Recovered
+69098534-3c11-42f5-be34-ad44b70ab3b4,31,5,26.4,Diabetes,Elective,73,435,Yes,Placenta previa,38.1,129,26,123,65,96.6,7.4,28.0,2.06,3.4,Klebsiella pneumoniae,Erythema,No,55,Yes,Yes,32.0,Mortality
+f98f7fc6-f2f3-4b5b-acd1-9ee2a3bfc1ee,29,3,18.1,Anemia,Elective,65,984,Yes,Placenta previa,37.4,92,18,94,87,92.7,11.6,57.5,3.09,2.1,Negative,Pus discharge,Yes,26,Yes,Yes,29.0,Mortality
+19eb462a-f1dd-4b20-9536-c3bc7711f7d0,41,3,28.3,None,Elective,89,949,Yes,Previous C-section,37.1,133,14,103,88,99.9,8.6,34.8,0.62,3.7,Staphylococcus aureus,Pus discharge,Yes,51,No,No,,Recovered
+22cfed79-8e01-4ffd-ad3d-9cc6cbc76803,22,5,18.9,Diabetes,Elective,94,500,No,Placenta previa,35.7,119,29,105,74,92.1,14.0,14.1,2.5,2.1,Staphylococcus aureus,Pus discharge,Yes,66,No,No,,Recovered
+b8145128-c205-4d1d-9435-08c9a2f8deb4,28,4,32.2,None,Elective,95,900,Yes,Fetal distress,37.7,95,25,124,67,96.0,11.5,27.2,3.97,2.8,Negative,Clean,No,25,No,No,,Recovered
+369e6ebe-48ce-42e9-b2d0-593da5c8bad7,22,2,20.2,Diabetes,Emergency,70,536,Yes,Prolonged labor,37.8,92,14,117,88,97.1,5.2,48.8,3.68,1.8,Klebsiella pneumoniae,Pus discharge,No,54,No,No,,Recovered
+5fb9bcbe-aacf-442e-ba6e-9375befa418d,20,4,33.2,Hypertension,Elective,101,355,No,Prolonged labor,36.6,66,29,114,76,97.6,13.6,77.2,4.81,1.9,Klebsiella pneumoniae,Clean,Yes,29,No,No,,Recovered
+4b02f7e3-fd11-4ff4-a9c1-41199a4e8f12,35,4,26.8,Hypertension,Emergency,113,1177,Yes,Placenta previa,37.2,72,19,128,73,94.1,7.5,23.7,0.33,1.9,Klebsiella pneumoniae,Clean,No,39,No,No,,Recovered
+aa2663b1-e028-417d-9393-0a55f977df21,23,2,29.6,Diabetes,Emergency,37,439,No,Prolonged labor,36.8,79,21,104,66,96.4,9.7,24.3,4.04,0.6,Staphylococcus aureus,Clean,No,32,No,No,,Recovered
+8cf901b7-c2f6-40ba-bfe6-396d84c6953a,33,4,25.2,None,Elective,88,1073,Yes,Placenta previa,37.2,78,21,102,63,95.7,13.4,47.8,0.16,0.6,Negative,Erythema,No,47,Yes,Yes,36.0,ICU
+e4d3847d-8ec2-48ed-ac95-0d4e51fa4c7c,27,2,20.8,None,Emergency,92,1044,No,Previous C-section,36.9,91,29,125,66,99.5,9.7,7.9,3.6,1.1,Negative,Erythema,Yes,26,Yes,Yes,23.0,Mortality
+bd6ae6e8-b035-4ffc-a7b1-c2a33f812f4a,23,1,28.5,Anemia,Emergency,58,493,No,Prolonged labor,36.2,65,22,128,78,96.5,14.9,-13.6,2.76,3.9,Negative,Erythema,No,33,Yes,Yes,22.0,Mortality
+0ae2c880-0703-4ebe-9986-9033121a1491,29,4,30.4,Hypertension,Emergency,31,769,Yes,Previous C-section,36.5,99,19,135,88,95.1,12.1,11.9,4.88,3.2,Negative,Clean,Yes,44,No,No,,Recovered
+ddf4c9cb-c486-4db8-a9d6-49c5534f202d,38,2,27.6,Obesity,Elective,65,765,No,Fetal distress,38.2,95,16,128,83,98.2,10.2,39.0,0.73,2.3,Negative,Erythema,Yes,23,Yes,Yes,11.0,Recovered
+840141d5-4d2a-4a61-b55f-31e9dc454711,32,1,34.9,None,Emergency,39,493,Yes,Fetal distress,36.9,109,26,98,83,96.5,12.5,47.1,3.46,0.9,Staphylococcus aureus,Erythema,Yes,40,No,No,,Recovered
+d9693364-36c3-453d-91dd-a2877c4b54c5,33,1,32.3,Hypertension,Emergency,114,418,No,Prolonged labor,37.5,131,20,110,83,97.0,13.6,7.1,4.19,0.8,E. coli,Erythema,No,77,Yes,Yes,9.0,Recovered
+f5269b11-807f-43a3-9cce-5baaaa721b76,24,2,32.2,Obesity,Emergency,31,896,No,Prolonged labor,38.0,136,20,125,81,96.5,8.7,37.4,4.35,1.9,Negative,Pus discharge,No,29,Yes,Yes,13.0,Recovered
+4a31cfa8-59ad-4783-8a95-17f9659bca59,36,4,33.8,Diabetes,Emergency,112,407,Yes,Prolonged labor,37.4,91,26,91,87,95.2,7.3,35.1,3.02,1.5,E. coli,Clean,No,55,No,No,,Recovered
+235b081f-3722-42cc-b844-65bd5035221c,31,3,28.0,None,Elective,119,883,No,Placenta previa,38.2,71,12,127,75,99.2,10.1,91.2,4.47,2.0,Negative,Clean,No,76,Yes,Yes,5.0,Mortality
+a7c00980-b71f-4e31-8734-46fafadaa0db,40,1,31.7,Obesity,Elective,120,699,No,Fetal distress,37.5,112,21,129,80,97.2,11.7,57.9,1.78,2.2,Staphylococcus aureus,Clean,Yes,49,No,No,,Recovered
+70aab761-f85b-4620-b73a-3e7599d980fc,28,3,34.8,Diabetes,Emergency,110,561,No,Prolonged labor,37.6,79,15,118,76,94.4,5.6,64.4,1.31,2.6,Negative,Erythema,No,48,No,No,,Recovered
+f77a759b-03d6-4726-95bf-214b618a0523,36,4,21.2,Obesity,Elective,113,436,No,Prolonged labor,37.1,92,12,103,87,99.1,14.8,14.2,4.56,3.4,Klebsiella pneumoniae,Erythema,No,24,Yes,Yes,31.0,ICU
+cfd341ec-4985-4640-b534-dac5159ef529,29,0,26.3,Hypertension,Emergency,51,869,No,Placenta previa,36.5,81,18,94,75,92.1,13.7,41.6,4.54,2.1,E. coli,Erythema,Yes,21,Yes,Yes,26.0,Mortality
+0e45c785-4ba7-4ab9-af91-cc83f11070dc,24,2,30.8,Diabetes,Elective,33,512,No,Previous C-section,37.5,60,16,129,65,92.1,3.5,10.8,3.54,2.2,Staphylococcus aureus,Pus discharge,No,33,No,No,,Recovered
+e3b2026a-7120-43b2-ac15-23e82c8a812b,25,4,20.1,None,Elective,73,973,No,Prolonged labor,37.9,134,14,113,80,92.5,11.5,35.7,1.61,2.0,Staphylococcus aureus,Clean,No,23,No,No,,Recovered
+dc2e6a7c-c2c5-4ec8-be37-9d30e109aade,35,2,18.3,Diabetes,Emergency,57,529,Yes,Previous C-section,37.5,61,14,133,69,98.3,13.2,44.5,0.25,1.4,E. coli,Clean,No,60,No,No,,Recovered
+8e9ccdbe-8860-4ff1-8dfa-126355f875f6,29,1,22.9,Hypertension,Emergency,101,923,No,Previous C-section,37.1,128,21,112,69,97.8,5.5,21.5,1.99,0.7,Staphylococcus aureus,Erythema,No,50,Yes,Yes,19.0,Mortality
+def72954-ee6e-474f-8a2d-d7deb4e04082,43,3,20.4,Anemia,Elective,102,364,Yes,Fetal distress,38.3,63,12,125,87,99.8,6.7,23.9,2.41,0.9,Staphylococcus aureus,Pus discharge,Yes,23,No,No,,Recovered
+f9b37f2f-a0dd-4d1e-b912-b03d431b1e14,35,1,29.5,None,Emergency,111,592,Yes,Placenta previa,36.8,106,18,121,78,97.8,13.1,20.6,1.6,4.0,E. coli,Clean,Yes,58,No,No,,Recovered
+4156a9bc-6e46-476a-991f-a8022f4405d3,42,0,21.2,Hypertension,Elective,84,375,Yes,Fetal distress,36.7,132,28,116,74,97.7,6.5,22.8,3.59,1.6,Klebsiella pneumoniae,Erythema,No,41,Yes,Yes,13.0,Recovered
+1d773dd5-ebfb-45d8-b1fb-f72182a673dc,33,2,26.8,Obesity,Emergency,81,656,Yes,Prolonged labor,37.6,76,26,109,87,98.8,9.3,-11.6,3.44,3.3,E. coli,Clean,No,31,Yes,Yes,12.0,ICU
+720ca083-d368-4522-89df-2becba1ac854,18,0,23.1,Obesity,Elective,57,598,Yes,Fetal distress,37.8,61,28,104,62,99.9,10.7,11.1,0.11,3.8,Klebsiella pneumoniae,Erythema,Yes,56,Yes,Yes,30.0,Mortality
+7c3d5cc4-3494-4aa4-b7b7-6ccd65f3b6ac,27,5,28.6,Anemia,Emergency,37,774,No,Prolonged labor,36.0,71,21,125,74,93.8,10.8,44.6,0.68,3.9,Negative,Clean,No,31,Yes,Yes,42.0,Recovered
+9441547a-80ad-4467-a2d7-962d2898b4bd,40,3,33.8,Anemia,Elective,60,781,Yes,Placenta previa,36.5,140,27,104,61,94.4,9.0,46.9,2.06,0.5,Negative,Erythema,No,27,Yes,Yes,13.0,Recovered
+6c41bb7d-16a2-416a-9d72-debdb7ab9edf,33,2,30.1,Hypertension,Elective,80,622,Yes,Fetal distress,36.5,82,29,112,65,99.6,13.9,33.6,1.92,2.3,E. coli,Pus discharge,Yes,63,No,No,,Recovered
+6f365faa-4c5e-489f-860d-e2f1e6861c17,32,0,23.6,None,Elective,37,420,Yes,Previous C-section,36.5,130,17,117,89,98.5,10.1,41.6,2.78,3.7,E. coli,Pus discharge,No,37,No,No,,Recovered
+751f1a9f-fc98-4f1a-99f7-0bdfea67fa48,24,0,20.9,Anemia,Elective,86,1194,Yes,Placenta previa,37.8,124,15,114,63,95.2,4.5,24.0,0.68,3.4,E. coli,Clean,No,76,Yes,Yes,23.0,Mortality
+f63e85cf-9625-4018-802b-4838c417c92e,33,2,23.2,None,Elective,52,985,No,Previous C-section,36.5,125,12,94,67,95.2,9.0,52.6,1.08,1.9,Klebsiella pneumoniae,Clean,Yes,46,Yes,Yes,18.0,Mortality
+8d1828ae-ce74-4f29-a677-0b9c376bb6cb,24,1,30.9,None,Elective,74,668,No,Fetal distress,37.5,137,17,131,60,98.4,4.3,-17.2,0.93,3.2,E. coli,Erythema,No,77,No,No,,Recovered
+8fccc65a-d780-4ba3-a6ed-19e5b1c8c5f7,31,4,27.1,Anemia,Emergency,63,1024,No,Prolonged labor,37.2,108,20,97,84,92.6,8.0,23.5,2.52,0.7,Klebsiella pneumoniae,Erythema,No,64,No,No,,Recovered
+4fc25da9-b1f8-43ff-a30b-cb1e2e433d31,19,0,26.7,Obesity,Emergency,77,1108,No,Fetal distress,37.6,81,27,140,73,99.5,12.1,62.6,3.41,1.9,E. coli,Erythema,Yes,55,Yes,Yes,5.0,Mortality
+2451b10f-9efe-4eb9-bab8-1c186293f9e7,19,5,22.3,Anemia,Emergency,99,1023,Yes,Fetal distress,37.2,68,25,136,88,96.2,8.7,34.6,1.98,1.0,E. coli,Erythema,Yes,73,No,No,,Recovered
+f3ee6c44-b827-4527-8ca2-fd8177c7a1c1,24,3,23.4,None,Emergency,32,547,Yes,Prolonged labor,37.6,126,12,113,73,92.4,7.4,24.1,1.37,2.9,Klebsiella pneumoniae,Pus discharge,No,58,No,No,,Recovered
+d81b91f9-600f-46f2-b42b-ea3940848a2b,39,0,26.0,Diabetes,Elective,62,310,Yes,Placenta previa,36.7,95,24,138,79,96.9,10.4,5.0,4.72,2.4,E. coli,Erythema,No,45,Yes,Yes,6.0,ICU
+603461d5-8d4f-4f30-8fc7-ba852d89dc8a,29,0,24.2,Anemia,Elective,96,864,No,Prolonged labor,38.4,140,19,108,61,95.5,11.8,-1.5,1.95,1.7,Klebsiella pneumoniae,Clean,No,43,No,No,,Recovered
+5717088c-6f1f-4706-bca3-cc0841db25ca,22,0,23.9,Hypertension,Emergency,67,490,Yes,Placenta previa,37.4,81,29,136,60,97.2,9.9,29.4,1.1,2.2,Negative,Erythema,No,35,Yes,Yes,29.0,ICU
+9b980881-4768-417f-8d10-84e754d8b3d5,34,4,19.5,Diabetes,Elective,89,699,No,Placenta previa,38.7,74,25,135,79,98.3,7.3,50.2,0.3,2.7,Negative,Erythema,Yes,78,No,No,,Recovered
+b4a8bdfa-ac01-4008-b284-67af9899e8c8,42,1,24.2,Anemia,Elective,101,919,No,Prolonged labor,35.6,62,29,102,85,92.1,9.3,34.5,3.61,2.9,Staphylococcus aureus,Erythema,No,60,No,No,,Recovered
+aac7a467-a4e3-4a2c-a1e0-ac426d86dacb,36,0,24.4,None,Elective,35,1135,Yes,Placenta previa,37.0,107,17,97,63,97.5,6.1,30.2,4.54,2.0,Negative,Clean,No,24,No,No,,Recovered
+eee00bb9-01d7-4372-ad5f-bb416a7a5914,38,3,34.2,Anemia,Emergency,76,828,No,Prolonged labor,38.5,129,21,125,87,96.5,13.0,-2.3,4.14,1.8,Klebsiella pneumoniae,Erythema,Yes,28,No,No,,Recovered
+98b41e4d-cb5f-42a5-a186-59d3ded166c4,21,5,21.3,Hypertension,Emergency,76,1114,No,Prolonged labor,37.0,96,18,91,63,93.8,17.1,-12.3,4.84,2.1,E. coli,Clean,No,43,No,No,,Recovered
+11185413-1399-444f-a0cf-49d28927b87a,42,3,25.9,Anemia,Elective,52,607,Yes,Previous C-section,36.5,91,13,109,83,97.1,10.2,40.4,3.57,1.3,Negative,Pus discharge,No,56,No,No,,Recovered
+bb0415e2-ae1c-4844-9c1c-75d6d5c4de48,44,3,28.4,None,Elective,106,644,Yes,Previous C-section,36.5,76,21,121,75,96.8,14.0,5.3,4.34,3.5,Klebsiella pneumoniae,Clean,No,41,Yes,Yes,15.0,Recovered
+b24e34ba-31ca-4509-9599-bb5337d890f9,29,3,19.0,Anemia,Elective,79,717,Yes,Placenta previa,36.6,135,12,113,76,96.7,13.6,79.0,3.55,1.0,Staphylococcus aureus,Erythema,Yes,64,No,No,,Recovered
+8952fb8d-0145-471b-85bd-c4b8147344fe,23,2,21.3,None,Emergency,85,466,No,Fetal distress,36.1,101,25,138,86,96.1,2.3,1.3,0.96,3.5,E. coli,Pus discharge,No,25,Yes,Yes,13.0,Recovered
+fc23244c-1ef6-408e-b0f5-db15aee67397,21,4,27.3,Hypertension,Elective,30,427,Yes,Prolonged labor,37.4,139,22,108,61,98.2,11.1,3.0,1.24,0.8,E. coli,Clean,Yes,20,Yes,Yes,20.0,Recovered
+e6cb5f57-5e1c-4f5c-b60e-56609cae143b,21,2,18.9,Obesity,Emergency,119,1190,Yes,Prolonged labor,37.3,115,28,101,90,95.8,12.0,54.7,4.8,1.1,Negative,Clean,Yes,77,Yes,Yes,25.0,ICU
+649b27f3-1b63-4cb3-bd22-541a543d3124,18,3,27.7,Obesity,Elective,39,962,Yes,Previous C-section,37.9,86,17,112,72,99.1,16.5,48.0,2.51,3.7,Klebsiella pneumoniae,Pus discharge,No,57,Yes,Yes,41.0,Mortality
+8f7db6b3-d681-4820-b861-f45524f8ac70,38,2,34.7,Hypertension,Emergency,99,1074,Yes,Fetal distress,35.9,70,24,101,73,93.2,5.2,25.8,2.14,1.8,E. coli,Pus discharge,Yes,21,Yes,Yes,5.0,ICU
+fbc42f9a-f0b3-4f52-9e5e-a18b6015493b,33,5,28.1,Diabetes,Elective,54,949,No,Placenta previa,38.3,65,16,94,65,98.1,13.5,2.9,0.69,2.7,E. coli,Pus discharge,No,30,Yes,Yes,30.0,Mortality
+7204a9be-d309-4a5e-b9ed-dd0bd5fc1566,20,0,19.1,Anemia,Elective,84,356,No,Previous C-section,37.2,60,20,133,67,96.7,8.9,30.5,4.02,3.4,Klebsiella pneumoniae,Pus discharge,No,48,Yes,Yes,3.0,ICU
+06a8f169-d262-4e50-b6a9-75043e913903,27,0,32.3,None,Elective,80,949,No,Previous C-section,35.8,134,23,93,70,95.4,18.5,46.3,4.15,0.7,Negative,Clean,Yes,37,No,No,,Recovered
+fe4216d6-00f0-49b2-805b-6474a9149190,18,4,30.6,Obesity,Emergency,43,759,Yes,Previous C-section,38.0,117,15,95,75,96.0,13.5,23.6,3.77,3.9,Klebsiella pneumoniae,Pus discharge,Yes,76,No,No,,Recovered
+a906579c-0adc-4848-bb77-3c218a6e9793,21,2,32.6,Diabetes,Emergency,35,803,No,Fetal distress,37.4,126,25,139,83,93.6,13.3,39.6,4.0,2.3,Klebsiella pneumoniae,Clean,Yes,77,No,No,,Recovered
+6ee661ea-a338-4b0a-8fd8-c26b57ca0241,43,4,19.1,Obesity,Elective,119,522,No,Fetal distress,36.8,104,26,118,74,93.4,11.7,27.3,2.4,3.2,E. coli,Clean,No,20,Yes,Yes,1.0,Mortality
+2dd7301a-9da5-44f8-8605-65042c7a9399,43,5,25.6,None,Elective,117,1100,No,Fetal distress,37.3,74,13,127,89,92.6,10.1,31.0,1.47,3.4,Staphylococcus aureus,Pus discharge,No,35,Yes,Yes,26.0,ICU
+19ece0f6-f02a-4631-8676-9a26370bf4ec,35,0,32.8,Diabetes,Elective,106,762,No,Previous C-section,36.1,74,12,109,79,93.0,9.3,22.2,1.42,0.9,E. coli,Pus discharge,No,67,No,No,,Recovered
+f22786c7-f9ae-45ba-b122-3c46a2cbcc1b,42,4,20.1,Anemia,Emergency,94,709,Yes,Placenta previa,36.6,88,30,120,69,97.7,12.4,23.0,2.23,2.0,Negative,Pus discharge,Yes,50,No,No,,Recovered
+7d05872d-f29b-4c0c-ae26-c8c0914e9cc6,31,1,29.4,None,Emergency,46,1172,No,Placenta previa,36.5,79,16,118,86,92.3,12.4,49.3,0.7,1.0,Negative,Erythema,Yes,78,Yes,Yes,34.0,Mortality
+2c8f57a3-1e69-476c-8302-11ff3e1311ed,25,0,32.9,Diabetes,Emergency,63,1188,No,Prolonged labor,37.2,123,14,112,80,92.3,11.4,52.7,0.98,2.6,Klebsiella pneumoniae,Erythema,No,76,No,No,,Recovered
+03fc66bf-3910-4114-b079-60df4235d9bc,34,1,26.5,Diabetes,Emergency,106,496,Yes,Fetal distress,37.6,65,26,137,88,96.4,10.4,24.1,3.53,1.1,Klebsiella pneumoniae,Clean,No,77,No,No,,Recovered
+c6553242-f5be-406d-9ff5-e6b6f2150bb6,45,5,31.8,Diabetes,Emergency,55,1159,No,Placenta previa,36.5,132,20,139,86,95.8,8.9,27.0,2.12,0.8,E. coli,Clean,Yes,67,No,No,,Recovered
+f9cb1716-cbab-4998-8f21-f97e476b6c85,43,0,29.3,Hypertension,Elective,63,451,Yes,Fetal distress,36.5,100,29,91,71,93.6,11.4,32.1,0.59,2.7,Negative,Erythema,No,36,No,No,,Recovered
+e94467ca-998a-472b-b000-3f0c84add2f3,40,4,29.1,Hypertension,Emergency,96,1007,No,Placenta previa,37.4,77,19,119,65,97.6,11.4,68.7,4.17,1.8,Negative,Pus discharge,Yes,69,Yes,Yes,24.0,ICU
+466e35df-4636-46dd-926c-5eaf421b4c8c,45,3,29.1,None,Emergency,35,477,No,Prolonged labor,36.3,76,20,125,66,99.8,6.9,14.0,3.6,3.7,E. coli,Erythema,Yes,43,No,No,,Recovered
+74f68371-4d6e-4f32-9368-f2538073ad99,45,0,28.8,Diabetes,Elective,64,370,No,Placenta previa,35.5,138,14,119,61,96.6,4.4,58.3,0.91,3.6,Staphylococcus aureus,Clean,No,54,No,No,,Recovered
+9745b43a-e027-4578-8e37-f96831fec949,39,4,25.6,Diabetes,Elective,99,359,No,Previous C-section,36.5,104,17,91,80,95.6,8.8,-0.1,0.28,1.8,Staphylococcus aureus,Clean,No,43,Yes,Yes,43.0,Mortality
+1ddd93b7-d59c-4bc1-890a-2647d9bb4918,35,2,27.3,Anemia,Elective,63,929,Yes,Prolonged labor,36.9,73,23,130,67,93.5,9.4,28.4,4.51,1.4,E. coli,Erythema,No,42,Yes,Yes,18.0,Mortality
+6db72e9d-7652-4976-88cb-b78540bd2256,33,3,26.6,Obesity,Emergency,66,681,No,Prolonged labor,35.2,138,27,124,61,97.4,15.2,63.3,2.82,3.7,E. coli,Clean,No,42,Yes,Yes,16.0,ICU
+46d7ddd7-c327-4215-b0ca-f63d45f05635,45,4,20.1,Diabetes,Emergency,51,838,Yes,Fetal distress,37.1,82,22,103,80,97.1,7.5,18.9,3.96,1.5,E. coli,Erythema,No,51,No,No,,Recovered
+12d4f794-c963-4c35-9179-00da1fbb4ceb,34,1,30.9,None,Emergency,76,806,No,Placenta previa,38.4,134,18,101,66,95.5,8.6,-11.8,3.55,1.0,Klebsiella pneumoniae,Clean,No,51,No,No,,Recovered
+5b4b280f-3edb-4ff7-87a7-5896e03c4e7a,35,4,31.8,Hypertension,Elective,62,513,No,Placenta previa,38.2,111,28,125,62,97.0,14.2,30.6,3.99,1.5,Staphylococcus aureus,Erythema,Yes,44,No,No,,Recovered
+25508e8a-a969-4ad7-9a3a-048ba04f25d6,40,1,24.3,None,Elective,102,605,Yes,Placenta previa,38.5,136,13,120,67,97.0,10.4,66.2,3.69,1.9,Negative,Pus discharge,No,38,Yes,Yes,30.0,ICU
+e986a35b-09ba-462c-8e94-d4dd67cf1a77,35,5,33.6,None,Elective,48,364,Yes,Fetal distress,36.9,138,12,137,69,99.7,11.9,26.9,3.76,2.8,Negative,Erythema,Yes,43,Yes,Yes,9.0,Mortality
+305e47b2-eb61-41b8-8182-330021e65d1e,22,1,25.0,None,Emergency,86,632,No,Prolonged labor,35.4,125,16,106,67,95.9,8.7,34.6,2.07,3.1,E. coli,Erythema,Yes,39,Yes,Yes,28.0,Recovered
+f9f353f3-0d93-4ed3-b53c-124923e1104a,42,5,23.6,Diabetes,Elective,79,589,Yes,Placenta previa,37.3,78,28,114,84,99.9,8.1,12.7,1.17,3.2,Negative,Pus discharge,No,60,Yes,Yes,15.0,ICU
+d0d05579-d1c0-429a-938f-4385e1f8dd25,42,4,21.7,Hypertension,Elective,84,736,Yes,Fetal distress,37.2,72,24,93,63,97.1,10.1,51.0,3.41,0.6,Klebsiella pneumoniae,Pus discharge,No,42,No,No,,Recovered
+01fffb06-2687-4573-a239-aacf3289e0b0,38,0,23.4,Obesity,Elective,101,473,Yes,Prolonged labor,35.6,62,12,105,74,99.3,14.4,44.5,3.89,1.4,E. coli,Clean,No,35,No,No,,Recovered
+05ab3b22-98d7-45e9-b42c-edac1e1b6710,40,0,20.7,Hypertension,Elective,30,480,Yes,Fetal distress,36.1,94,19,139,64,96.7,4.6,-33.1,0.16,0.9,E. coli,Pus discharge,No,60,No,No,,Recovered
+fa220f28-944a-457b-a898-5f3f9d10240a,43,4,27.9,Obesity,Emergency,48,561,Yes,Placenta previa,36.6,83,16,128,90,99.3,7.2,78.6,3.21,3.3,Staphylococcus aureus,Erythema,No,60,Yes,Yes,29.0,ICU
+71a5a7b4-d5e8-495e-b450-7e28aded85eb,38,1,27.5,Diabetes,Emergency,57,580,Yes,Placenta previa,37.5,120,21,114,63,93.2,8.1,47.2,0.76,2.2,Klebsiella pneumoniae,Clean,No,57,No,No,,Recovered
+16709c9e-e30d-449a-9ccd-5a9d46370357,37,5,30.8,Obesity,Emergency,68,741,Yes,Placenta previa,37.7,62,13,107,83,96.6,12.8,56.9,4.49,1.7,Negative,Erythema,Yes,38,No,No,,Recovered
+6dcd68a3-f8c3-4216-8d30-81621b2f5199,42,1,32.6,Diabetes,Emergency,46,564,Yes,Prolonged labor,37.8,86,19,132,68,98.2,10.5,18.8,4.78,3.2,Klebsiella pneumoniae,Pus discharge,Yes,25,Yes,Yes,46.0,Recovered
+76109de1-7d46-4245-87cc-1e4bff5c9ab5,24,4,33.7,Obesity,Emergency,80,616,Yes,Prolonged labor,36.8,65,25,110,60,93.2,3.7,34.2,2.77,3.8,Staphylococcus aureus,Erythema,Yes,56,No,No,,Recovered
+61f6672a-a910-4956-91b2-8f1dc8f6ab2c,41,1,30.0,Anemia,Emergency,78,795,Yes,Fetal distress,37.9,91,25,116,79,92.1,10.0,36.5,3.61,3.0,Klebsiella pneumoniae,Clean,No,74,No,No,,Recovered
+9cea8321-0dbb-40a7-bc53-ee5ba75fadbd,37,3,21.1,Diabetes,Elective,107,882,Yes,Placenta previa,37.8,84,27,138,85,96.1,10.2,30.8,2.51,3.3,E. coli,Clean,Yes,37,No,No,,Recovered
+ce48ee8a-3658-4420-acd5-3eb3b981b1a3,29,5,25.5,None,Elective,119,345,Yes,Previous C-section,37.5,98,26,95,66,98.8,12.2,65.0,0.68,1.0,Negative,Pus discharge,Yes,74,No,No,,Recovered
+e29d6e04-3421-49fe-81a2-473d0e0cceae,45,0,32.4,Obesity,Elective,66,570,Yes,Previous C-section,36.8,138,27,107,84,94.3,10.6,25.9,3.25,1.7,Negative,Pus discharge,No,55,Yes,Yes,41.0,Recovered
+4667dfeb-b925-4968-892f-be794b00903e,20,1,26.4,Diabetes,Emergency,72,523,No,Fetal distress,37.7,66,25,124,72,99.6,8.6,7.2,0.96,1.6,E. coli,Clean,No,45,Yes,Yes,23.0,Recovered
+728e3f8e-cc76-449f-9cc2-5278722b9d01,23,5,32.9,Obesity,Elective,112,662,No,Previous C-section,37.5,91,14,136,75,98.6,7.7,7.3,2.47,3.9,E. coli,Pus discharge,No,65,No,No,,Recovered
+7ccce5b9-f2c8-4a02-af57-7ad92fc32b60,36,2,34.4,None,Emergency,48,740,No,Previous C-section,37.9,65,21,94,61,99.3,10.0,68.8,1.69,4.0,Negative,Erythema,No,73,No,No,,Recovered
+90f18d6b-beb8-4ba4-8f8d-4e28bd070e8a,34,1,26.0,Anemia,Emergency,50,460,No,Fetal distress,36.9,61,12,117,90,94.7,6.9,-0.8,0.18,3.9,Klebsiella pneumoniae,Pus discharge,Yes,69,No,No,,Recovered
+9902b94b-89e2-4a9c-b20a-576fad5f37ae,18,0,33.4,Diabetes,Elective,57,696,No,Previous C-section,36.5,85,14,113,75,95.6,8.6,47.0,2.91,3.6,Klebsiella pneumoniae,Erythema,No,28,No,No,,Recovered
+ced947f7-b40d-497e-933c-c5ebfcb4cb66,40,2,18.3,None,Emergency,108,620,Yes,Fetal distress,36.4,71,30,111,85,97.2,10.9,5.7,2.95,1.6,E. coli,Pus discharge,No,56,Yes,Yes,8.0,Mortality
+2a1f2e95-9e66-447d-a094-74a5ef3d5e3d,35,5,25.1,Obesity,Elective,54,478,Yes,Fetal distress,37.2,84,18,118,62,97.6,4.9,33.9,3.6,1.2,Klebsiella pneumoniae,Pus discharge,No,37,Yes,Yes,8.0,Recovered
+bd1cc9f0-5d5f-41ca-be41-2260c6dad901,18,3,27.2,Obesity,Elective,43,1040,No,Previous C-section,37.0,126,15,101,90,93.5,11.7,1.6,2.79,2.9,Klebsiella pneumoniae,Clean,No,46,No,No,,Recovered
+e715d3a9-35ef-4128-b514-ec9d284d328f,19,2,21.7,Obesity,Elective,97,888,Yes,Fetal distress,37.1,111,25,112,81,94.0,10.5,21.3,1.23,2.1,Klebsiella pneumoniae,Pus discharge,No,57,No,No,,Recovered
+a0e6459e-211b-4b30-948e-dd39f0f5b302,35,3,32.3,Obesity,Elective,43,902,Yes,Previous C-section,35.8,95,16,136,86,94.0,12.2,35.4,4.66,1.9,E. coli,Clean,No,79,No,No,,Recovered
+18c79ffe-8e1f-427b-b9e3-590179f5317e,19,2,25.4,Hypertension,Elective,65,604,Yes,Prolonged labor,38.3,78,16,117,77,92.6,11.2,50.4,1.83,1.9,Staphylococcus aureus,Erythema,Yes,42,No,No,,Recovered
+1f81c915-142b-42cc-9294-3708acaffecb,31,3,34.6,Hypertension,Elective,66,751,No,Fetal distress,37.4,125,16,101,64,94.1,10.2,39.0,2.27,0.7,E. coli,Clean,No,63,No,No,,Recovered
+4abc95ff-0c03-4af9-9655-4ced934b3a47,18,0,21.5,Obesity,Emergency,39,604,Yes,Prolonged labor,38.1,109,15,97,60,97.2,7.6,28.6,1.24,0.9,E. coli,Erythema,No,60,Yes,Yes,44.0,Mortality
+740515be-2c77-4bfd-8d2e-ae81e9099891,29,5,19.6,Obesity,Elective,92,829,No,Placenta previa,38.1,134,20,122,72,96.3,12.3,38.6,4.28,2.1,Klebsiella pneumoniae,Pus discharge,Yes,73,No,No,,Recovered
+cb09c257-c7a5-4c78-a86c-5278839d428b,20,5,34.3,Anemia,Emergency,66,1164,Yes,Fetal distress,36.7,126,28,107,89,96.1,6.4,29.8,3.53,3.0,Negative,Clean,Yes,78,No,No,,Recovered
+168def36-7e61-4ba4-848c-eed4a6a5cbe9,38,3,23.5,Diabetes,Emergency,105,1170,Yes,Placenta previa,37.9,91,17,114,79,98.8,6.9,50.6,1.28,3.4,Negative,Pus discharge,Yes,35,No,No,,Recovered
+8a4559c2-6fc5-40ab-92cd-5f51bc60dc77,40,1,30.8,Anemia,Emergency,106,503,Yes,Prolonged labor,39.0,139,17,129,76,93.2,6.5,28.2,3.02,0.6,Klebsiella pneumoniae,Pus discharge,Yes,38,No,No,,Recovered
+907220a0-5cc4-49b1-a4af-0e10953ee8e1,25,1,23.0,Hypertension,Elective,109,1135,No,Placenta previa,36.4,106,21,102,77,98.2,8.2,46.9,0.65,1.4,Klebsiella pneumoniae,Clean,Yes,64,Yes,Yes,46.0,ICU
+af40dac7-68b6-4061-841a-481c2d792dff,41,5,25.6,Hypertension,Elective,35,816,Yes,Placenta previa,37.1,133,24,126,75,93.3,10.0,41.0,1.92,3.5,Klebsiella pneumoniae,Erythema,No,32,No,No,,Recovered
+2216d831-a64a-47da-97bb-640796e1ebac,41,0,24.0,Obesity,Elective,90,998,No,Prolonged labor,36.7,83,18,112,66,97.3,10.3,6.6,2.92,2.0,E. coli,Erythema,No,57,Yes,Yes,48.0,ICU
+9684653b-35ff-4c79-9d56-f65552163702,25,3,24.0,Diabetes,Elective,120,1060,Yes,Previous C-section,38.1,96,12,127,80,96.1,8.6,34.4,4.06,3.4,E. coli,Pus discharge,No,50,Yes,Yes,17.0,Recovered
+a11649ac-be2e-483e-bdc9-720beedf2f00,34,4,35.0,Diabetes,Elective,109,779,No,Fetal distress,37.4,72,15,133,77,92.2,7.2,21.0,0.17,3.8,Staphylococcus aureus,Pus discharge,Yes,50,No,No,,Recovered
+a3463676-cf85-43e1-a4d2-77cbb7fd8d4b,41,1,23.6,Anemia,Emergency,106,384,Yes,Prolonged labor,37.1,96,25,130,65,97.8,12.5,3.1,1.88,3.6,Klebsiella pneumoniae,Erythema,No,51,Yes,Yes,10.0,Mortality
+8e6b69bf-13c6-4083-b97b-7d2c474dddab,33,4,21.0,Anemia,Emergency,50,801,No,Prolonged labor,37.5,64,20,90,70,98.6,12.1,31.5,2.94,2.4,Negative,Clean,Yes,52,Yes,Yes,17.0,Recovered
+3ed69ab1-beba-4f43-9561-c24af9ea75ae,24,5,22.1,Obesity,Emergency,115,1175,Yes,Fetal distress,36.5,76,27,136,64,99.0,8.7,29.6,3.55,0.7,Negative,Clean,Yes,32,Yes,Yes,33.0,Mortality
+8c4c41b8-25eb-4048-9a5d-92e0c739b55e,20,5,25.9,Diabetes,Elective,44,331,No,Fetal distress,38.8,83,15,107,68,95.9,11.1,46.8,3.26,2.1,Klebsiella pneumoniae,Pus discharge,Yes,31,Yes,Yes,14.0,Recovered
+4a80402a-3311-4636-8587-e51015957bc8,42,3,34.2,Hypertension,Elective,91,647,No,Placenta previa,37.5,60,23,110,76,95.4,10.1,-2.8,0.55,3.9,Klebsiella pneumoniae,Pus discharge,No,37,Yes,Yes,2.0,Mortality
+80b0f21d-26de-44d8-b828-a7d05efa92fa,21,0,19.3,Anemia,Emergency,90,418,Yes,Fetal distress,37.7,81,12,101,63,99.6,6.5,17.9,1.1,3.1,E. coli,Pus discharge,No,60,Yes,Yes,19.0,Recovered
+2db667e2-35f7-4d64-bc34-4d498070c51f,24,3,25.2,None,Emergency,83,893,No,Previous C-section,35.9,74,18,103,76,92.9,5.8,57.6,3.88,2.8,Negative,Clean,Yes,53,Yes,Yes,34.0,ICU
+c7a76a70-5257-4ed6-b096-2895010d5371,33,3,34.6,None,Emergency,85,363,Yes,Placenta previa,37.7,103,23,135,60,96.0,8.1,40.4,0.75,3.9,E. coli,Clean,No,34,No,No,,Recovered
+083be054-86da-4ca3-b5e1-e0c85420bc68,27,2,32.4,None,Elective,116,1109,Yes,Previous C-section,36.2,117,16,130,74,95.7,11.0,31.9,3.38,3.4,Klebsiella pneumoniae,Clean,Yes,29,Yes,Yes,29.0,Recovered
+cd449b8d-0e5f-4dc7-a9a8-a758f72ec76a,39,4,25.2,None,Emergency,49,700,No,Placenta previa,37.1,134,18,140,80,93.1,12.0,-11.5,1.5,1.6,Klebsiella pneumoniae,Pus discharge,No,45,No,No,,Recovered
+aaccef24-e4a3-4ac6-b71f-f128cfc71e2c,35,3,18.1,Obesity,Elective,49,364,No,Previous C-section,37.4,122,19,124,74,96.5,4.8,33.6,1.4,2.9,Klebsiella pneumoniae,Erythema,No,65,No,No,,Recovered
+1e37f790-7d2c-409c-b3cf-37732d833f30,44,2,34.3,Obesity,Emergency,62,633,No,Prolonged labor,35.9,93,27,92,70,98.3,8.8,37.5,0.22,1.4,Negative,Erythema,Yes,78,No,No,,Recovered
+abd51bca-1539-47df-85cf-999296831444,29,4,24.7,None,Elective,47,770,Yes,Fetal distress,37.1,79,29,101,78,94.8,9.9,36.4,2.5,2.3,Klebsiella pneumoniae,Erythema,Yes,78,No,No,,Recovered
+b925007b-db7e-4de8-939d-b4962e365a32,29,5,30.2,Anemia,Emergency,36,733,Yes,Previous C-section,37.4,82,29,116,86,96.4,4.7,35.1,1.66,1.3,Negative,Pus discharge,Yes,52,Yes,Yes,10.0,Mortality
+2a288667-adee-45d0-812c-6518eff6b4c4,18,0,22.6,Anemia,Elective,49,646,Yes,Prolonged labor,36.5,126,26,128,83,92.7,5.5,32.4,3.48,1.2,E. coli,Pus discharge,Yes,40,Yes,Yes,1.0,ICU
+bed5fbb6-c055-4297-b96e-4387cb4fda67,21,5,24.8,Anemia,Emergency,71,896,No,Placenta previa,38.0,61,27,131,74,96.7,10.4,37.8,3.5,2.8,Staphylococcus aureus,Erythema,No,65,Yes,Yes,7.0,ICU
+2ba275f0-7841-4509-a441-29092b580bb3,45,5,34.1,Obesity,Emergency,37,1037,No,Fetal distress,38.5,122,23,127,78,99.1,12.5,25.3,0.81,1.3,Negative,Pus discharge,Yes,57,No,No,,Recovered
+b99ff872-e53c-4e50-8e05-3c51f881b629,34,5,29.6,Obesity,Emergency,117,942,No,Placenta previa,37.6,120,21,114,75,96.4,11.6,11.4,1.68,3.9,E. coli,Clean,Yes,73,Yes,Yes,26.0,ICU
+027ece15-89dd-481b-be1a-293b6645df68,33,2,30.2,Hypertension,Elective,112,742,No,Fetal distress,38.1,79,21,106,74,93.9,16.2,60.4,4.37,0.8,Staphylococcus aureus,Pus discharge,Yes,57,No,No,,Recovered
+63a96008-c076-423f-87b8-a1efc604d81e,27,2,22.2,Diabetes,Emergency,115,1128,No,Prolonged labor,36.8,136,23,138,85,95.3,9.4,20.9,2.75,1.1,Staphylococcus aureus,Pus discharge,No,35,Yes,Yes,40.0,Mortality
+3b517635-1c33-4e4c-a644-2f1dff69ea04,45,5,21.6,Anemia,Elective,40,726,Yes,Placenta previa,35.9,116,20,126,79,94.3,11.0,53.9,3.69,1.8,Staphylococcus aureus,Clean,No,48,No,No,,Recovered
+53ade2fd-d41a-42f7-9fcd-f0d41c079fca,44,3,24.4,Diabetes,Emergency,75,640,No,Fetal distress,37.3,109,26,98,85,94.5,14.5,57.5,0.3,1.0,Staphylococcus aureus,Clean,Yes,33,No,No,,Recovered
+61285146-f539-4222-a977-4178af246c4f,28,1,25.2,Anemia,Emergency,106,821,Yes,Placenta previa,36.2,92,24,98,83,95.3,10.0,65.8,4.74,1.4,E. coli,Pus discharge,No,46,Yes,Yes,44.0,ICU
+6526f496-1337-414b-b8ea-d280044a895f,43,1,29.8,None,Elective,119,783,Yes,Previous C-section,38.0,77,22,90,90,97.5,4.0,28.0,1.06,3.0,E. coli,Erythema,Yes,33,No,No,,Recovered
+44214bf5-722b-4478-abb2-4814e241f06e,24,0,24.7,Diabetes,Emergency,85,805,No,Prolonged labor,36.2,98,14,125,84,96.2,8.3,35.0,1.05,1.4,E. coli,Pus discharge,Yes,47,Yes,Yes,25.0,Mortality
+dc354fd3-6c56-4f03-8d99-45fbed46d314,42,3,30.0,Anemia,Elective,37,811,Yes,Prolonged labor,36.1,85,18,111,86,92.6,13.0,34.7,4.81,3.6,E. coli,Clean,No,71,Yes,Yes,17.0,Recovered
+2079376d-ce83-421c-82c4-3908d522097d,19,0,29.1,Anemia,Elective,91,943,No,Placenta previa,38.1,125,16,102,61,97.5,12.4,32.8,1.71,1.0,Negative,Erythema,No,34,No,No,,Recovered
+421d21ab-965c-49ac-8c78-d0d6a3c38c2a,31,3,22.7,None,Emergency,55,710,Yes,Fetal distress,37.4,78,23,120,68,93.2,12.6,34.6,3.78,2.2,Negative,Clean,Yes,41,Yes,Yes,48.0,Recovered
+ecc723e6-1fda-46c5-b794-c0b9ae02b0b4,39,2,29.6,Obesity,Emergency,34,408,No,Fetal distress,36.6,62,20,94,79,92.4,10.9,13.2,0.36,3.5,Klebsiella pneumoniae,Erythema,No,34,Yes,Yes,27.0,ICU
+698a0806-e7ea-4c30-89e5-890debdf5ae6,28,5,23.1,Anemia,Elective,34,1056,No,Previous C-section,37.4,103,23,110,65,93.8,9.3,38.8,1.87,0.7,E. coli,Clean,No,61,No,No,,Recovered
+40becc8b-e1d8-42f4-9829-a150501c27fc,27,4,29.2,Anemia,Emergency,87,949,Yes,Prolonged labor,37.6,76,24,122,84,94.3,9.3,27.6,2.95,2.5,Negative,Clean,Yes,45,No,No,,Recovered
+af05296e-b2a0-471e-97b6-98408d42acda,38,2,29.4,Obesity,Elective,96,793,No,Fetal distress,37.3,62,14,127,69,96.0,6.1,41.3,1.32,2.9,E. coli,Erythema,No,37,No,No,,Recovered
+c7bcb390-f4af-4fac-a15b-8cbff4e4de30,45,2,33.3,Diabetes,Elective,52,1090,Yes,Placenta previa,36.2,86,15,93,87,96.9,14.1,19.4,1.14,2.2,Negative,Clean,Yes,50,No,No,,Recovered
+fdbae3e3-1694-4edd-853b-c4fc581f9902,28,2,22.7,Anemia,Elective,82,998,Yes,Fetal distress,36.1,82,30,95,79,98.8,7.6,47.0,3.56,2.2,Staphylococcus aureus,Pus discharge,Yes,75,No,No,,Recovered
+f4a2b11b-acec-4cf5-bca0-0cb167612ce2,20,3,33.1,Diabetes,Elective,71,1184,Yes,Fetal distress,37.1,85,18,118,62,94.7,11.7,-5.8,3.44,1.0,Klebsiella pneumoniae,Erythema,Yes,27,Yes,Yes,29.0,ICU
+dade30ce-5b09-4e47-a8bb-4e1f4f83980f,39,1,31.7,Diabetes,Elective,90,1150,No,Placenta previa,37.1,93,23,125,79,98.6,12.5,32.6,0.08,0.8,Staphylococcus aureus,Pus discharge,No,68,Yes,Yes,31.0,ICU
+44b6a57d-91f2-4023-95c7-2d027dd03318,40,4,33.4,Obesity,Emergency,50,722,No,Placenta previa,37.7,127,23,136,89,99.9,16.7,34.6,1.37,1.5,Negative,Pus discharge,Yes,60,Yes,Yes,40.0,Recovered
+672f1d43-65ba-4a76-93ef-1d317f6ac9bd,37,4,26.1,Diabetes,Emergency,32,554,Yes,Placenta previa,35.6,139,23,102,84,96.2,9.9,36.8,4.33,1.3,Staphylococcus aureus,Pus discharge,Yes,65,Yes,Yes,13.0,Mortality
+68cd427a-ea07-42b7-b70b-dfa38c8a31d1,34,1,34.6,Anemia,Elective,89,1082,No,Fetal distress,36.9,132,13,117,73,95.7,5.3,30.5,1.57,1.4,Negative,Pus discharge,No,45,Yes,Yes,48.0,ICU
+1a275c0e-3ea5-42c7-8ed5-f02f3a94e6cc,21,3,32.8,Diabetes,Elective,49,442,Yes,Fetal distress,36.2,114,25,102,62,94.6,7.6,18.5,2.1,1.3,Negative,Erythema,No,21,Yes,Yes,36.0,ICU
+e1478878-afd8-4961-ae30-4c3f0f153d03,40,0,30.5,None,Emergency,60,1036,Yes,Previous C-section,38.6,119,12,100,66,99.0,11.4,29.8,3.4,3.6,Negative,Erythema,Yes,77,Yes,Yes,9.0,Mortality
+acf60d1a-b343-4847-b2f5-8bb4b85bed5b,26,4,19.5,Obesity,Elective,33,863,No,Prolonged labor,37.3,82,23,112,66,95.4,13.2,18.9,4.88,2.4,Staphylococcus aureus,Pus discharge,No,24,Yes,Yes,32.0,Mortality
+4be83ee6-cd79-4108-81b7-54fe583af1c0,19,0,31.2,Diabetes,Elective,62,1101,No,Prolonged labor,36.7,89,16,135,70,97.0,11.0,21.3,0.63,2.3,E. coli,Pus discharge,Yes,27,No,No,,Recovered
+526ce353-c6e3-44cc-b5dc-d8355b69d7bf,25,1,21.3,Anemia,Elective,82,722,No,Prolonged labor,35.7,112,26,121,62,96.4,9.3,46.0,3.66,2.2,Negative,Pus discharge,Yes,36,No,No,,Recovered
+616e4d9d-7ef4-4fcf-b850-ec19be7e89d4,23,3,21.0,Hypertension,Elective,39,351,Yes,Fetal distress,37.2,66,21,107,82,98.7,10.5,30.2,3.86,0.7,Staphylococcus aureus,Erythema,Yes,29,Yes,Yes,4.0,ICU
+4188e903-eb04-4743-b2b5-fc920dad6258,45,5,32.9,None,Elective,109,396,Yes,Fetal distress,38.5,110,12,93,80,92.9,14.9,25.7,3.4,2.5,Negative,Pus discharge,Yes,42,Yes,Yes,39.0,Recovered
+e96c4952-a5cd-4c2b-974a-d7b334195017,28,1,23.1,Hypertension,Elective,113,668,No,Placenta previa,37.6,108,25,110,77,95.1,11.8,18.3,4.43,2.4,Staphylococcus aureus,Clean,Yes,28,No,No,,Recovered
+d84e6c42-5d58-4d16-bd05-bb00bdeec264,32,3,22.2,Obesity,Elective,100,459,Yes,Prolonged labor,37.3,84,29,112,65,95.9,10.7,22.6,3.89,3.4,Negative,Erythema,No,22,No,No,,Recovered
+eec7fe22-31ca-4dd1-b78e-da750c01f163,40,2,29.1,None,Emergency,106,687,No,Placenta previa,37.2,125,21,137,65,97.4,9.5,52.5,0.58,1.2,Negative,Clean,No,60,No,No,,Recovered
+3d08804b-052b-464d-82df-f263e32b2571,45,3,21.1,Hypertension,Emergency,68,827,No,Fetal distress,37.5,71,24,108,86,93.1,10.8,35.1,2.87,0.7,E. coli,Pus discharge,Yes,58,No,No,,Recovered
+bfba2caa-d2b8-4b11-bc26-c7604f4b82b3,20,1,25.6,None,Elective,78,489,No,Placenta previa,37.7,123,18,103,77,95.9,10.8,28.6,2.29,1.6,Staphylococcus aureus,Erythema,Yes,52,Yes,Yes,2.0,Recovered
+a5ff84a4-6b2b-4bcf-a21f-9edb77379157,26,1,18.5,Anemia,Elective,56,1027,Yes,Fetal distress,37.7,73,14,107,80,93.8,5.2,13.6,0.8,1.2,E. coli,Erythema,No,33,Yes,Yes,11.0,ICU
+90ce5384-ec45-4881-a65e-ebc9d37631ea,41,5,28.5,None,Emergency,72,461,Yes,Fetal distress,38.0,82,29,135,87,93.6,11.9,-4.8,1.06,0.8,Klebsiella pneumoniae,Pus discharge,Yes,26,No,No,,Recovered
+89708649-81fc-43b3-9edf-50468f5dbd63,32,5,32.5,Obesity,Elective,120,677,No,Placenta previa,36.6,116,25,100,87,98.3,6.8,20.5,3.63,3.0,Negative,Erythema,Yes,74,No,No,,Recovered
+cb57b26d-8284-4578-aac7-0732a825fa7f,43,1,31.4,Hypertension,Elective,53,597,Yes,Placenta previa,37.7,128,21,105,65,95.4,12.6,44.3,1.53,1.0,Klebsiella pneumoniae,Pus discharge,No,26,Yes,Yes,7.0,Mortality
+296bed28-efff-4214-b302-14f473167ed7,33,4,29.9,Diabetes,Elective,104,818,No,Fetal distress,37.7,113,24,129,78,97.7,11.5,4.6,1.66,0.6,Klebsiella pneumoniae,Pus discharge,No,26,No,No,,Recovered
+aeaaf5fe-3bb9-4a62-8ddc-0d59f1b03c08,42,3,30.8,Diabetes,Emergency,31,901,Yes,Placenta previa,38.7,131,13,139,81,96.8,6.6,6.3,0.85,3.0,Staphylococcus aureus,Pus discharge,No,51,No,No,,Recovered
+5973b383-a9e7-44f5-993d-7c2faf84ce0c,42,3,33.2,Obesity,Elective,31,1074,Yes,Previous C-section,37.8,125,28,131,87,93.6,8.5,-2.6,0.76,3.1,E. coli,Erythema,No,49,Yes,Yes,27.0,Recovered
+074c484b-1a81-44c0-86ab-2ac1597ea3a0,27,3,29.6,None,Emergency,36,520,No,Prolonged labor,36.5,84,21,98,60,93.4,12.0,16.9,2.84,1.2,Klebsiella pneumoniae,Clean,Yes,75,Yes,Yes,37.0,Mortality
+53cef527-405e-4750-af58-2e5a4e5f9bbf,23,2,29.2,Anemia,Elective,85,1000,No,Fetal distress,35.8,90,14,118,66,99.2,10.2,1.7,0.1,0.9,E. coli,Clean,No,45,No,No,,Recovered
+4893558e-2266-46f1-a12d-3a0407ebc5f2,20,1,29.9,Hypertension,Emergency,64,730,Yes,Placenta previa,36.1,98,28,124,64,92.5,10.8,57.7,1.74,2.3,E. coli,Erythema,No,41,Yes,Yes,3.0,ICU
+2f2e9ecb-9850-47e5-a9ca-3eb5a61111eb,28,2,30.9,None,Elective,88,593,Yes,Prolonged labor,35.4,131,22,95,62,92.0,6.4,65.3,2.02,3.8,E. coli,Erythema,Yes,66,No,No,,Recovered
+dcf15d2b-dad8-47cb-96f4-de666f40d7c4,32,2,25.2,Anemia,Elective,42,447,Yes,Prolonged labor,35.8,120,21,132,79,92.5,10.4,21.3,2.28,3.1,E. coli,Pus discharge,Yes,80,No,No,,Recovered
+f976de86-8b67-4962-bec8-b188b49805c1,40,5,30.3,Diabetes,Emergency,31,706,No,Fetal distress,35.3,93,27,90,87,99.5,19.6,22.2,4.18,3.8,Klebsiella pneumoniae,Clean,Yes,40,No,No,,Recovered
+53c0ba11-fd29-41fb-ae11-ab13e2a95f66,40,2,25.8,Diabetes,Elective,101,1072,No,Previous C-section,36.6,71,23,97,78,96.7,12.8,44.4,1.83,0.9,Negative,Clean,Yes,68,No,No,,Recovered
+b76f56c9-c912-44aa-aa07-7529f3dd2725,21,1,27.0,Hypertension,Emergency,38,854,No,Prolonged labor,37.4,104,29,125,65,94.3,12.4,-1.7,1.81,3.4,Klebsiella pneumoniae,Erythema,Yes,68,Yes,Yes,34.0,Recovered
+a899955b-f6d2-4d65-9a79-96dd4b25dadd,38,3,30.6,Anemia,Elective,79,367,Yes,Placenta previa,37.4,63,19,103,70,93.3,8.7,46.8,2.48,0.9,Klebsiella pneumoniae,Pus discharge,No,37,No,No,,Recovered
+8273626d-6577-4783-ae03-d4921a1e0a65,39,0,32.3,Hypertension,Emergency,69,825,No,Fetal distress,36.9,135,21,102,71,99.6,17.5,41.1,2.58,1.3,E. coli,Clean,Yes,41,Yes,Yes,8.0,Mortality
+e21e87a7-0e51-42ac-9a66-dace9f84c4f1,32,5,23.6,Hypertension,Emergency,96,331,No,Fetal distress,37.2,87,30,103,87,96.6,12.2,39.4,0.37,2.7,Klebsiella pneumoniae,Pus discharge,Yes,46,No,No,,Recovered
+27c939de-7e32-4bcf-934e-456485a5af8d,39,5,34.0,Diabetes,Elective,90,664,Yes,Previous C-section,36.4,72,17,105,85,97.4,10.9,33.9,4.73,2.8,Staphylococcus aureus,Clean,No,60,No,No,,Recovered
+1bd723de-1c34-4049-b060-288720b6acec,40,2,23.4,Anemia,Emergency,119,423,No,Prolonged labor,38.8,99,29,136,80,96.9,7.2,-4.7,0.33,3.4,Klebsiella pneumoniae,Clean,Yes,43,No,No,,Recovered
+1b7fcf0a-f8ed-4c6c-94c4-1317315ee43d,29,5,31.0,None,Emergency,107,411,No,Prolonged labor,37.7,139,17,114,83,99.6,7.7,22.0,2.21,0.7,Klebsiella pneumoniae,Pus discharge,Yes,28,No,No,,Recovered
+d0b1e19c-0279-4638-ab0c-ad5fa1f05eb8,36,4,27.5,Obesity,Elective,42,376,No,Placenta previa,36.5,74,29,104,70,98.8,13.0,25.6,0.17,1.1,Negative,Erythema,No,63,Yes,Yes,35.0,Recovered
+661dfd0f-ee80-4dd1-865f-6406c51d5c8e,26,1,21.7,Diabetes,Emergency,63,1003,Yes,Previous C-section,36.3,130,18,106,89,96.0,7.4,23.0,4.21,3.9,Klebsiella pneumoniae,Clean,Yes,69,Yes,Yes,40.0,Recovered
+85bad215-8729-4a2b-aebe-4aa36aa68c39,18,5,28.7,Hypertension,Emergency,37,1115,Yes,Fetal distress,36.9,117,17,94,74,97.4,10.1,52.0,3.1,2.8,E. coli,Clean,No,45,No,No,,Recovered
+e7129602-831f-4190-bd57-7ad84db65d36,34,3,25.2,Anemia,Emergency,87,435,No,Prolonged labor,38.4,106,27,97,90,95.3,15.9,50.7,1.98,3.8,E. coli,Clean,Yes,68,No,No,,Recovered
+045781e3-7059-42d1-bba8-cb48232ff16d,18,3,26.4,None,Emergency,73,1180,No,Placenta previa,36.9,120,29,129,75,93.0,12.4,9.5,4.79,1.6,Staphylococcus aureus,Erythema,Yes,78,Yes,Yes,37.0,Mortality
+b94a6481-cf90-4681-b9b7-022e7ffaf0e0,22,5,20.0,Diabetes,Elective,78,609,Yes,Fetal distress,36.7,131,27,128,86,98.1,9.0,22.1,0.42,1.2,Klebsiella pneumoniae,Erythema,No,76,Yes,Yes,32.0,Mortality
+769bc2ec-4430-47cc-8d4d-2dfcef997e9c,43,3,33.9,Hypertension,Emergency,109,1109,No,Fetal distress,37.4,88,25,124,79,98.1,9.7,21.9,2.36,1.2,Negative,Clean,Yes,38,Yes,Yes,39.0,Recovered
+4319de36-fae8-4989-b71f-44daf3193df3,32,3,32.8,None,Emergency,94,618,No,Placenta previa,36.6,96,30,109,63,99.4,17.7,43.2,0.93,2.2,Klebsiella pneumoniae,Erythema,Yes,43,No,No,,Recovered
+2f1134e4-7412-4837-bdfd-39410dae7e6b,39,5,26.3,Anemia,Emergency,98,453,No,Placenta previa,37.0,71,28,135,62,98.4,9.9,48.5,1.91,2.8,Klebsiella pneumoniae,Erythema,Yes,30,Yes,Yes,46.0,Recovered
+fdf549c0-c438-4517-b1a1-a7f3075bdabe,25,0,27.8,Anemia,Elective,60,319,Yes,Prolonged labor,36.0,88,16,133,88,97.1,6.0,91.4,0.66,2.1,Negative,Pus discharge,Yes,63,Yes,Yes,32.0,Mortality
+952dc789-54a2-4305-a14c-a01ed759605a,20,1,27.6,Obesity,Elective,34,937,No,Prolonged labor,36.3,103,28,102,67,94.5,3.2,-9.8,3.58,2.1,Negative,Erythema,Yes,55,Yes,Yes,13.0,Recovered
+895f5b91-9eae-41f9-821e-a1f6be4aaf65,26,4,26.9,Diabetes,Elective,40,347,No,Previous C-section,36.4,121,28,116,77,97.8,9.2,32.5,4.9,1.5,Staphylococcus aureus,Pus discharge,No,39,Yes,Yes,8.0,Mortality
+ecd7e144-a33e-4e41-8a3f-e777197b4642,20,5,21.2,Diabetes,Emergency,81,472,Yes,Placenta previa,37.5,71,21,129,61,98.3,8.3,29.6,0.81,1.5,E. coli,Erythema,Yes,43,No,No,,Recovered
+903c65ef-01af-40fc-b8f8-774ee641e40e,36,5,27.5,None,Elective,57,522,No,Placenta previa,36.9,138,30,90,85,96.7,6.3,4.0,4.59,3.4,E. coli,Clean,No,39,No,No,,Recovered
+d279e6bc-9b45-45cc-b106-187ba2550af1,21,5,19.7,Obesity,Elective,87,444,No,Placenta previa,37.0,80,13,97,74,97.6,11.1,70.4,0.76,1.0,Staphylococcus aureus,Pus discharge,Yes,55,Yes,Yes,27.0,Mortality
+70115f1b-2ca0-4faf-a72c-c35dad6199fb,31,0,21.2,Diabetes,Elective,70,1145,Yes,Previous C-section,37.0,75,19,95,83,99.7,10.4,88.6,0.76,1.4,E. coli,Pus discharge,No,76,No,No,,Recovered
+e5e4207e-1ad5-414b-92ce-ce245a84a624,44,3,22.0,Hypertension,Elective,48,889,Yes,Prolonged labor,37.2,66,20,104,79,96.5,16.2,30.8,2.12,1.1,E. coli,Clean,No,69,Yes,Yes,19.0,Mortality
+acc67c45-379e-4e85-b03b-f3bd08a87c99,36,1,27.8,Obesity,Emergency,114,394,Yes,Placenta previa,37.3,86,30,122,90,95.9,9.0,31.8,2.52,2.6,Negative,Clean,No,22,Yes,Yes,4.0,Recovered
+b5c13ddd-0185-4440-96c9-60a626b87b37,37,4,30.9,Hypertension,Emergency,51,418,Yes,Previous C-section,36.9,94,12,103,76,98.5,8.1,38.1,4.55,1.0,Negative,Clean,No,51,Yes,Yes,11.0,Recovered
+aa58fcf1-5baf-4333-9863-b68f54757859,45,4,29.9,Hypertension,Elective,104,463,Yes,Fetal distress,36.5,129,19,137,81,94.0,4.2,52.7,3.53,0.6,Klebsiella pneumoniae,Erythema,Yes,28,Yes,Yes,1.0,Recovered
+25014ab0-479d-48e5-83e6-6d98e7d1cdbd,34,2,20.7,Diabetes,Emergency,93,345,Yes,Prolonged labor,37.0,126,17,133,82,92.2,10.7,-2.0,0.69,3.5,E. coli,Clean,No,46,No,No,,Recovered
+a4e02931-5bc3-4dc3-bc06-03e2e2179496,19,3,24.9,Diabetes,Elective,62,1060,No,Prolonged labor,36.7,118,28,132,73,95.9,4.4,27.6,4.04,1.6,Klebsiella pneumoniae,Erythema,Yes,63,Yes,Yes,15.0,Recovered
+4ad5e559-6027-4a7e-bfc8-fa2a7f630f3d,24,5,22.0,None,Emergency,81,1136,Yes,Fetal distress,37.0,114,14,137,86,98.7,9.0,20.1,0.93,2.4,Klebsiella pneumoniae,Erythema,No,24,Yes,Yes,7.0,ICU
+0876de38-ad77-4361-b39b-28ef74167423,24,5,26.1,None,Emergency,31,674,Yes,Placenta previa,36.4,106,28,108,74,97.9,7.7,35.6,1.44,1.0,Klebsiella pneumoniae,Clean,No,65,Yes,Yes,29.0,ICU
+8c348f58-33cf-4462-930e-abe3eb88a189,42,3,30.2,Diabetes,Elective,35,312,Yes,Prolonged labor,37.9,108,30,93,84,92.2,8.0,26.4,4.31,1.5,Klebsiella pneumoniae,Erythema,Yes,32,Yes,Yes,21.0,Mortality
+e249263c-2643-4118-aaf4-b0073307cea5,25,1,34.7,Hypertension,Elective,43,621,Yes,Prolonged labor,37.1,124,13,123,81,92.9,10.1,15.4,2.19,0.8,E. coli,Clean,Yes,70,No,No,,Recovered
+5f3a3fcd-621c-4b83-b3cf-106aea97da54,34,1,29.3,Diabetes,Emergency,108,560,Yes,Previous C-section,36.9,62,16,111,82,94.0,15.6,51.8,3.35,2.4,E. coli,Erythema,No,73,Yes,Yes,47.0,Mortality
+2ef75888-0043-42eb-9960-b4b19eb9c743,36,5,18.9,Diabetes,Elective,112,622,No,Prolonged labor,36.0,65,29,130,88,93.3,7.1,2.4,2.88,2.2,Negative,Clean,Yes,31,Yes,Yes,39.0,Recovered
+a980c1a8-9b46-4db9-9bd1-962b1bba0b6b,33,0,20.3,Hypertension,Elective,113,934,Yes,Previous C-section,36.9,90,22,138,67,92.2,9.5,9.9,1.91,1.7,Klebsiella pneumoniae,Pus discharge,Yes,44,No,No,,Recovered
+524c15fe-f8c1-4ac8-9f12-323e3e6b7e95,28,2,29.5,None,Elective,33,654,No,Prolonged labor,36.9,73,14,140,64,96.3,13.5,0.9,3.77,2.7,Negative,Clean,No,52,Yes,Yes,7.0,ICU
+467363d0-e9f0-4452-81df-c4281648f4b0,31,5,22.8,Diabetes,Elective,58,975,No,Fetal distress,37.6,136,14,113,89,93.9,11.9,-3.8,4.78,1.5,E. coli,Pus discharge,No,75,No,No,,Recovered
+fbce8ae6-e90b-40a5-8913-7bfd0412dae2,43,2,30.2,Anemia,Elective,59,741,Yes,Previous C-section,38.8,68,18,101,76,92.3,15.3,18.5,0.86,0.6,Staphylococcus aureus,Clean,No,70,No,No,,Recovered
+9f9a62f1-9578-4f70-8b5a-550a8e214b64,35,0,18.3,None,Emergency,52,675,Yes,Prolonged labor,38.1,92,12,90,63,93.5,14.3,38.8,4.89,2.7,E. coli,Pus discharge,No,44,No,No,,Recovered
+321f99e4-b822-45db-b28b-c8fae34d7f53,40,0,32.7,Hypertension,Emergency,92,847,No,Fetal distress,37.3,74,24,131,77,93.5,8.3,56.7,4.48,2.8,Staphylococcus aureus,Pus discharge,No,76,Yes,Yes,47.0,ICU
+e3828b91-c179-493e-861a-b86085d96582,29,1,30.0,Hypertension,Elective,104,1147,Yes,Placenta previa,36.7,61,14,114,87,93.4,7.2,5.3,4.34,1.2,E. coli,Erythema,Yes,56,Yes,Yes,48.0,ICU
+c8daa08a-4d6a-417c-ba32-ca7b75bc6d63,18,3,30.6,Hypertension,Emergency,61,522,No,Previous C-section,36.8,117,22,116,89,93.5,5.5,28.9,4.76,3.4,Klebsiella pneumoniae,Clean,Yes,74,Yes,Yes,38.0,Mortality
+0dbb5efc-ac91-4b4d-81bf-651ac8c05cb7,41,1,24.5,Anemia,Elective,46,806,No,Previous C-section,36.6,62,22,123,83,94.3,13.1,20.7,4.99,1.9,Negative,Clean,Yes,76,Yes,Yes,25.0,ICU
+8015c57d-5112-49fe-ad9f-ed5add5f9d8f,42,4,19.3,Obesity,Elective,49,1138,No,Prolonged labor,36.1,121,25,129,68,98.0,11.9,24.5,3.22,2.3,E. coli,Pus discharge,Yes,72,No,No,,Recovered
+499f4593-4759-43a8-935b-a8b2d3fe7314,43,5,25.6,Anemia,Emergency,78,1043,Yes,Prolonged labor,36.7,103,19,105,84,99.3,9.6,42.4,1.34,3.4,Negative,Clean,No,48,No,No,,Recovered
+728b84e2-6e87-453f-932e-5a2faafc8171,37,4,21.5,Obesity,Elective,37,724,Yes,Fetal distress,37.0,90,28,117,65,93.7,6.1,36.8,4.48,1.9,Klebsiella pneumoniae,Pus discharge,No,30,No,No,,Recovered
+922d139d-701e-4e09-a942-2143061d28c8,23,5,22.7,Hypertension,Elective,96,339,Yes,Prolonged labor,36.8,113,17,113,84,97.1,8.7,-14.0,4.23,3.8,E. coli,Clean,Yes,60,No,No,,Recovered
+3551988c-6954-4e61-9914-4c1a9b5ff6f2,31,5,20.8,None,Elective,120,369,Yes,Prolonged labor,37.5,96,20,121,77,95.8,8.5,16.7,1.56,0.5,Negative,Erythema,Yes,29,Yes,Yes,37.0,Recovered
+968ec3b8-a683-4fce-9636-e9f0cb0a3af0,26,5,27.1,Obesity,Emergency,98,1105,No,Prolonged labor,35.6,88,23,111,68,97.7,5.0,46.3,3.14,2.1,Staphylococcus aureus,Pus discharge,Yes,76,Yes,Yes,26.0,Mortality
+b6096168-ead5-4d9c-8f00-2087e0ba8acb,40,4,22.1,Diabetes,Elective,65,1088,No,Fetal distress,36.4,122,28,125,88,97.0,9.4,47.4,4.54,0.5,Staphylococcus aureus,Clean,No,74,Yes,Yes,20.0,Mortality
+9c6f3020-f384-4ce5-96fb-f1c669d59cbb,33,3,18.9,Hypertension,Elective,109,391,No,Previous C-section,37.0,139,17,123,87,93.1,15.5,-1.8,0.99,1.5,Negative,Pus discharge,No,77,No,No,,Recovered
+189de9ea-2391-4560-b183-ca683731d6fc,20,4,30.2,Anemia,Elective,52,924,Yes,Placenta previa,37.0,113,17,90,81,99.9,6.0,18.4,2.48,0.8,E. coli,Erythema,No,38,Yes,Yes,32.0,Mortality
+ff161313-12db-47d9-a74a-446c9cd9d6fa,21,3,34.2,Obesity,Emergency,36,883,Yes,Placenta previa,36.0,99,30,135,90,94.7,10.5,62.4,4.83,3.7,Staphylococcus aureus,Erythema,Yes,21,Yes,Yes,37.0,Recovered
+49aa69fe-b54b-4211-98e5-e5e5af8af785,18,2,20.0,None,Emergency,106,1189,No,Fetal distress,36.0,67,27,108,63,96.1,8.5,6.5,0.58,3.0,Negative,Clean,Yes,28,No,No,,Recovered
+8eb031f0-d1e2-4831-8bdd-2cfc5681da2a,43,4,21.7,Hypertension,Emergency,95,1049,Yes,Prolonged labor,37.3,109,23,130,86,96.3,8.6,39.8,4.21,1.5,Staphylococcus aureus,Clean,No,61,No,No,,Recovered
+2645142e-93ca-4d14-b090-7cc7405313c9,21,0,24.6,Obesity,Elective,107,699,Yes,Prolonged labor,36.3,98,20,109,84,93.9,5.3,12.1,1.83,2.8,Negative,Clean,No,35,Yes,Yes,24.0,Recovered
+f180d3b4-7a06-4475-bc92-fa3f7819939d,44,5,35.0,Hypertension,Elective,111,974,Yes,Placenta previa,37.4,73,28,139,86,92.5,13.8,39.7,2.52,3.7,Negative,Pus discharge,Yes,24,Yes,Yes,4.0,ICU
+276145b8-b35f-471f-b54f-276b51c2b81a,38,5,33.4,Hypertension,Emergency,36,330,No,Previous C-section,37.1,135,24,90,69,97.3,11.9,17.1,3.02,3.4,E. coli,Pus discharge,No,61,Yes,Yes,23.0,Recovered
+384dbd24-fab3-4430-93b9-8edef94c98d2,23,2,28.2,Obesity,Elective,81,669,No,Placenta previa,36.3,110,19,129,80,94.9,4.1,45.1,0.76,2.9,Negative,Clean,Yes,80,Yes,Yes,22.0,ICU
+a5da8193-1d20-4df1-9fcc-46bfadb944bc,38,2,30.0,Diabetes,Elective,101,955,No,Previous C-section,37.6,78,30,99,88,94.4,7.2,31.2,2.49,2.2,E. coli,Erythema,Yes,59,Yes,Yes,35.0,Recovered
+a1c6e414-548b-48e9-89cd-192236ece5db,18,1,32.8,Hypertension,Emergency,84,837,Yes,Previous C-section,37.6,123,24,138,78,95.0,9.9,10.5,1.1,0.7,Staphylococcus aureus,Clean,Yes,36,Yes,Yes,17.0,Recovered
+c71d2684-e785-40cb-b0bc-490773fa0a7f,36,0,31.7,Anemia,Elective,57,695,No,Fetal distress,37.0,68,22,126,72,95.5,10.8,13.3,4.55,1.9,Klebsiella pneumoniae,Pus discharge,Yes,38,No,No,,Recovered
+11a9add6-5abd-4292-9967-939d5d3569fc,34,3,27.4,Diabetes,Elective,91,465,No,Prolonged labor,38.9,76,18,113,61,95.3,10.9,29.4,2.79,2.1,Staphylococcus aureus,Clean,No,53,Yes,Yes,13.0,ICU
+eb4faa9b-5b1f-4f4c-8e5d-86bb9d4b3e5b,29,2,22.3,Obesity,Emergency,110,1100,Yes,Fetal distress,36.4,129,14,108,77,93.6,9.8,32.9,0.41,1.8,Klebsiella pneumoniae,Pus discharge,No,68,No,No,,Recovered
+5b7e8fb3-4cb6-4887-8a7c-e9e7e73875a7,32,1,29.3,Obesity,Elective,110,1125,No,Fetal distress,37.3,121,15,103,61,98.3,10.6,25.9,1.42,3.4,E. coli,Clean,Yes,35,No,No,,Recovered
+54a3111b-9233-413a-b654-67d09576d536,30,3,29.0,Anemia,Elective,52,998,No,Previous C-section,35.9,74,20,120,81,96.4,13.9,30.1,3.77,3.6,Negative,Clean,No,67,No,No,,Recovered
+d10ac232-a200-4dca-81f3-dd39ee448d5f,38,4,22.5,Obesity,Elective,61,516,No,Prolonged labor,38.1,140,17,101,79,93.8,7.3,40.1,2.77,3.5,E. coli,Clean,No,41,Yes,Yes,42.0,Mortality
+f9b878c6-7661-4eff-96bb-c9db37635bd9,45,4,28.5,Anemia,Elective,61,888,No,Fetal distress,36.8,86,16,127,81,94.8,10.4,6.5,1.65,1.7,E. coli,Pus discharge,No,21,Yes,Yes,4.0,ICU
+e144fd2e-5287-45cb-8ead-08570f593845,42,1,22.5,Hypertension,Elective,74,1141,Yes,Placenta previa,37.1,78,15,101,77,93.6,12.7,38.7,2.25,2.1,Klebsiella pneumoniae,Erythema,Yes,25,No,No,,Recovered
+ee448eec-5dd2-45a1-85f3-7cfd9e23a6ca,34,3,31.0,None,Emergency,33,1071,No,Fetal distress,37.6,73,23,124,74,92.3,9.3,42.8,2.49,3.7,Klebsiella pneumoniae,Clean,No,74,Yes,Yes,7.0,Mortality
+a7cd94d6-9eaa-41d6-95a8-fd0170b279fe,43,2,26.5,Anemia,Emergency,45,486,Yes,Prolonged labor,37.8,89,27,140,82,92.5,13.1,7.3,2.02,1.3,Staphylococcus aureus,Pus discharge,Yes,42,No,No,,Recovered
+185a4f42-6a81-41a2-aa0e-a53523de2da5,20,5,24.6,Anemia,Emergency,64,924,Yes,Placenta previa,36.3,60,29,122,90,94.5,9.0,34.8,4.93,0.9,Negative,Clean,Yes,79,Yes,Yes,13.0,Mortality
+81f4ea5d-d386-4d19-b1ed-405970880646,26,2,34.5,None,Elective,46,731,Yes,Prolonged labor,37.2,109,21,116,69,99.9,10.1,32.1,4.94,1.8,Klebsiella pneumoniae,Erythema,Yes,66,No,No,,Recovered
+14279ece-b641-4532-b006-581bbbeb9725,34,3,29.0,Hypertension,Emergency,32,568,Yes,Previous C-section,36.8,94,16,135,88,96.7,9.5,35.7,0.38,1.2,Klebsiella pneumoniae,Pus discharge,Yes,70,No,No,,Recovered
+a1c111f7-559c-4a28-b604-b321be7688ac,43,2,24.7,Obesity,Emergency,66,863,No,Placenta previa,37.2,88,17,125,61,94.1,15.0,58.5,1.42,2.3,Klebsiella pneumoniae,Pus discharge,Yes,35,No,No,,Recovered
+c7cf806a-b90c-4aa9-b58b-20aba0b6fa64,33,5,30.3,Diabetes,Emergency,119,489,No,Placenta previa,38.7,105,28,134,72,98.4,6.6,24.4,3.27,1.5,E. coli,Pus discharge,No,48,Yes,Yes,9.0,Mortality
+55c74803-4a1a-4a19-b139-3b7994e185ed,27,2,27.9,None,Elective,72,1164,No,Fetal distress,37.7,140,13,133,61,99.3,7.5,42.7,3.6,1.6,Klebsiella pneumoniae,Pus discharge,Yes,45,Yes,Yes,42.0,ICU
+d756a57e-3cf1-420d-a92d-756d3c28aef4,44,4,23.4,Hypertension,Elective,54,1149,No,Prolonged labor,37.1,63,12,137,73,94.2,6.6,32.8,0.45,3.2,Klebsiella pneumoniae,Pus discharge,No,33,No,No,,Recovered
+9dc4d04d-13b9-4ad6-bbbd-52df1051197e,40,5,19.7,None,Emergency,96,789,Yes,Fetal distress,37.6,80,23,137,88,98.0,7.6,0.4,2.15,0.6,Negative,Pus discharge,No,74,No,No,,Recovered
+42aae413-d9a4-401d-8cbe-63fb23a582e8,45,0,24.8,Anemia,Emergency,120,532,No,Fetal distress,37.3,69,19,124,85,98.4,11.6,45.8,1.89,1.2,Klebsiella pneumoniae,Clean,Yes,59,Yes,Yes,16.0,ICU
+0678b6ae-a4b4-49f1-b1ae-7afc3c0f200c,24,4,30.7,Diabetes,Elective,60,953,No,Fetal distress,34.7,62,12,133,73,98.7,13.8,4.5,4.8,0.8,Klebsiella pneumoniae,Pus discharge,No,57,Yes,Yes,44.0,Mortality
+05aac418-a433-4577-9226-30d823844b90,41,1,19.8,Hypertension,Elective,82,850,Yes,Prolonged labor,37.5,119,18,90,80,94.7,14.0,8.1,3.81,1.7,Staphylococcus aureus,Pus discharge,Yes,45,Yes,Yes,7.0,ICU
+21b31d05-81c9-4b1f-bacc-b4aada885f8d,33,5,23.3,Anemia,Emergency,86,885,No,Previous C-section,35.7,102,13,94,89,92.8,13.0,50.6,3.89,1.5,Staphylococcus aureus,Pus discharge,No,47,No,No,,Recovered
+194eaa37-9cc7-4182-911f-7f12bf60b5cb,45,0,28.2,Anemia,Emergency,106,647,Yes,Previous C-section,37.6,136,22,115,68,98.6,8.2,40.5,1.31,1.3,E. coli,Pus discharge,Yes,41,Yes,Yes,15.0,ICU
+94373abf-ff1b-43ef-9567-07477d9d03bc,32,0,26.1,Diabetes,Emergency,101,614,No,Prolonged labor,37.5,81,20,115,72,92.6,10.2,18.7,2.63,3.9,Negative,Clean,Yes,49,Yes,Yes,31.0,ICU
+1015237a-8759-4964-bee0-a7c69fd4f039,38,1,28.6,Obesity,Elective,101,822,Yes,Prolonged labor,37.2,120,18,127,85,92.5,8.3,56.2,0.38,2.0,Negative,Pus discharge,No,80,Yes,Yes,3.0,ICU
+67c76090-77bb-4c80-b420-dc5bbfd79eb8,45,4,20.1,None,Elective,66,997,Yes,Fetal distress,36.4,78,24,102,69,93.0,9.4,16.9,2.48,2.4,E. coli,Erythema,Yes,78,Yes,Yes,41.0,Mortality
+a7edbb9c-a025-444f-bc40-c8a597634a4c,40,2,20.6,Obesity,Elective,88,1111,Yes,Fetal distress,37.5,115,24,139,62,99.6,11.6,1.4,0.22,3.9,E. coli,Erythema,No,33,Yes,Yes,44.0,Mortality
+2282ba83-91f0-4b56-b3ea-e83835785a2d,42,2,18.3,Diabetes,Elective,38,1146,Yes,Previous C-section,38.5,86,22,111,72,99.2,10.5,41.2,2.53,1.4,Staphylococcus aureus,Erythema,Yes,39,No,No,,Recovered
+8e523e23-ed01-4bf7-8e86-6e3fd9b21540,32,3,25.3,Obesity,Elective,55,704,No,Placenta previa,37.4,75,23,138,79,95.4,9.8,12.1,1.89,3.1,Negative,Pus discharge,Yes,28,No,No,,Recovered
+3322fb71-7bb7-4b4b-a6a1-7b533bfeb6a9,30,3,24.5,Hypertension,Emergency,48,502,No,Placenta previa,38.4,116,24,116,64,95.1,9.9,11.4,3.35,1.6,Negative,Clean,No,59,No,No,,Recovered
+85aed5c7-91a9-46b9-b1f6-dce53f27a766,43,2,28.9,None,Emergency,93,538,Yes,Placenta previa,37.0,90,17,137,66,98.8,14.3,66.0,3.87,3.2,Klebsiella pneumoniae,Pus discharge,Yes,68,Yes,Yes,29.0,ICU
+9f5fe5f4-c419-4ea0-b035-69c32b41556a,42,2,25.2,Anemia,Elective,93,382,Yes,Prolonged labor,37.3,116,30,91,70,92.5,4.3,56.9,1.81,2.2,Negative,Clean,No,39,Yes,Yes,8.0,Recovered
+bd7497e4-e6b2-473c-80c3-8607d58c16c7,24,3,23.5,Obesity,Elective,71,527,No,Previous C-section,37.4,74,15,105,72,95.3,10.4,25.5,2.84,0.5,Klebsiella pneumoniae,Erythema,Yes,24,No,No,,Recovered
+2162a65f-e379-4047-aff5-c0e324e34bb0,32,2,21.9,None,Elective,95,478,No,Fetal distress,37.4,139,29,124,63,96.9,11.9,6.6,3.07,2.5,Staphylococcus aureus,Pus discharge,Yes,30,No,No,,Recovered
+4f154604-7771-48da-9563-8548e7107e75,18,4,34.9,None,Elective,108,914,Yes,Prolonged labor,36.2,77,16,128,83,93.2,10.6,-3.4,3.79,3.5,Negative,Clean,No,27,Yes,Yes,15.0,ICU
+b00b8def-13a8-4347-b845-f18e9f88db98,39,3,21.5,None,Emergency,116,820,No,Fetal distress,36.0,78,25,117,62,94.6,11.1,-16.4,4.1,0.7,Staphylococcus aureus,Erythema,No,65,Yes,Yes,9.0,Recovered
+c2199973-1f70-4868-881f-03cfd37a6e29,45,0,27.7,Diabetes,Emergency,51,542,Yes,Placenta previa,38.2,111,26,137,68,99.9,6.5,-23.9,4.02,2.1,E. coli,Clean,No,63,No,No,,Recovered
+4752df0a-5d3b-405f-951f-b1e2235b83b0,30,5,24.7,Anemia,Elective,79,326,No,Placenta previa,35.9,68,28,104,79,98.9,18.0,16.8,1.69,3.6,Staphylococcus aureus,Erythema,Yes,63,Yes,Yes,4.0,Recovered
+d9135f32-1691-4c11-ad28-d00bae9aa983,32,0,23.9,Hypertension,Elective,31,352,No,Fetal distress,36.6,85,13,90,62,98.1,13.0,1.0,3.47,2.7,Negative,Pus discharge,No,72,No,No,,Recovered
+81bbe9ad-9eb9-4094-b81d-66830754f516,43,2,20.3,Diabetes,Elective,110,1062,Yes,Placenta previa,36.1,109,27,105,76,99.3,5.6,7.9,0.43,0.7,Negative,Pus discharge,No,57,Yes,Yes,29.0,ICU
+ef9ba493-20be-47dc-a507-b45df699a14b,27,0,30.0,None,Elective,66,393,Yes,Placenta previa,36.8,128,20,135,80,97.2,9.0,-15.8,3.08,2.3,E. coli,Pus discharge,No,27,No,No,,Recovered
+b7f361ac-5d34-4a52-b217-1f13f543af84,28,1,34.2,Diabetes,Emergency,118,1198,Yes,Placenta previa,35.8,137,17,102,62,92.8,11.6,28.4,0.36,1.3,Klebsiella pneumoniae,Pus discharge,No,48,No,No,,Recovered
+e7851751-f86e-47dd-9dc9-586ed7270feb,29,0,18.4,Diabetes,Elective,89,495,No,Prolonged labor,37.3,99,15,91,72,95.3,6.9,66.7,4.39,1.5,Klebsiella pneumoniae,Erythema,No,35,Yes,Yes,39.0,ICU
+8eb5278c-46d9-4e11-a871-59bd1e51deeb,44,1,26.8,None,Elective,83,1088,Yes,Placenta previa,36.2,66,21,107,89,94.4,12.7,11.0,4.29,1.4,Staphylococcus aureus,Pus discharge,No,77,No,No,,Recovered
+c907f956-8e8c-4f79-85f9-5ed16fb16936,27,2,20.8,None,Emergency,39,370,No,Fetal distress,37.0,89,14,99,80,97.9,9.6,13.4,1.77,2.3,Staphylococcus aureus,Pus discharge,Yes,53,No,No,,Recovered
+51af76e1-e1d9-4a59-804c-ebbf4e349486,44,4,24.6,Diabetes,Elective,42,929,No,Prolonged labor,37.7,132,12,115,76,98.0,10.1,39.9,3.33,3.6,Staphylococcus aureus,Clean,Yes,39,No,No,,Recovered
+a690d8e1-ad92-475c-97f0-16fe21c707e1,33,3,27.6,Hypertension,Emergency,39,1014,Yes,Placenta previa,38.7,77,21,116,89,94.7,17.4,29.9,4.07,0.8,E. coli,Clean,Yes,40,No,No,,Recovered
+6a130f0e-30ff-417e-ae64-4a2b392bc65c,32,4,29.9,Obesity,Elective,108,590,No,Placenta previa,36.7,114,16,107,67,92.5,10.1,37.7,1.3,2.7,Staphylococcus aureus,Pus discharge,No,62,Yes,Yes,19.0,ICU
+6b7b59d6-4da0-4b4f-9b97-3952b631fd3b,37,1,26.8,Obesity,Emergency,55,733,No,Previous C-section,35.3,119,18,129,80,99.5,5.2,10.4,1.61,0.6,Klebsiella pneumoniae,Erythema,Yes,28,No,No,,Recovered
+7dd7d913-8138-4fea-a84f-84b90ffee265,37,1,20.9,Diabetes,Emergency,56,311,No,Previous C-section,37.1,92,30,129,81,99.0,9.0,31.8,0.85,3.7,Klebsiella pneumoniae,Erythema,Yes,58,No,No,,Recovered
+083796da-3813-42d3-8343-eb218952860c,40,3,28.0,Anemia,Elective,73,1015,No,Previous C-section,36.3,126,27,137,78,92.7,10.4,44.3,4.54,1.1,Klebsiella pneumoniae,Clean,No,32,No,No,,Recovered
+9e180a32-1e5d-4ae7-b3ca-5eeb78374775,40,5,30.0,Diabetes,Elective,116,893,No,Previous C-section,37.5,87,22,126,79,96.0,15.8,40.3,3.11,2.4,Staphylococcus aureus,Clean,No,73,Yes,Yes,7.0,ICU
+82328050-9a53-4f26-b4f3-21c2c2be4220,45,0,19.6,Diabetes,Emergency,47,585,Yes,Fetal distress,36.9,119,20,112,81,97.5,11.6,46.2,1.17,0.9,Staphylococcus aureus,Pus discharge,No,30,No,No,,Recovered
+75db2bdc-31d9-4561-959c-2656bda5d564,21,5,32.2,Obesity,Emergency,95,876,No,Previous C-section,36.8,85,26,111,72,98.8,12.2,18.7,0.48,0.8,Staphylococcus aureus,Clean,No,64,Yes,Yes,41.0,Recovered
+4cbf4fa7-d330-4e14-b9d2-d62a1440392e,19,4,18.4,Diabetes,Emergency,95,988,Yes,Prolonged labor,36.8,111,25,101,87,99.1,6.9,59.0,0.87,1.3,Negative,Pus discharge,Yes,59,No,No,,Recovered
+e4d137b9-be2f-415e-b96b-7c7453803d30,45,1,32.0,Hypertension,Emergency,103,522,Yes,Previous C-section,36.4,137,17,92,64,99.4,14.1,77.8,2.8,1.6,E. coli,Erythema,Yes,31,Yes,Yes,38.0,ICU
+3dcbcc20-aac9-4741-ae5c-d9c810f90e8b,40,1,27.1,Obesity,Emergency,81,366,Yes,Fetal distress,34.9,62,20,121,66,97.7,13.5,43.7,4.82,2.0,Staphylococcus aureus,Clean,No,73,Yes,Yes,43.0,ICU
+2156e2ac-b999-408e-9694-20d60cd6b8fa,27,0,18.7,Hypertension,Emergency,38,732,No,Placenta previa,37.1,78,25,92,61,93.8,10.3,2.9,1.81,3.9,Negative,Clean,Yes,27,Yes,Yes,30.0,Mortality
+85217d7c-6fe5-4277-9aa0-60f0cfb22692,27,1,19.0,Diabetes,Emergency,101,903,No,Previous C-section,36.8,108,21,126,76,93.2,8.5,12.5,4.33,3.3,Negative,Erythema,Yes,38,Yes,Yes,2.0,ICU
+3fdcb192-099b-457c-8c0e-8200492d384a,27,1,27.6,Diabetes,Emergency,47,862,No,Previous C-section,36.5,99,20,116,90,96.3,5.9,25.4,2.8,1.1,Klebsiella pneumoniae,Clean,Yes,75,No,No,,Recovered
+c324d166-5a9d-475c-a2b1-535d4ebb0a09,34,2,30.6,Diabetes,Elective,55,934,Yes,Placenta previa,36.8,61,29,129,78,99.3,7.2,28.0,2.18,2.8,E. coli,Pus discharge,Yes,57,Yes,Yes,36.0,ICU
+20f81832-c397-4d60-b985-2354b3e641c1,30,0,26.6,None,Elective,97,323,No,Prolonged labor,37.7,130,25,116,71,96.7,9.1,42.1,4.01,3.0,Klebsiella pneumoniae,Pus discharge,No,43,Yes,Yes,6.0,Recovered
+85087417-d5db-4949-b2d3-350bbd35a118,38,1,24.8,None,Emergency,101,557,Yes,Fetal distress,37.2,91,22,97,61,93.8,10.3,47.8,0.71,3.8,Klebsiella pneumoniae,Pus discharge,No,26,Yes,Yes,5.0,Recovered
+2cc479dc-8217-4cf4-8846-1b11bfc78608,23,1,23.7,Diabetes,Emergency,65,636,Yes,Prolonged labor,36.8,68,29,96,88,93.5,11.9,27.0,2.36,1.3,Klebsiella pneumoniae,Erythema,Yes,28,Yes,Yes,2.0,ICU
+f2c8b2c6-12bf-4eac-969f-948654eb6dd7,20,5,29.4,Diabetes,Emergency,99,1159,Yes,Previous C-section,38.7,136,27,112,74,95.4,12.6,47.3,3.53,1.8,Klebsiella pneumoniae,Clean,No,55,No,No,,Recovered
+05ee365a-c9bb-493b-96e6-40834f511be5,27,3,22.7,None,Emergency,32,407,No,Fetal distress,37.6,124,23,130,89,95.8,9.3,6.8,2.35,1.4,Staphylococcus aureus,Pus discharge,Yes,33,No,No,,Recovered
+f97f0eb4-f87d-4437-8ff3-180c4f32f28b,34,3,21.1,Anemia,Elective,56,705,Yes,Prolonged labor,36.4,80,24,98,90,97.2,5.6,55.7,0.28,3.9,E. coli,Pus discharge,Yes,72,No,No,,Recovered
+bee079a8-9fa1-4791-b1ea-7baad9b48de2,30,2,34.3,Anemia,Elective,50,379,Yes,Previous C-section,36.3,110,15,98,65,98.7,10.5,29.5,3.53,2.5,Negative,Clean,No,22,No,No,,Recovered
+6e1a0cba-b083-4fca-9f00-6c46eccbe25d,22,1,29.4,Anemia,Emergency,111,579,Yes,Fetal distress,36.7,70,28,97,74,94.6,8.9,10.7,4.19,1.6,E. coli,Erythema,Yes,75,No,No,,Recovered
+cdf204ab-f83c-459c-935f-adb7c7623adb,24,4,33.8,Hypertension,Elective,86,1196,Yes,Fetal distress,36.3,105,14,108,73,92.8,14.5,54.0,1.94,2.8,Staphylococcus aureus,Clean,Yes,67,Yes,Yes,10.0,ICU
+d5fd3018-6c6b-484e-bc6f-d29639461b35,26,4,21.9,Diabetes,Elective,108,960,No,Previous C-section,37.6,114,22,131,70,95.0,10.7,0.0,1.11,1.6,Klebsiella pneumoniae,Clean,Yes,43,Yes,Yes,36.0,Recovered
+d17c0d78-3e3c-4d18-b34a-81da96a48ee9,31,5,22.9,Hypertension,Elective,32,1122,Yes,Prolonged labor,38.1,61,21,91,90,99.7,11.5,42.3,4.35,1.9,Klebsiella pneumoniae,Clean,Yes,59,No,No,,Recovered
+f1effe60-48f1-44aa-a371-5ab0b030c453,37,5,19.5,None,Elective,88,1108,No,Previous C-section,36.6,86,22,116,78,93.8,6.4,-1.7,2.94,1.7,Klebsiella pneumoniae,Clean,No,46,No,No,,Recovered
+d35420af-5a08-4d4a-b660-0159162402e9,37,3,19.9,None,Emergency,92,1126,Yes,Fetal distress,37.2,113,30,104,67,98.8,8.1,1.2,2.49,1.6,Negative,Clean,No,57,Yes,Yes,45.0,ICU
+8aaf6262-8e22-4044-8479-d167821d7c21,26,2,26.2,Obesity,Elective,38,684,No,Fetal distress,35.3,133,15,100,68,99.3,6.8,60.3,2.44,2.4,Staphylococcus aureus,Clean,Yes,56,Yes,Yes,33.0,Recovered
+3188e56b-1e14-4af8-87f9-4c6f6bbb234a,32,0,21.0,Anemia,Elective,88,566,Yes,Previous C-section,37.5,73,26,115,82,92.2,9.6,-8.6,4.34,3.8,Staphylococcus aureus,Erythema,Yes,30,Yes,Yes,25.0,Mortality
+cb736515-5a46-4d80-830a-5d3e30834d9e,21,3,30.0,Obesity,Elective,43,725,No,Placenta previa,37.3,99,18,96,88,98.6,9.9,5.0,0.77,0.5,Negative,Pus discharge,No,51,Yes,Yes,14.0,ICU
+a5645722-3b82-48d2-bab1-cf8f3ab3c9ff,34,0,26.0,None,Emergency,82,735,No,Prolonged labor,36.5,73,22,95,75,95.0,10.7,51.4,0.24,2.0,E. coli,Clean,Yes,41,Yes,Yes,34.0,ICU
+e27d127c-d90d-44ee-810a-0425282e4c78,31,5,34.5,None,Emergency,83,1017,Yes,Prolonged labor,35.9,128,27,94,67,94.0,15.7,0.4,2.58,1.8,Staphylococcus aureus,Pus discharge,No,31,Yes,Yes,6.0,Recovered
+d5d0cb62-ec12-47c2-a973-e3b9beae008a,40,1,19.3,Obesity,Emergency,43,635,Yes,Prolonged labor,36.9,62,27,140,85,98.3,11.5,21.9,3.17,0.8,Klebsiella pneumoniae,Erythema,No,46,No,No,,Recovered
+83ba9879-e706-445e-8a98-3a04c6c5cd81,28,5,24.5,Obesity,Elective,54,1139,Yes,Placenta previa,37.6,99,16,107,71,93.2,8.5,32.0,4.17,0.7,Klebsiella pneumoniae,Pus discharge,No,26,Yes,Yes,2.0,ICU
+86f1a7e2-1f10-43e9-825f-3ded57ad0c73,30,3,34.2,Hypertension,Emergency,42,1160,Yes,Placenta previa,37.6,130,29,140,83,97.9,10.1,34.5,1.65,3.0,E. coli,Pus discharge,Yes,59,Yes,Yes,28.0,Recovered
+1c049d2e-7d4a-4179-9d54-c6dd566cfe39,21,5,24.8,None,Elective,96,304,No,Placenta previa,37.1,73,24,94,78,99.0,15.2,-5.3,0.68,3.7,Klebsiella pneumoniae,Clean,No,42,No,No,,Recovered
+13276633-82da-4e8d-9d6b-05b02fc92246,42,4,24.8,Hypertension,Emergency,72,545,Yes,Previous C-section,37.1,129,26,104,62,92.8,4.8,3.2,4.8,2.5,E. coli,Erythema,Yes,63,Yes,Yes,46.0,Mortality
+6b6320c6-ae5c-43c4-8dc5-786eb17b34cf,39,2,21.1,Hypertension,Elective,103,492,Yes,Placenta previa,36.0,74,19,139,85,99.8,7.9,48.0,4.93,1.7,Staphylococcus aureus,Erythema,No,78,Yes,Yes,42.0,Mortality
+8e2db06b-382f-4cdf-8963-24e0732b67c3,38,5,19.1,None,Emergency,63,408,Yes,Placenta previa,36.9,127,22,140,81,99.1,9.2,8.1,4.03,1.1,Staphylococcus aureus,Clean,Yes,27,Yes,Yes,2.0,Mortality
+4dca69ab-02c1-456f-8250-5e3d6cb221ae,45,0,27.3,Diabetes,Emergency,32,317,No,Placenta previa,36.5,118,18,134,65,98.0,8.6,20.8,3.25,1.9,Negative,Clean,Yes,34,Yes,Yes,27.0,ICU
+1dc494df-cdb1-4245-9ee9-3c59d6793873,43,0,25.1,Diabetes,Emergency,53,584,No,Previous C-section,37.6,100,19,135,75,99.9,9.9,29.7,0.84,0.6,Negative,Pus discharge,No,48,Yes,Yes,24.0,ICU
+ab5e3e3e-4735-4604-93c7-e934aea035a0,22,2,30.5,Obesity,Emergency,32,1164,Yes,Fetal distress,35.8,120,12,104,78,97.4,10.9,36.7,3.89,3.1,Klebsiella pneumoniae,Erythema,Yes,62,No,No,,Recovered
+33b0eb93-0442-47b5-be1b-a6226693f23d,43,1,21.1,Diabetes,Elective,117,1199,No,Prolonged labor,36.1,124,24,95,72,98.8,8.4,18.8,4.04,2.9,Negative,Clean,No,70,No,No,,Recovered
+5387305a-d35d-4050-b9ea-ef126b6e072f,35,2,29.5,None,Elective,48,1052,No,Fetal distress,37.0,77,30,133,71,98.1,10.9,31.4,0.15,3.9,Klebsiella pneumoniae,Clean,Yes,42,Yes,Yes,40.0,Recovered
+ee381f0e-54b5-456e-a528-f1b2cd47826c,19,0,27.9,Hypertension,Elective,93,423,No,Placenta previa,35.9,123,29,98,61,98.0,9.8,33.0,2.35,0.8,Staphylococcus aureus,Erythema,No,79,No,No,,Recovered
+bb9863be-a0fb-4837-adcd-ddc33347b0d3,40,3,21.1,Obesity,Emergency,61,1003,No,Prolonged labor,36.7,124,12,94,69,96.4,10.7,43.8,0.29,0.5,Klebsiella pneumoniae,Erythema,Yes,36,No,No,,Recovered
+0e54a4d3-ecf3-4df9-9e4d-ee76095ad615,31,1,26.6,Diabetes,Emergency,38,669,No,Placenta previa,37.3,130,12,101,89,96.6,7.6,-0.4,1.0,1.6,E. coli,Pus discharge,Yes,35,Yes,Yes,40.0,Mortality
+67a8af8c-763b-4a59-80ec-f89469be591e,20,1,33.4,Hypertension,Elective,110,817,Yes,Placenta previa,37.1,121,24,94,75,99.5,7.2,47.0,2.97,1.9,Klebsiella pneumoniae,Erythema,Yes,66,No,No,,Recovered
+92a1ee9a-a960-41d0-8df3-6ba8f8640db9,31,0,32.0,Diabetes,Emergency,37,358,Yes,Placenta previa,36.9,84,20,139,61,99.7,13.1,37.5,4.99,1.5,Staphylococcus aureus,Pus discharge,Yes,61,No,No,,Recovered
+466fb8fe-66a9-4818-8972-62c0e07d0edb,38,0,33.7,Diabetes,Elective,81,705,No,Fetal distress,36.5,131,17,121,80,95.9,14.4,11.9,0.06,3.5,Staphylococcus aureus,Erythema,No,47,Yes,Yes,48.0,ICU
+e98256c6-cea9-4e06-ac05-5d27744c06ad,45,3,25.0,Diabetes,Emergency,83,891,Yes,Placenta previa,36.5,82,25,134,88,95.6,10.5,35.1,3.07,3.2,E. coli,Clean,No,60,Yes,Yes,39.0,Mortality
+96f45dbf-4589-496d-946a-9fad10d2a7f0,27,2,23.8,Hypertension,Elective,89,443,No,Prolonged labor,36.9,103,12,117,64,93.4,11.2,52.2,4.54,0.9,Negative,Erythema,No,73,No,No,,Recovered
+c70c8409-10be-40ca-8f45-78b5fc03a2da,42,2,18.8,None,Elective,69,761,Yes,Prolonged labor,38.6,81,13,91,63,98.5,16.7,14.2,4.16,0.7,Negative,Erythema,No,31,No,No,,Recovered
+6d6063e0-7b9d-4b6c-b7e2-b6b4a7c5a58a,41,1,29.7,None,Elective,120,816,Yes,Fetal distress,37.3,136,13,131,86,97.9,11.5,38.2,3.86,3.1,Klebsiella pneumoniae,Clean,No,51,No,No,,Recovered
+751fa9a1-bdc4-47f7-91f9-fa77f0fda817,21,5,26.3,Hypertension,Emergency,111,801,Yes,Placenta previa,37.1,87,25,139,82,94.9,13.3,45.5,1.76,2.1,Klebsiella pneumoniae,Clean,No,73,Yes,Yes,27.0,ICU
+3f9fba76-d236-410a-bc22-77162240d8fd,20,3,32.9,None,Emergency,71,1147,No,Prolonged labor,37.0,121,13,111,85,94.8,7.9,-17.1,2.2,3.6,Klebsiella pneumoniae,Pus discharge,Yes,31,No,No,,Recovered
+003edbf4-ef36-4abc-a193-6ca59c3e4d8b,42,2,26.8,Diabetes,Elective,78,498,No,Placenta previa,37.5,67,21,90,61,99.2,6.5,34.0,4.02,1.6,Negative,Clean,No,53,Yes,Yes,22.0,Recovered
+0d6546bd-2841-49f9-ae3a-56edbce96047,36,4,18.5,Anemia,Emergency,109,948,Yes,Fetal distress,35.9,117,26,97,87,98.8,10.3,19.1,1.19,2.4,E. coli,Clean,No,23,Yes,Yes,12.0,Mortality
+5cf4c4a8-6485-47d2-b4c7-7bb5d89cd688,21,0,26.7,Hypertension,Elective,105,1023,Yes,Fetal distress,37.1,140,30,104,81,96.2,5.8,41.1,1.95,1.8,Klebsiella pneumoniae,Pus discharge,Yes,45,Yes,Yes,12.0,Mortality
+c5c26b15-bc8c-48ec-a06e-6104964e35d8,29,1,20.7,None,Elective,107,561,Yes,Previous C-section,38.7,123,30,103,68,94.9,12.0,13.5,3.52,1.7,Staphylococcus aureus,Clean,No,49,No,No,,Recovered
+9d3146a7-751f-43fc-b8a4-14d7ee8676c7,29,3,19.4,Diabetes,Elective,120,419,No,Prolonged labor,36.8,63,24,131,64,97.5,12.6,35.6,2.03,2.0,E. coli,Erythema,No,72,Yes,Yes,14.0,Mortality
+466cc8dd-f49a-4bea-854d-a37a99c2a5a7,38,0,23.5,Hypertension,Elective,80,825,No,Placenta previa,35.9,110,28,136,66,94.1,5.4,16.4,2.87,2.8,Negative,Pus discharge,Yes,34,Yes,Yes,35.0,Mortality
+94b26a95-4627-438c-b231-fe2e44d75e1d,44,3,33.9,Diabetes,Elective,53,500,Yes,Fetal distress,36.7,61,19,128,77,92.4,13.9,35.0,0.2,2.6,E. coli,Clean,No,45,Yes,Yes,33.0,Recovered
+8ac5d549-ab8b-4f1f-a46e-83094d9d4412,19,4,31.4,None,Elective,41,332,No,Fetal distress,37.3,130,25,136,76,93.8,10.4,13.4,1.33,3.2,Klebsiella pneumoniae,Pus discharge,No,62,No,No,,Recovered
+38ffaf1d-bffe-47df-9277-d95aead86ac7,43,0,26.4,Diabetes,Elective,62,947,Yes,Fetal distress,37.3,132,15,122,89,92.8,8.5,3.2,0.49,0.9,E. coli,Clean,Yes,61,Yes,Yes,46.0,Mortality
+e74e4321-2e02-4d27-ba9c-dfdb834fa34c,23,3,29.7,Hypertension,Elective,55,682,Yes,Previous C-section,37.9,116,14,129,64,97.2,8.2,37.5,4.08,0.6,Staphylococcus aureus,Clean,No,39,No,No,,Recovered
+352ee882-7f99-4885-9138-f633d15885bc,20,4,21.8,Obesity,Elective,74,1191,Yes,Prolonged labor,35.4,114,21,95,77,98.0,13.2,49.8,1.66,3.7,Negative,Erythema,No,61,No,No,,Recovered
+330e44c6-fef7-48fd-a0a3-234b89fe5fb4,22,1,23.8,None,Elective,74,1028,No,Previous C-section,35.9,140,26,133,80,94.3,7.1,-12.8,0.23,3.6,Negative,Erythema,Yes,23,Yes,Yes,9.0,Mortality
+a94a048b-d4fa-4dd2-846a-3c5aa6e7617c,20,5,23.2,Obesity,Emergency,64,308,Yes,Fetal distress,37.5,74,27,123,71,97.6,11.7,-8.1,2.43,3.8,Klebsiella pneumoniae,Pus discharge,No,24,Yes,Yes,33.0,ICU
+38f04e99-4a06-4de2-8daa-cff3dbd7c73d,18,2,23.6,None,Elective,62,1192,Yes,Prolonged labor,37.1,60,21,95,65,92.6,11.3,39.2,2.96,2.3,Staphylococcus aureus,Clean,No,46,No,No,,Recovered
+845baafe-fd12-46e1-a19a-efe2d901053a,29,5,32.6,Obesity,Emergency,113,817,No,Prolonged labor,37.4,117,30,108,68,94.4,14.1,17.8,1.1,3.4,Staphylococcus aureus,Erythema,No,21,No,No,,Recovered
+215dbb0e-2391-4b1b-ab88-f6565cd16451,44,5,34.1,Obesity,Emergency,95,952,Yes,Fetal distress,37.6,96,12,91,64,94.1,10.4,63.6,0.31,3.4,E. coli,Clean,No,38,No,No,,Recovered
+f5e67322-a45e-481d-b4a6-7e0feb3501b1,22,4,32.1,Hypertension,Elective,50,337,No,Previous C-section,37.0,88,21,135,71,98.6,7.8,37.4,2.77,3.7,Staphylococcus aureus,Clean,No,24,No,No,,Recovered
+642bab83-f789-4dfc-a9c3-75a494253ccb,41,5,30.7,Obesity,Emergency,83,685,No,Previous C-section,37.5,105,17,121,70,98.4,12.4,14.4,4.37,2.5,Staphylococcus aureus,Erythema,Yes,68,No,No,,Recovered
+f4a4c7d1-76f3-4b79-b7bc-dea4cb790846,34,4,22.5,Obesity,Elective,70,999,Yes,Fetal distress,36.1,138,23,128,84,96.9,7.5,34.4,0.51,1.8,Negative,Erythema,Yes,77,Yes,Yes,21.0,Recovered
+06bda493-0286-47c4-b32b-bb8f6890a4e6,28,2,24.8,Hypertension,Emergency,109,1197,No,Previous C-section,36.0,69,30,131,71,99.8,11.6,7.9,3.85,3.6,E. coli,Clean,No,34,Yes,Yes,40.0,Mortality
+67fb0a2b-2c14-4918-af34-885767131cd8,36,2,25.6,Diabetes,Emergency,61,1114,Yes,Prolonged labor,37.3,97,28,106,89,98.0,14.4,12.3,0.46,2.5,Klebsiella pneumoniae,Pus discharge,Yes,49,No,No,,Recovered
+7375f0c7-84e7-4532-909d-ad4015200595,19,5,34.7,Anemia,Elective,86,1065,No,Prolonged labor,36.6,121,12,115,60,94.1,10.5,11.7,1.26,3.8,Negative,Erythema,No,64,Yes,Yes,8.0,ICU
+0558f267-2e37-4fdb-a7e2-521aeabab3f1,37,2,18.5,Diabetes,Emergency,34,744,No,Placenta previa,36.1,96,21,139,85,95.7,11.7,37.3,0.08,3.9,Negative,Pus discharge,Yes,36,No,No,,Recovered
+4d99ea3a-c432-4545-8300-725e37ec000f,32,3,21.1,Diabetes,Emergency,60,752,Yes,Previous C-section,36.6,63,25,99,87,97.2,8.8,52.9,1.97,2.5,Klebsiella pneumoniae,Erythema,No,42,No,No,,Recovered
+d8e9744c-f1ba-4dc8-a67c-6a49482e6d8a,21,4,18.3,Anemia,Elective,43,647,Yes,Prolonged labor,38.5,78,17,134,61,98.6,10.9,30.9,1.52,1.0,Klebsiella pneumoniae,Clean,Yes,23,Yes,Yes,39.0,Recovered
+74d167a0-658a-449f-8f4e-b1b04c6d2a6e,35,4,24.1,Diabetes,Elective,33,1165,No,Placenta previa,37.3,73,25,108,67,94.2,10.3,16.7,2.91,2.3,Negative,Clean,Yes,55,No,No,,Recovered
+a0d8f611-c12d-47b4-b6d0-1696194b6cd8,22,3,18.3,Obesity,Emergency,115,1048,Yes,Prolonged labor,35.3,61,27,129,80,92.2,7.2,43.9,0.72,2.9,Klebsiella pneumoniae,Erythema,No,66,No,No,,Recovered
+9dde9e89-c26b-4d16-b344-6965168ab257,38,0,32.0,Diabetes,Emergency,87,544,Yes,Previous C-section,37.7,109,16,113,64,93.5,7.9,-12.5,0.25,3.4,Staphylococcus aureus,Erythema,No,34,Yes,Yes,5.0,Mortality
+40793dc9-9498-4880-be89-faf9ee73340a,27,2,33.3,Anemia,Emergency,96,888,No,Prolonged labor,37.3,98,12,131,81,98.1,6.9,18.1,0.66,3.8,Klebsiella pneumoniae,Erythema,Yes,78,No,No,,Recovered
+75b0d1a4-17d2-43b7-91fd-f0f8df596f92,33,1,22.4,Anemia,Emergency,112,424,No,Fetal distress,35.9,135,17,121,77,93.3,11.7,-0.6,4.25,3.6,Klebsiella pneumoniae,Clean,Yes,55,Yes,Yes,15.0,Mortality
+78351a9e-0aec-4770-92a1-7b2ed70a0ed0,31,2,34.6,Obesity,Elective,112,1194,Yes,Fetal distress,36.6,108,24,116,69,94.6,10.8,55.5,4.81,2.3,E. coli,Erythema,Yes,48,Yes,Yes,33.0,ICU
+74e7c430-e904-4302-b6fa-0fec5840091f,19,2,25.1,Hypertension,Elective,48,358,No,Fetal distress,36.7,78,15,100,80,92.8,6.6,23.0,0.63,3.6,Klebsiella pneumoniae,Pus discharge,Yes,70,No,No,,Recovered
+1c69113d-4f9f-49b5-9aa3-f0b517dc0ce3,32,5,26.3,Anemia,Emergency,58,705,Yes,Fetal distress,38.8,102,12,110,72,95.9,11.6,40.9,0.8,3.1,Staphylococcus aureus,Erythema,Yes,72,Yes,Yes,47.0,Recovered
+ffd6f546-f428-4742-a0f1-2920f8bf9871,23,4,22.7,Obesity,Emergency,76,1177,No,Placenta previa,38.2,66,14,112,72,99.7,7.3,15.1,3.11,3.1,Staphylococcus aureus,Pus discharge,Yes,47,Yes,Yes,5.0,ICU
+060b2c3f-e289-4a7c-9cd9-c794e9552044,27,2,21.5,None,Emergency,83,1113,Yes,Prolonged labor,37.1,63,18,90,60,98.7,8.4,58.4,0.8,2.8,Klebsiella pneumoniae,Erythema,No,75,Yes,Yes,34.0,Mortality
+3df44aa3-72c7-4453-816f-e62bdaaa38c7,23,2,26.9,Diabetes,Emergency,106,995,Yes,Fetal distress,35.8,112,15,126,81,97.3,12.1,13.6,1.8,3.7,E. coli,Clean,Yes,57,No,No,,Recovered
+a77bf144-2ff1-4260-a52c-469681521eee,18,4,30.4,Diabetes,Emergency,56,320,No,Fetal distress,34.6,115,16,102,62,94.9,15.5,35.1,3.36,2.8,Staphylococcus aureus,Pus discharge,No,37,Yes,Yes,45.0,Recovered
+d12ec9bd-9d57-4cc6-b45e-89e3de57030d,21,5,19.9,Diabetes,Elective,97,404,No,Prolonged labor,36.6,64,12,108,81,95.3,7.5,50.3,1.92,2.8,Klebsiella pneumoniae,Erythema,No,70,No,No,,Recovered
+bd2d9510-cd30-4759-98b2-bef8f625da96,42,2,22.7,Anemia,Elective,54,825,No,Placenta previa,36.9,90,30,112,71,99.4,12.3,11.5,0.62,1.7,Staphylococcus aureus,Clean,Yes,71,No,No,,Recovered
+b46eca49-7d91-4268-ab17-52423cae017c,28,4,21.3,Anemia,Emergency,62,1001,Yes,Previous C-section,37.8,93,24,124,62,98.2,15.0,35.2,4.33,3.5,Klebsiella pneumoniae,Clean,No,36,Yes,Yes,16.0,Recovered
+b4a560f6-60f6-4060-9869-61723aec036c,32,4,32.0,Obesity,Emergency,53,849,Yes,Previous C-section,36.6,111,29,102,65,97.3,10.3,42.0,2.86,1.5,Staphylococcus aureus,Erythema,No,32,Yes,Yes,40.0,Recovered
+d21bd869-0eaa-4ef1-84e3-e3c5c3afbe22,35,2,23.2,None,Elective,117,687,No,Placenta previa,39.0,134,12,90,66,99.8,8.9,33.2,0.98,2.3,E. coli,Erythema,Yes,50,Yes,Yes,31.0,Mortality
+70a28360-95b5-46d9-a1c6-a6ba4191d6d4,20,1,23.8,Anemia,Emergency,86,932,Yes,Previous C-section,38.1,60,25,100,79,94.6,10.4,43.7,4.63,2.7,Staphylococcus aureus,Erythema,Yes,29,Yes,Yes,4.0,Recovered
+d40ba110-e272-4c0c-b081-1d4733624678,44,0,34.2,None,Elective,100,381,No,Prolonged labor,39.0,89,14,104,85,96.9,8.8,12.7,4.49,2.5,E. coli,Clean,No,29,No,No,,Recovered
+c561d796-7ef3-48ec-afc9-07028c3f4471,23,0,29.8,Hypertension,Elective,80,345,No,Fetal distress,37.3,136,14,96,90,99.3,14.5,28.2,0.31,2.3,Staphylococcus aureus,Pus discharge,Yes,72,Yes,Yes,4.0,Recovered
+78452556-a54a-4518-8575-5b36935f58c1,32,4,19.1,Obesity,Elective,87,961,No,Prolonged labor,37.9,137,16,91,67,94.5,11.3,3.0,2.88,0.8,Klebsiella pneumoniae,Clean,No,49,No,No,,Recovered
+f849ebb6-f5c5-4c07-ae2f-b8afebe696c5,30,5,19.9,None,Emergency,53,970,No,Prolonged labor,37.7,70,16,99,70,93.3,9.7,17.4,0.23,4.0,Negative,Pus discharge,No,21,No,No,,Recovered
+5f6b03ef-fa11-4add-a06a-5ee56c7dda4b,20,5,20.6,Hypertension,Elective,51,614,No,Prolonged labor,37.3,60,28,133,67,99.6,9.6,40.2,4.19,2.6,Staphylococcus aureus,Clean,No,24,Yes,Yes,38.0,Mortality
+c66f4c8e-386f-4a97-9d87-30ccd9de15dc,41,3,29.9,Obesity,Emergency,51,505,Yes,Prolonged labor,37.4,75,15,127,66,94.1,10.4,23.8,2.61,2.0,Negative,Erythema,No,62,Yes,Yes,24.0,ICU
+ad4c9bde-8a0b-4680-b9da-955348dac3fe,25,2,27.3,None,Emergency,42,886,No,Placenta previa,37.1,89,14,117,75,93.1,5.7,6.9,3.01,2.4,Klebsiella pneumoniae,Pus discharge,Yes,71,No,No,,Recovered
+c7f6e92a-e734-44f3-8b47-3b2d9b1f620a,23,2,23.5,Hypertension,Elective,114,392,Yes,Prolonged labor,37.0,95,28,130,75,95.4,9.1,43.0,4.88,2.7,E. coli,Pus discharge,Yes,66,Yes,Yes,25.0,ICU
+8f9eec13-fee4-4e2d-ac80-92d99965dc90,38,1,29.3,Diabetes,Elective,30,501,No,Placenta previa,36.9,82,18,104,83,92.3,15.1,16.8,0.3,1.4,Klebsiella pneumoniae,Erythema,No,79,No,No,,Recovered
+bfc16c63-f623-4fb1-b7a9-1689d0059217,34,3,33.0,Anemia,Emergency,38,1024,Yes,Placenta previa,37.2,70,30,105,83,93.8,13.6,61.8,2.82,1.2,Negative,Erythema,No,24,Yes,Yes,47.0,ICU
+bdfec555-374d-4631-b6a9-d013050328b0,29,1,22.0,None,Emergency,59,610,Yes,Fetal distress,36.2,128,22,116,68,94.2,11.4,-3.1,1.55,1.6,E. coli,Pus discharge,No,33,No,No,,Recovered
+b45580b0-9fa3-468e-ae41-d40c54c8259c,22,3,27.4,Diabetes,Elective,120,965,Yes,Prolonged labor,37.1,96,25,137,77,94.6,12.7,22.4,0.5,1.0,Negative,Pus discharge,No,56,No,No,,Recovered
+0ddecd6e-a287-412a-8726-a0033261b44e,24,5,31.0,None,Elective,92,522,Yes,Placenta previa,36.9,106,23,123,71,98.5,10.8,58.8,0.6,3.4,Klebsiella pneumoniae,Pus discharge,No,63,No,No,,Recovered
+526d3eea-a98b-4a45-9987-26b3962a6428,45,3,31.8,None,Emergency,65,428,No,Previous C-section,36.2,95,17,132,81,99.6,12.5,82.8,1.34,1.3,E. coli,Pus discharge,Yes,47,No,No,,Recovered
+0d9a26fc-902c-4460-ac6d-4078402d95e1,18,1,35.0,Anemia,Elective,55,1117,Yes,Fetal distress,35.5,101,26,111,90,98.6,13.5,32.2,3.39,2.3,E. coli,Clean,Yes,74,No,No,,Recovered
+01ad6b84-7554-4f89-9429-24c63fff0837,34,5,23.6,Anemia,Elective,42,816,Yes,Prolonged labor,37.3,79,22,119,80,98.0,9.9,60.8,1.0,3.6,Staphylococcus aureus,Pus discharge,Yes,27,Yes,Yes,17.0,Recovered
+3a8cc7e1-5b9f-4b6f-ade4-5df92835a7f3,23,3,26.1,None,Elective,78,795,No,Previous C-section,36.8,93,13,116,86,97.1,10.5,36.7,4.22,2.5,E. coli,Erythema,No,22,No,No,,Recovered
+c977ef1a-dd0d-4259-b127-4bb3d40f84e2,40,5,30.8,Diabetes,Emergency,37,1022,Yes,Previous C-section,37.2,126,17,97,80,94.7,16.4,48.3,3.44,3.0,Klebsiella pneumoniae,Pus discharge,No,20,No,No,,Recovered
+79e80e8d-1c2e-411e-b1d4-3bad63e7e487,25,1,27.3,None,Emergency,60,534,Yes,Fetal distress,37.4,124,14,132,63,95.3,8.9,50.7,4.44,1.7,E. coli,Erythema,Yes,30,Yes,Yes,16.0,Mortality
+1a63dad0-5526-4e94-a45a-f1e477f3e320,24,0,31.7,Obesity,Elective,88,1019,No,Previous C-section,37.0,113,21,118,60,98.6,12.0,29.8,3.09,1.6,E. coli,Clean,No,33,No,No,,Recovered
+044d971d-b108-4251-b8aa-9c671de1cf81,29,5,31.3,Hypertension,Emergency,60,735,No,Previous C-section,37.2,97,24,113,74,99.8,14.7,30.3,0.75,2.5,Staphylococcus aureus,Clean,No,80,Yes,Yes,11.0,ICU
+55e2cc26-cc0d-49eb-a9e6-2f78f8ca1ab1,27,2,18.0,Diabetes,Emergency,77,630,Yes,Placenta previa,36.4,123,24,116,71,99.1,13.8,39.5,1.81,0.6,Staphylococcus aureus,Erythema,Yes,54,Yes,Yes,2.0,Recovered
+25c0b537-b6b8-45e6-8523-20f0b4a0f662,20,3,31.3,Anemia,Elective,40,1000,Yes,Previous C-section,37.2,121,13,100,89,96.1,8.4,1.0,2.47,2.9,E. coli,Pus discharge,No,68,No,No,,Recovered
+a13c1588-58cd-41c2-b7a7-0d293d84b94d,45,0,33.8,Diabetes,Emergency,88,490,No,Previous C-section,36.8,111,24,116,74,92.6,12.2,52.0,1.57,2.8,Staphylococcus aureus,Erythema,No,43,Yes,Yes,22.0,Mortality
+bb1c436f-82d2-4cb8-89d0-7aab8bc0c360,43,2,29.4,Anemia,Elective,45,307,No,Previous C-section,37.1,99,30,110,82,92.5,12.0,0.2,2.99,2.6,E. coli,Erythema,Yes,24,Yes,Yes,44.0,Mortality
+b1399cbd-7333-46f0-ab9a-b16022fd20ce,43,0,27.2,Diabetes,Elective,61,639,Yes,Prolonged labor,37.3,116,14,125,85,96.4,4.0,36.4,1.95,2.5,E. coli,Pus discharge,Yes,61,Yes,Yes,40.0,Recovered
+6fbd3c12-38b6-4528-892b-2537fa383894,32,4,23.8,Hypertension,Emergency,59,442,No,Fetal distress,38.0,76,18,106,85,96.6,12.9,12.1,0.22,1.7,Negative,Clean,No,25,No,No,,Recovered
+0ce9d500-a2b0-4bde-ad73-a26abefd8477,20,1,22.8,Anemia,Elective,80,424,No,Placenta previa,36.8,91,22,124,76,95.9,15.3,-2.1,1.55,3.6,Staphylococcus aureus,Clean,No,54,No,No,,Recovered
+ed05be63-2c9a-46d2-96cd-6a2c5cf7109a,33,3,27.7,Obesity,Elective,116,551,Yes,Placenta previa,38.4,97,21,99,84,99.4,13.9,7.5,0.71,2.0,E. coli,Pus discharge,No,35,Yes,Yes,43.0,ICU
+fd6c8c96-e4d2-48bc-8579-628678a2ec17,21,2,27.7,Anemia,Emergency,50,971,No,Prolonged labor,37.8,127,26,122,60,93.6,9.0,26.3,0.7,2.0,Staphylococcus aureus,Erythema,No,52,Yes,Yes,48.0,Mortality
+852a65df-8dcf-4311-ae89-a055a8b68a2a,31,2,30.8,Obesity,Elective,32,1018,No,Fetal distress,37.9,103,20,128,74,93.7,12.3,24.5,3.81,2.8,Negative,Clean,Yes,72,Yes,Yes,46.0,Mortality
+fb28b8d2-a7f5-4cc9-b9e9-27dbbb04d510,45,3,29.3,Obesity,Elective,119,559,No,Placenta previa,36.1,91,27,98,78,93.7,9.4,54.4,0.7,3.6,Klebsiella pneumoniae,Pus discharge,No,47,No,No,,Recovered
+37a7fccf-68a0-4fe2-9ff3-cbe92fbc184e,27,5,29.8,Hypertension,Elective,78,420,Yes,Prolonged labor,37.1,94,21,114,65,98.3,14.6,17.1,2.58,3.8,Staphylococcus aureus,Pus discharge,No,57,No,No,,Recovered
+d2f82b44-7a50-48f1-bb99-8fd7bfc2d173,31,4,30.3,Diabetes,Emergency,75,627,No,Prolonged labor,37.1,113,21,125,89,100.0,6.3,56.5,3.7,1.7,Klebsiella pneumoniae,Clean,No,30,No,No,,Recovered
+b8728727-b53b-45ad-8469-b6972023c22d,42,3,23.6,Anemia,Elective,92,1076,Yes,Fetal distress,37.0,74,30,96,85,97.5,13.3,21.4,3.52,1.1,E. coli,Erythema,No,34,Yes,Yes,13.0,Mortality
+203b86d2-de83-4a03-82cb-6d8e4876425a,23,3,32.7,None,Emergency,102,845,No,Previous C-section,36.5,82,13,108,67,92.7,3.0,18.7,3.48,1.2,Staphylococcus aureus,Pus discharge,No,27,No,No,,Recovered
+c51c6bca-09df-41b5-82f9-1e023f408fe1,36,3,30.8,Obesity,Emergency,31,430,Yes,Placenta previa,36.6,136,27,120,65,98.4,12.2,69.5,3.09,1.5,Staphylococcus aureus,Clean,No,63,Yes,Yes,40.0,Mortality
+4f7634ca-eabf-476b-aab8-61f2843d0170,37,3,28.8,Obesity,Emergency,63,969,Yes,Previous C-section,37.0,125,19,116,82,94.6,10.9,4.1,3.96,3.1,Staphylococcus aureus,Erythema,No,61,No,No,,Recovered
+837d5001-fc2f-4e66-834f-9cee0ed8232f,43,3,33.1,Obesity,Elective,55,694,Yes,Previous C-section,35.8,121,29,104,72,97.1,10.1,27.9,3.49,3.5,Negative,Pus discharge,No,25,Yes,Yes,23.0,Recovered
+638c7ab7-c6d4-4cbd-872f-ca2cd36a2304,36,0,31.6,Diabetes,Elective,34,806,No,Prolonged labor,36.9,126,21,120,63,92.6,9.1,29.3,2.96,2.5,E. coli,Erythema,No,49,No,No,,Recovered
+8fd38215-d211-4cbc-9fbd-3db990af6b45,22,5,19.6,Hypertension,Elective,115,465,No,Placenta previa,37.8,91,18,121,75,99.6,13.9,52.3,2.49,0.8,Klebsiella pneumoniae,Clean,Yes,60,Yes,Yes,14.0,Recovered
+c31392c9-d399-44c9-8724-ca1671a84ff0,40,0,22.2,Diabetes,Elective,110,396,No,Fetal distress,36.7,61,12,116,78,93.5,12.4,45.6,0.7,3.9,Klebsiella pneumoniae,Erythema,Yes,70,Yes,Yes,27.0,Mortality
+1880df20-15c5-48ba-b25f-5a796a1d2107,42,3,21.6,Hypertension,Emergency,37,1105,Yes,Fetal distress,37.3,70,20,140,71,99.5,3.8,13.1,0.68,3.2,Staphylococcus aureus,Erythema,No,31,Yes,Yes,1.0,Recovered
+c4be65a5-4665-4edb-ba58-18d983785c56,44,1,22.8,None,Emergency,71,1187,No,Fetal distress,36.7,137,17,107,81,96.4,10.4,46.0,1.72,2.8,Klebsiella pneumoniae,Erythema,No,33,No,No,,Recovered
+bd6d87a0-7087-4212-adb2-a0edd623734f,39,1,25.5,None,Elective,109,563,Yes,Previous C-section,36.4,99,21,137,73,97.5,10.6,-0.8,4.54,2.5,Staphylococcus aureus,Pus discharge,No,77,No,No,,Recovered
+a79e1048-5d63-47e7-8fe9-682f178fadbe,24,4,25.0,Diabetes,Elective,109,1194,No,Fetal distress,36.8,121,17,124,63,93.1,8.1,14.0,2.68,3.7,E. coli,Clean,No,43,No,No,,Recovered
+54f12f51-f4fd-47eb-9faf-222afc83c490,32,5,34.4,Hypertension,Elective,56,449,Yes,Placenta previa,37.7,64,24,104,65,96.6,10.6,1.6,4.82,1.6,Klebsiella pneumoniae,Clean,Yes,43,No,No,,Recovered
+843e8605-382f-431e-9aa6-9660bdffcd71,43,2,34.5,Diabetes,Emergency,116,948,Yes,Previous C-section,37.1,119,17,129,85,92.0,10.0,39.5,0.2,2.6,Negative,Erythema,Yes,72,No,No,,Recovered
+74cfacb6-a5c2-48bf-ba49-009f116fd119,45,3,27.0,Hypertension,Elective,94,789,No,Prolonged labor,36.9,102,28,113,89,94.2,6.3,50.0,3.17,2.3,Staphylococcus aureus,Clean,No,50,No,No,,Recovered
+9e821b65-6c64-4faf-98df-f9c89f4244e2,38,0,22.6,Diabetes,Elective,50,1096,No,Placenta previa,36.8,111,15,100,78,92.5,10.1,14.7,4.44,2.6,Staphylococcus aureus,Pus discharge,No,66,Yes,Yes,3.0,Mortality
+ac63e3ea-fd01-4520-a9c7-159d8a9f0bbd,34,4,21.1,Diabetes,Elective,118,520,Yes,Previous C-section,36.3,127,24,103,68,96.5,11.3,51.0,0.79,3.0,Staphylococcus aureus,Pus discharge,No,75,No,No,,Recovered
+6be3bd3f-0141-4f8e-8882-1afce237b57b,39,4,30.1,None,Elective,43,620,Yes,Previous C-section,38.6,106,13,115,73,95.9,10.4,49.1,1.29,1.7,Staphylococcus aureus,Erythema,Yes,42,No,No,,Recovered
+a37662bc-96d9-44b5-bb73-72e392495ec8,18,5,31.7,Anemia,Emergency,34,1069,Yes,Fetal distress,37.4,136,30,97,89,94.9,4.3,10.1,2.3,1.6,E. coli,Clean,No,41,No,No,,Recovered
+36c758c2-4ebb-4be5-bd96-c47a178841bc,27,3,34.9,Diabetes,Emergency,49,930,Yes,Placenta previa,38.3,73,22,124,71,99.6,4.4,71.1,0.74,1.7,Staphylococcus aureus,Erythema,No,80,No,No,,Recovered
+3e5a7753-a6c9-4426-b6ce-d70364ee9844,38,3,22.8,Anemia,Emergency,83,439,No,Fetal distress,36.3,135,22,128,74,99.4,10.0,40.4,2.86,3.1,E. coli,Erythema,No,80,No,No,,Recovered
+cd53c365-8abb-4acd-b727-e845e1512b36,34,5,26.9,Diabetes,Elective,33,600,No,Placenta previa,36.4,81,27,102,88,93.4,8.4,6.9,1.69,3.1,Negative,Clean,Yes,77,Yes,Yes,12.0,ICU
+80975e47-eb5c-4934-bd65-33b826e92b39,42,3,34.1,None,Elective,66,783,No,Fetal distress,37.0,124,18,101,84,94.8,7.1,8.9,4.5,2.2,Klebsiella pneumoniae,Pus discharge,No,77,No,No,,Recovered
+d57ab7bb-ec65-4007-a018-873f7cd76a0b,35,1,18.1,Anemia,Emergency,30,630,No,Placenta previa,36.8,139,29,97,86,92.1,7.5,60.1,4.27,2.2,Staphylococcus aureus,Erythema,Yes,36,No,No,,Recovered
+ac6c4340-6ddb-4975-9350-5e57e27a333c,28,2,30.8,Diabetes,Elective,55,524,No,Prolonged labor,35.5,117,18,136,65,98.8,9.2,46.8,0.96,3.6,E. coli,Erythema,No,77,No,No,,Recovered
+42742fc4-73c0-484d-82d5-5a2d401f58f0,43,0,18.7,None,Elective,116,786,Yes,Placenta previa,36.6,73,20,99,90,95.8,12.7,50.6,4.41,2.3,Klebsiella pneumoniae,Clean,Yes,80,No,No,,Recovered
+156fe1fa-6597-436a-9484-42b530180e9a,32,5,32.5,Anemia,Emergency,103,682,Yes,Prolonged labor,36.9,90,15,119,64,99.5,8.8,37.1,3.71,3.6,E. coli,Clean,Yes,60,Yes,Yes,48.0,ICU
+70780732-ab50-453b-8311-de25dc0354b3,28,3,28.2,Obesity,Elective,67,841,No,Prolonged labor,36.3,108,14,118,88,96.0,8.1,24.2,3.79,4.0,E. coli,Erythema,Yes,66,Yes,Yes,16.0,Recovered
+cd233ec6-ea7c-47ad-a82f-ab97979e54fc,37,4,26.7,Hypertension,Emergency,65,490,No,Previous C-section,36.3,136,25,122,79,92.8,14.3,29.5,1.25,1.2,E. coli,Pus discharge,Yes,44,Yes,Yes,32.0,ICU
+8b78758c-9c51-444c-952f-654b88970991,21,0,23.3,None,Emergency,31,1130,No,Previous C-section,37.2,127,25,140,77,95.9,10.8,40.0,0.54,0.7,E. coli,Erythema,No,69,Yes,Yes,37.0,ICU
+07939bc5-e403-4f93-9a9a-22f493594485,23,4,25.7,Obesity,Elective,59,753,No,Fetal distress,36.0,83,19,116,86,96.8,15.1,4.6,4.26,3.6,Negative,Clean,No,60,No,No,,Recovered
+1b5628d9-b9dd-4785-85e3-2f8f817bcc79,40,1,32.1,Anemia,Emergency,77,828,No,Placenta previa,36.8,98,27,139,86,94.1,6.1,47.3,2.92,4.0,Staphylococcus aureus,Clean,Yes,65,Yes,Yes,30.0,ICU
+24ab2cfd-b747-4e22-8a29-128ac0ea4fb6,20,0,29.3,None,Emergency,42,772,Yes,Prolonged labor,37.0,64,17,93,64,92.5,7.3,46.5,2.56,1.0,Staphylococcus aureus,Erythema,No,21,Yes,Yes,43.0,Recovered
+18dc61a6-3cc3-4c26-b39b-48708c205d81,29,2,22.4,None,Emergency,75,331,Yes,Previous C-section,38.6,74,20,124,82,98.9,8.6,44.0,0.77,0.8,Klebsiella pneumoniae,Pus discharge,No,31,No,No,,Recovered
+58e51baf-5b4d-4d25-b995-a70d7805e6b1,35,0,19.1,Diabetes,Emergency,65,346,Yes,Fetal distress,35.2,123,25,101,62,93.4,8.9,6.4,4.89,0.7,Staphylococcus aureus,Pus discharge,Yes,45,Yes,Yes,13.0,Recovered
+f8036ff8-7e94-4287-95be-23e972464053,33,0,32.4,Diabetes,Elective,59,513,No,Placenta previa,37.7,74,20,106,74,99.5,15.0,42.1,1.33,3.9,Klebsiella pneumoniae,Pus discharge,No,31,Yes,Yes,24.0,Mortality
+b440d266-1da6-440f-bca9-6b301d76137e,41,2,23.9,Anemia,Elective,51,1121,Yes,Placenta previa,36.1,109,12,111,68,95.9,7.0,19.2,0.55,2.1,Staphylococcus aureus,Clean,No,21,No,No,,Recovered
+2b52ff76-3270-4549-b3f3-ee5c50b0a495,35,5,33.8,Diabetes,Emergency,45,913,Yes,Prolonged labor,37.1,122,20,103,90,92.8,16.0,27.4,2.51,3.6,Staphylococcus aureus,Clean,No,36,No,No,,Recovered
+165020d6-87bb-40a2-a3e1-64b2afafcb38,28,4,28.3,None,Elective,85,459,Yes,Placenta previa,38.3,77,21,110,83,96.0,12.8,0.7,0.16,2.9,Staphylococcus aureus,Clean,No,27,No,No,,Recovered
+acc93fe5-0248-4caf-9e0a-90729f4d3dd3,29,4,21.7,Anemia,Elective,94,869,No,Prolonged labor,36.2,71,20,121,86,95.2,14.8,4.0,1.7,1.0,Klebsiella pneumoniae,Pus discharge,No,41,No,No,,Recovered
+2bc68b9e-2f34-4cb0-8cb8-abf509471832,33,3,19.1,None,Emergency,107,897,Yes,Placenta previa,37.1,131,14,90,69,99.1,15.7,31.4,0.51,2.7,Klebsiella pneumoniae,Clean,No,80,Yes,Yes,9.0,ICU
+5e143d73-408f-4304-8b5c-dc288aec8637,21,5,21.7,Diabetes,Elective,51,1179,Yes,Prolonged labor,36.4,62,30,117,63,96.3,5.2,49.7,1.2,2.2,Staphylococcus aureus,Clean,Yes,59,Yes,Yes,47.0,ICU
+74e71c8e-5aab-4f1e-a822-5cc1148ae161,26,4,19.8,Hypertension,Elective,69,1063,No,Fetal distress,37.4,96,23,105,69,98.1,9.9,31.1,1.14,3.1,E. coli,Pus discharge,No,79,Yes,Yes,37.0,Recovered
+5edb730b-a1b6-4422-8d5b-647016fbd81b,28,3,32.4,Obesity,Elective,107,680,Yes,Previous C-section,37.2,84,30,131,81,98.3,12.6,33.0,2.97,4.0,Klebsiella pneumoniae,Erythema,No,43,No,No,,Recovered
+1c5c6c55-4362-4f18-9f03-d914a5056003,29,1,26.1,None,Emergency,30,908,No,Prolonged labor,36.2,105,26,114,63,96.9,10.6,23.9,0.61,2.7,Klebsiella pneumoniae,Clean,Yes,46,Yes,Yes,9.0,Mortality
+2231385b-594b-4177-9847-4a19fc2eb203,24,2,33.6,Diabetes,Emergency,57,817,No,Prolonged labor,38.1,134,29,103,60,95.9,8.1,45.6,1.31,2.4,Klebsiella pneumoniae,Pus discharge,No,37,Yes,Yes,2.0,Mortality
+de2f06f2-f693-4b10-a8ea-9c28f6039ac6,32,5,33.1,Diabetes,Elective,33,304,Yes,Prolonged labor,36.4,73,28,99,78,96.0,7.3,54.9,4.17,3.8,E. coli,Clean,No,29,Yes,Yes,20.0,Recovered
+ec8252be-d766-486b-8089-c8a58cd7456e,36,5,32.7,Diabetes,Elective,96,917,No,Prolonged labor,35.7,82,15,124,83,96.6,6.8,36.3,2.86,2.6,E. coli,Pus discharge,No,21,Yes,Yes,31.0,ICU
+9e2a7a20-092a-4774-872e-253c67a4ef10,25,2,21.0,Anemia,Elective,60,562,Yes,Fetal distress,37.7,95,21,116,69,97.1,7.0,14.1,2.75,2.6,Klebsiella pneumoniae,Erythema,No,46,Yes,Yes,29.0,Mortality
+7d98337d-e2cc-4cba-bbb8-800fdf312691,21,4,29.5,Hypertension,Elective,86,817,No,Prolonged labor,36.6,92,21,94,61,96.7,8.8,53.0,4.71,2.7,Staphylococcus aureus,Clean,No,35,Yes,Yes,42.0,ICU
+d299c6d3-4706-47df-bcb7-51f0e26b75d0,33,5,19.6,Anemia,Emergency,58,1062,No,Prolonged labor,37.9,94,22,139,69,96.3,9.2,45.5,1.06,1.9,Staphylococcus aureus,Pus discharge,Yes,32,No,No,,Recovered
+bb91c4cd-8feb-421c-86af-e7a1a8078716,38,1,21.0,Diabetes,Elective,79,946,Yes,Placenta previa,37.0,103,28,99,82,94.4,6.5,5.4,3.99,0.7,Klebsiella pneumoniae,Pus discharge,Yes,25,No,No,,Recovered
+f19cde40-d9fa-4b5e-9fe8-faf3245b3930,34,0,33.2,None,Elective,60,380,Yes,Fetal distress,37.1,131,15,121,67,93.7,8.2,49.2,2.96,2.8,E. coli,Clean,Yes,52,Yes,Yes,36.0,Mortality
+0a4833f3-ae41-49b1-9aea-2141b726fb26,39,1,28.6,None,Emergency,36,471,Yes,Fetal distress,37.3,137,15,114,79,92.1,10.6,5.4,4.04,3.2,E. coli,Erythema,Yes,73,No,No,,Recovered
+dc715b6d-4e7c-4836-9152-11768322c7d3,44,0,32.5,Hypertension,Emergency,116,765,Yes,Fetal distress,36.5,88,20,103,72,96.4,10.6,54.4,0.33,3.0,Negative,Erythema,No,32,Yes,Yes,28.0,Recovered
+d29e383c-5038-4fa3-9d62-dd7196d97c11,22,5,27.1,Anemia,Emergency,40,1160,Yes,Fetal distress,37.2,140,26,125,76,98.5,11.5,64.6,4.2,2.3,Klebsiella pneumoniae,Clean,Yes,77,No,No,,Recovered
+f8c31cd9-b67d-4ea7-828b-a8816daf8e8b,19,0,34.3,Diabetes,Emergency,44,452,No,Prolonged labor,36.9,64,21,96,69,94.4,9.4,12.6,1.15,3.1,Negative,Pus discharge,No,40,No,No,,Recovered
+2595913a-9ef8-4d63-871d-b73bbc885a92,41,4,30.2,Anemia,Emergency,59,451,No,Fetal distress,36.5,92,28,120,73,92.4,6.1,9.4,0.12,2.1,Klebsiella pneumoniae,Erythema,Yes,46,No,No,,Recovered
+bd0483e3-ef42-41db-8e6b-04a512616160,29,3,21.9,Diabetes,Emergency,85,634,No,Fetal distress,35.6,140,26,126,70,92.7,11.2,15.3,3.39,2.5,Staphylococcus aureus,Pus discharge,No,34,No,No,,Recovered
+5f26bfbe-32fc-4e86-baeb-cbec49b49524,38,2,26.0,Hypertension,Elective,109,516,Yes,Fetal distress,37.0,105,28,139,66,96.9,14.1,17.3,3.6,1.8,Negative,Clean,Yes,80,Yes,Yes,3.0,Mortality
+0bcfffae-e208-471a-8b60-eabc37827bba,31,5,25.5,Diabetes,Elective,83,465,No,Fetal distress,36.4,74,12,127,60,94.4,8.9,28.3,1.19,2.3,Staphylococcus aureus,Clean,No,80,No,No,,Recovered
+3ac124af-81e4-441e-893a-3a0064422271,31,1,24.9,None,Emergency,114,838,Yes,Fetal distress,35.6,73,21,128,79,92.8,11.7,57.2,1.88,2.8,E. coli,Clean,No,21,Yes,Yes,14.0,Mortality
+17b09534-d3df-4f8f-9e66-38f7b43de9fc,23,4,29.0,Obesity,Elective,41,895,Yes,Fetal distress,36.0,99,12,112,61,98.9,6.3,21.8,2.31,1.1,Klebsiella pneumoniae,Pus discharge,Yes,33,No,No,,Recovered
+de65be4e-6560-48ee-b15e-49f273abd38d,26,4,34.9,Hypertension,Elective,32,871,Yes,Placenta previa,36.6,99,26,127,68,97.0,8.3,31.0,3.46,1.3,Negative,Erythema,No,70,No,No,,Recovered
+8d5d7c12-e68b-4cd2-9c1b-e48ddc5c736a,18,4,21.7,Anemia,Elective,88,668,Yes,Placenta previa,38.0,94,28,134,80,97.0,8.9,12.3,4.93,2.3,Klebsiella pneumoniae,Erythema,No,32,No,No,,Recovered
+24efd300-0aa2-409e-a7fa-fb6e90c9cf0e,41,1,20.1,Anemia,Elective,86,507,No,Placenta previa,36.9,60,26,116,84,98.3,10.7,17.7,3.11,1.4,Staphylococcus aureus,Clean,Yes,29,Yes,Yes,33.0,Mortality
+ce3dc096-3599-4771-9a15-7f0df98ae5d0,42,1,26.4,Hypertension,Emergency,62,393,No,Fetal distress,38.1,113,28,128,63,98.2,12.3,41.5,3.67,1.1,E. coli,Clean,Yes,22,Yes,Yes,16.0,ICU
+94c653ed-2ede-4445-af1a-b85d1928f5b7,41,4,24.8,None,Emergency,35,414,No,Prolonged labor,36.4,127,27,90,68,95.3,8.4,27.4,1.47,0.5,Staphylococcus aureus,Pus discharge,Yes,53,No,No,,Recovered
+f0ce9d62-38db-407c-9c8e-cfd8ae0b8f0f,34,5,30.9,Diabetes,Emergency,39,537,Yes,Prolonged labor,36.2,90,18,136,88,92.6,6.5,36.9,4.13,3.1,E. coli,Clean,Yes,69,Yes,Yes,47.0,ICU
+cc3b59b1-582d-4b0c-a882-479f469291d7,25,0,22.2,Obesity,Emergency,91,317,Yes,Placenta previa,37.5,128,22,91,80,96.1,6.3,8.3,2.47,1.6,Negative,Erythema,No,57,Yes,Yes,4.0,ICU
+446db589-358b-48db-b5d7-8e4be78bd4bc,37,5,31.3,None,Elective,110,1074,No,Previous C-section,38.2,118,13,105,66,93.0,11.9,-2.0,3.66,3.7,Klebsiella pneumoniae,Clean,No,71,Yes,Yes,45.0,Mortality
+aa4de3c3-167e-48ca-bfe7-cebbdd886d4c,18,4,24.2,Hypertension,Emergency,39,1075,No,Prolonged labor,35.4,60,13,91,79,95.6,11.7,-8.7,1.23,1.2,Klebsiella pneumoniae,Pus discharge,Yes,40,Yes,Yes,10.0,ICU
+af51b7d8-f799-4998-9bf3-5b5a6dc3f9c1,40,5,27.0,Diabetes,Elective,119,656,No,Placenta previa,37.4,124,30,128,67,97.9,11.3,-27.3,0.24,3.4,Staphylococcus aureus,Clean,No,20,No,No,,Recovered
+cecf9ea7-5341-43f1-bc76-b2abcc9ca658,18,1,27.0,Diabetes,Emergency,73,886,Yes,Placenta previa,36.1,116,25,124,68,95.3,8.2,13.6,3.94,3.8,Klebsiella pneumoniae,Erythema,No,40,Yes,Yes,15.0,Recovered
+949ee510-aac3-41f6-a1d6-c26ce570491b,33,0,22.3,Anemia,Emergency,55,888,No,Fetal distress,38.5,105,26,124,75,93.0,5.0,57.7,1.62,3.5,Negative,Clean,Yes,55,No,No,,Recovered
+a383430a-4e3f-46c2-951f-677632c28c3d,28,0,26.9,None,Elective,41,551,No,Fetal distress,37.1,64,21,109,62,95.3,11.1,-4.2,4.63,3.7,Klebsiella pneumoniae,Clean,Yes,54,No,No,,Recovered
+302f9a29-e4c6-4957-8f35-11837ec4e008,39,2,25.6,Anemia,Emergency,55,381,Yes,Fetal distress,36.3,79,12,123,66,96.9,6.6,38.0,4.69,2.1,Negative,Erythema,Yes,67,No,No,,Recovered
+f9587c42-6993-441b-84ef-54250c87d39c,26,4,32.0,Obesity,Elective,36,1114,No,Previous C-section,36.8,97,26,116,74,94.2,8.8,51.6,3.13,2.9,Negative,Erythema,Yes,59,No,No,,Recovered
+66552f54-6910-44fd-8e51-f8f44b762b97,40,2,26.1,Diabetes,Elective,55,1023,Yes,Placenta previa,37.4,110,20,108,85,93.7,7.0,11.5,1.95,1.2,E. coli,Pus discharge,No,66,No,No,,Recovered
+f2334605-97c1-4fe6-83c4-faa3071c9706,25,2,33.7,Anemia,Elective,43,980,No,Fetal distress,37.2,88,30,103,76,96.2,11.6,38.2,0.95,2.3,Negative,Erythema,Yes,39,Yes,Yes,48.0,Mortality
+066573ac-a8e1-432f-a7f2-b61faecffafb,31,3,25.3,Hypertension,Elective,79,444,Yes,Fetal distress,37.7,86,24,90,60,96.3,5.8,4.3,1.72,2.0,E. coli,Clean,No,44,No,No,,Recovered
+53e864e8-cd94-42fd-b740-d923709af4e7,42,1,25.9,Diabetes,Emergency,71,806,No,Prolonged labor,37.5,93,16,113,85,96.4,10.5,1.4,0.34,1.0,Negative,Clean,Yes,46,No,No,,Recovered
+871f8921-d381-4a82-8ddf-3ded6bbafc70,41,4,22.1,Anemia,Elective,118,1156,No,Previous C-section,37.5,98,15,115,80,95.6,9.6,14.5,4.24,2.2,Klebsiella pneumoniae,Clean,Yes,33,Yes,Yes,25.0,Recovered
+44b0b3fd-7887-42b5-ac51-17cf71a94301,22,5,24.8,Obesity,Elective,80,750,No,Placenta previa,36.6,102,27,105,84,92.1,11.5,27.8,2.65,3.6,Negative,Clean,Yes,34,No,No,,Recovered
+9267ba16-7f35-49c2-aa0b-da42dd8f20d6,35,2,29.8,Hypertension,Elective,39,498,No,Previous C-section,37.3,119,14,97,80,92.2,5.2,9.8,4.22,3.5,Staphylococcus aureus,Pus discharge,Yes,31,No,No,,Recovered
+69c33277-1953-450f-be41-d7a9c7e0b4fc,43,5,33.0,Anemia,Elective,111,367,No,Prolonged labor,36.8,73,15,114,72,99.0,10.2,50.8,1.53,1.3,Klebsiella pneumoniae,Pus discharge,Yes,71,No,No,,Recovered
+6a316ea7-b816-4eab-a029-ccec57fe0476,41,3,26.8,None,Emergency,62,552,Yes,Placenta previa,36.9,68,23,104,62,93.0,11.4,72.8,0.08,0.9,E. coli,Erythema,No,38,No,No,,Recovered
+9e8e9ac2-5c9b-405f-bb66-445a477282ad,42,3,19.7,Hypertension,Elective,39,305,No,Prolonged labor,36.8,82,13,131,68,95.0,11.0,23.4,1.84,2.1,Staphylococcus aureus,Pus discharge,Yes,71,No,No,,Recovered
+cf1e6c3e-8680-4b1c-ba3d-75ee029013ed,19,4,20.6,None,Elective,102,694,No,Fetal distress,37.2,94,15,135,67,94.7,10.4,45.4,3.09,2.4,Klebsiella pneumoniae,Erythema,No,73,Yes,Yes,41.0,ICU
+bd2d3fe7-58ac-4158-8a7c-7f548f079af6,25,0,29.1,Anemia,Elective,65,1187,No,Previous C-section,37.9,99,29,121,75,95.6,10.6,39.4,2.04,3.2,Negative,Clean,No,47,No,No,,Recovered
+f7cd7061-97d0-4727-9cb7-b2d22a109b63,24,0,33.7,Diabetes,Elective,64,481,Yes,Placenta previa,36.6,76,27,116,88,97.5,8.3,18.6,4.96,1.8,Negative,Erythema,No,52,Yes,Yes,14.0,ICU
+2d25df6f-08e6-4c83-9b0c-350a0e22e440,40,5,30.2,Anemia,Elective,68,794,No,Previous C-section,37.5,77,12,123,73,99.4,6.7,66.8,1.35,3.0,Klebsiella pneumoniae,Erythema,No,58,Yes,Yes,1.0,Mortality
+12b2d5b2-88d5-4f96-bd6d-6d080f6aaa19,39,0,34.2,None,Emergency,63,486,Yes,Fetal distress,36.0,86,17,136,65,98.1,12.2,13.6,2.36,2.0,E. coli,Clean,Yes,79,No,No,,Recovered
+9ed957fd-a468-4ed1-bc03-8cbd167aae0f,24,0,24.5,Obesity,Elective,97,858,Yes,Fetal distress,37.4,130,15,114,75,97.2,10.1,39.6,0.95,3.3,Negative,Clean,Yes,55,No,No,,Recovered
+43ade5cf-4dc8-4b3c-90fd-79d5c13099b6,38,5,27.2,Diabetes,Elective,107,353,No,Fetal distress,35.8,114,26,121,88,98.5,8.5,4.6,0.36,4.0,E. coli,Erythema,Yes,37,Yes,Yes,5.0,ICU
+ef2dddaa-d9f2-459a-99c3-42702a6b1ec3,29,4,21.4,Obesity,Elective,68,520,Yes,Prolonged labor,38.0,106,27,131,71,98.5,7.6,30.6,1.19,1.7,E. coli,Pus discharge,Yes,23,Yes,Yes,37.0,Recovered
+5c5a6170-435c-4d04-b0c1-b582efdb9ba5,35,1,25.5,Obesity,Emergency,36,1049,No,Previous C-section,37.0,64,23,139,62,94.7,7.8,31.9,3.12,2.1,E. coli,Pus discharge,Yes,45,Yes,Yes,15.0,Mortality
+29f6c110-169a-45b5-a25b-a88091917093,19,1,28.7,Hypertension,Elective,87,581,No,Previous C-section,36.9,135,22,106,78,94.7,5.1,50.4,2.77,3.7,E. coli,Clean,No,80,No,No,,Recovered
+448632ec-f76f-48b3-92ca-f02e8ce7926d,27,5,20.8,Hypertension,Emergency,34,667,No,Previous C-section,37.9,79,30,115,74,99.9,9.4,42.0,3.78,1.4,Staphylococcus aureus,Erythema,Yes,64,Yes,Yes,37.0,ICU
+c346f85a-5720-4d9c-ba0b-2e31737bba13,31,1,24.6,Obesity,Elective,70,895,No,Previous C-section,38.2,64,23,137,64,98.8,5.2,39.5,3.15,3.2,E. coli,Pus discharge,Yes,31,No,No,,Recovered
+3ca77704-6817-4c35-a325-86430f6ee18e,38,5,27.5,Anemia,Emergency,35,504,No,Fetal distress,37.1,63,14,98,89,99.9,6.5,-5.9,1.43,1.0,Klebsiella pneumoniae,Pus discharge,Yes,74,No,No,,Recovered
+b7780e65-76d4-432f-81ac-300061876e8d,20,5,20.5,None,Emergency,30,360,Yes,Prolonged labor,36.9,123,21,127,81,97.8,8.4,49.0,4.79,2.9,Negative,Erythema,Yes,38,Yes,Yes,35.0,ICU
+40311d83-0c5d-4f27-984d-d61bea35bf03,21,3,25.8,None,Elective,97,992,Yes,Prolonged labor,37.3,106,22,112,65,93.1,8.8,32.0,0.6,1.8,Negative,Clean,Yes,25,No,No,,Recovered
+a0697af2-c299-482d-8e20-6126e8b9d057,36,3,21.1,Obesity,Emergency,39,887,Yes,Previous C-section,37.3,98,22,126,65,94.8,6.2,-11.5,4.88,1.0,E. coli,Pus discharge,No,32,No,No,,Recovered
+0b74b4a8-b152-48c9-bfab-04aff6deacc1,20,0,23.9,None,Elective,108,859,No,Fetal distress,36.3,73,14,117,67,98.1,7.8,33.4,2.35,0.7,Staphylococcus aureus,Erythema,No,79,Yes,Yes,16.0,Recovered
+a0f93fd9-37b2-43dc-87e9-cafbed0c4aa5,37,5,28.3,None,Elective,91,1114,No,Previous C-section,37.5,108,17,92,64,97.0,6.7,45.2,4.38,2.7,Negative,Erythema,No,33,Yes,Yes,38.0,Mortality
+4c3a6946-a83f-4222-83cd-e675573ff4f4,21,4,21.1,Anemia,Elective,43,865,Yes,Prolonged labor,36.8,85,13,117,62,98.5,6.8,37.9,1.66,3.7,E. coli,Clean,Yes,67,No,No,,Recovered
+ceb8239b-93ca-45ac-b231-0dc162082d7b,26,0,30.5,Anemia,Elective,54,939,Yes,Fetal distress,37.5,89,16,119,74,95.3,11.0,45.9,0.78,3.4,Negative,Erythema,No,62,No,No,,Recovered
+9e8f9bc5-494b-4e1f-9afa-ecb96197f0a5,30,1,18.7,Hypertension,Emergency,63,886,No,Placenta previa,37.6,99,30,136,83,94.1,7.8,14.0,2.65,0.7,E. coli,Clean,Yes,54,No,No,,Recovered
+13ca6913-1aea-4214-984b-7c5ef5db0e3c,43,3,30.3,Anemia,Elective,64,546,Yes,Fetal distress,37.9,124,15,128,75,96.4,5.5,72.5,4.45,0.9,Staphylococcus aureus,Clean,No,55,Yes,Yes,37.0,Recovered
+b8cb88a3-2d0e-43af-b091-c264c5c4de6a,19,1,25.6,Obesity,Elective,40,391,Yes,Placenta previa,37.2,72,19,115,83,98.9,9.6,54.4,1.14,0.7,Negative,Clean,No,35,Yes,Yes,41.0,Mortality
+2a6b9592-801c-4ea5-89da-053ff73923eb,27,2,26.2,Anemia,Elective,41,857,Yes,Fetal distress,36.5,71,20,129,85,93.0,7.5,28.2,2.4,3.6,Staphylococcus aureus,Clean,No,23,No,No,,Recovered
+f784d400-f9a3-4b6a-9c99-24e6cc88c9cc,34,3,31.5,None,Elective,83,856,Yes,Previous C-section,37.2,118,19,132,67,94.1,13.9,60.2,2.81,3.0,Staphylococcus aureus,Clean,No,64,Yes,Yes,28.0,ICU
+d9467d97-7ff6-43c3-becb-d52c9caf77d9,45,1,33.7,Anemia,Emergency,67,950,No,Prolonged labor,36.9,105,28,104,73,96.1,3.9,15.4,0.93,2.8,E. coli,Pus discharge,Yes,34,No,No,,Recovered
+e2a1bbc4-010a-4f72-9ff6-d4983e81a32d,23,1,19.5,Diabetes,Emergency,55,502,Yes,Previous C-section,36.1,75,12,131,67,92.9,9.7,76.4,0.35,2.7,Negative,Clean,No,67,No,No,,Recovered
+aa2b138f-46e0-409e-a232-8e00e155808d,33,2,29.8,None,Elective,69,446,No,Placenta previa,36.3,108,28,96,73,95.1,8.4,25.4,2.86,3.4,E. coli,Pus discharge,Yes,24,Yes,Yes,20.0,ICU
+086a3746-9776-4ed1-86a9-d29ac559937a,23,1,21.3,Anemia,Emergency,48,649,No,Previous C-section,38.0,94,24,97,86,94.8,7.3,36.9,0.59,2.2,E. coli,Pus discharge,Yes,39,No,No,,Recovered
+f6ca3438-122f-403b-a02a-2591daa697a7,41,2,25.5,Diabetes,Emergency,57,1024,Yes,Fetal distress,38.2,91,28,106,81,95.7,6.7,20.8,0.07,0.9,Negative,Clean,Yes,68,No,No,,Recovered
+412c8793-bf9d-4798-a9b0-0cc468dd4ab3,36,3,18.5,Obesity,Emergency,113,849,Yes,Previous C-section,36.7,78,27,130,76,92.3,10.9,42.1,0.45,2.3,Negative,Pus discharge,No,65,No,No,,Recovered
+3769c0d0-9c0a-41bc-9c9c-d078efd51266,28,3,18.1,Hypertension,Emergency,86,785,Yes,Prolonged labor,36.9,68,24,127,77,93.9,6.1,27.5,4.58,3.6,Klebsiella pneumoniae,Erythema,No,30,No,No,,Recovered
+c20f6eef-092c-4162-8ae3-d163b22d5859,40,0,34.5,Obesity,Emergency,40,560,No,Previous C-section,37.4,89,23,127,65,95.6,9.5,4.2,3.72,3.2,E. coli,Erythema,No,67,No,No,,Recovered
+64452a34-2531-4ce4-bdcb-0b91ef32b7e2,30,5,23.3,None,Emergency,41,1123,No,Prolonged labor,36.7,90,25,119,83,92.9,9.3,15.2,0.73,3.4,Klebsiella pneumoniae,Clean,Yes,67,Yes,Yes,6.0,Mortality
+494827df-4806-46b3-bf07-53bf4774df77,19,0,19.1,Hypertension,Emergency,112,615,No,Previous C-section,35.7,60,17,115,67,99.0,12.0,55.3,2.92,3.5,Negative,Clean,Yes,53,No,No,,Recovered
+1a584ee0-fdc4-4e8f-8afb-ca48b85828af,28,0,27.6,None,Elective,102,1076,No,Previous C-section,36.2,132,14,126,87,94.8,11.2,1.2,3.91,1.6,Staphylococcus aureus,Clean,Yes,70,Yes,Yes,2.0,Mortality
+c25fcf04-e428-46fc-b8a9-6f7d7075d73a,33,4,19.4,Hypertension,Emergency,101,450,No,Fetal distress,36.8,117,15,128,69,97.3,8.7,2.3,2.14,1.7,Klebsiella pneumoniae,Erythema,Yes,27,No,No,,Recovered
+2306e851-bee3-4d3b-93fb-bac624306165,32,2,32.3,Obesity,Emergency,73,337,Yes,Placenta previa,37.6,128,23,122,72,94.4,11.8,11.4,3.19,2.0,E. coli,Erythema,Yes,62,No,No,,Recovered
+991b4744-b71b-4023-88be-8c0db1ddaa3e,22,0,30.4,None,Elective,61,817,Yes,Placenta previa,37.2,120,23,99,86,96.8,3.6,14.6,1.07,2.5,Staphylococcus aureus,Pus discharge,Yes,35,No,No,,Recovered
+446d53d1-b74a-47c3-a52d-27b4cfb57245,20,1,22.8,None,Elective,117,301,No,Placenta previa,37.0,106,28,121,63,98.5,10.0,64.4,4.84,3.6,Staphylococcus aureus,Clean,Yes,25,Yes,Yes,26.0,ICU
+6afd4b28-8a75-4782-8fab-043eae261b50,34,2,34.5,Hypertension,Elective,54,1171,Yes,Fetal distress,37.5,124,29,99,77,96.8,12.9,25.1,2.26,2.7,Negative,Pus discharge,No,35,No,No,,Recovered
+93345c96-5075-41ba-9dd3-e55c2d706a4d,41,2,19.2,Obesity,Elective,62,1012,Yes,Previous C-section,36.4,124,21,124,76,98.4,13.4,38.2,1.59,2.0,Negative,Erythema,Yes,38,Yes,Yes,28.0,ICU
+c2179649-e38f-4f0d-870e-b32888a7426a,28,3,27.2,Obesity,Emergency,54,830,No,Fetal distress,35.9,132,22,102,81,92.2,12.2,11.5,0.32,0.9,Staphylococcus aureus,Pus discharge,Yes,21,No,No,,Recovered
+c1f55808-879d-4190-b0e9-97695d58183e,18,4,19.2,Obesity,Elective,33,556,No,Placenta previa,37.9,114,12,96,61,92.1,11.7,32.9,1.76,3.8,Klebsiella pneumoniae,Pus discharge,No,32,Yes,Yes,23.0,Mortality
+dfd1f99a-748e-4b5c-855c-d42294ca20d6,44,5,33.3,Hypertension,Emergency,82,999,Yes,Prolonged labor,37.5,131,21,99,77,95.8,12.1,73.3,4.2,2.8,Klebsiella pneumoniae,Clean,No,69,No,No,,Recovered
+ee77d782-040e-48b3-95e6-3c2c348558e8,44,0,27.9,Hypertension,Emergency,117,795,No,Prolonged labor,36.7,136,19,105,67,98.9,14.0,16.4,4.84,2.0,Klebsiella pneumoniae,Clean,Yes,64,No,No,,Recovered
+de1c93d5-4086-4430-b985-39526b3392fe,41,2,27.7,None,Emergency,35,692,No,Fetal distress,38.2,113,26,132,86,92.5,10.4,11.8,2.97,1.9,Negative,Pus discharge,Yes,51,No,No,,Recovered
+21c5f18c-23e2-4208-8fbb-61cd89f180bc,42,0,23.2,None,Elective,98,706,Yes,Fetal distress,36.8,116,21,93,65,96.5,10.4,33.8,2.58,3.6,E. coli,Erythema,No,40,Yes,Yes,48.0,ICU
+5b80344c-779d-446a-a130-3fe6e12fc221,42,2,19.9,Obesity,Emergency,37,630,Yes,Fetal distress,35.5,117,21,115,86,95.7,8.1,14.7,2.39,2.6,Staphylococcus aureus,Clean,No,49,No,No,,Recovered
+11df47c9-5957-4d1e-947e-78662048835e,36,0,21.5,Obesity,Elective,96,525,Yes,Placenta previa,36.6,85,21,97,70,100.0,9.8,29.9,2.71,2.6,Negative,Pus discharge,No,51,Yes,Yes,37.0,Recovered
+b23d4aa1-4e43-42ea-97e1-72a4f292f317,20,1,21.8,Diabetes,Elective,114,544,Yes,Previous C-section,36.8,107,17,124,89,95.4,4.4,21.2,0.34,1.2,Negative,Clean,No,48,No,No,,Recovered
+43adac3f-f7d0-4f38-8d53-0b3bed3717e3,43,0,25.2,None,Emergency,46,556,No,Fetal distress,36.8,72,24,128,62,97.1,10.7,0.1,4.23,1.5,E. coli,Pus discharge,Yes,62,No,No,,Recovered
+4c661b8b-4ebe-418c-9982-c9f77a874596,31,3,19.2,None,Elective,51,513,No,Placenta previa,36.3,128,23,105,67,94.8,9.9,31.2,4.74,3.3,Negative,Erythema,No,52,No,No,,Recovered
+95065879-55e4-45d2-9abe-dd47bd7f522f,18,1,28.6,None,Emergency,93,1006,Yes,Placenta previa,35.6,140,16,128,64,97.5,12.1,69.2,2.41,1.7,Klebsiella pneumoniae,Erythema,No,63,No,No,,Recovered
+dbece0ba-8513-468d-8a89-ba30113a4158,33,5,25.8,Diabetes,Emergency,107,735,No,Previous C-section,36.6,95,23,100,68,99.6,12.9,28.0,2.54,3.6,Negative,Clean,Yes,53,No,No,,Recovered
+ddcf4c6e-2837-4709-8102-059ac142a676,40,4,19.4,None,Emergency,47,570,Yes,Fetal distress,35.6,114,25,116,63,93.1,11.4,21.9,1.87,0.9,Negative,Clean,Yes,76,No,No,,Recovered
+14734443-258a-4ea9-af62-6dccf2d47fa3,39,0,19.0,Diabetes,Emergency,85,711,No,Prolonged labor,36.7,74,24,109,83,98.5,13.5,17.6,0.52,3.1,E. coli,Clean,Yes,50,Yes,Yes,38.0,Mortality
+74e3b0c7-1574-40ce-b775-9d9024c92f7a,38,4,19.9,None,Emergency,101,727,Yes,Previous C-section,38.1,117,15,132,90,93.2,12.3,24.3,3.86,1.0,Staphylococcus aureus,Erythema,Yes,78,Yes,Yes,29.0,Mortality
+17efe92d-c981-4c18-8566-412cdeeb73de,21,0,29.3,None,Elective,103,575,Yes,Fetal distress,37.1,127,19,121,74,100.0,13.2,21.3,2.25,2.1,Klebsiella pneumoniae,Clean,No,75,No,No,,Recovered
+7672fdd9-fb1d-47ec-9e71-5018daa9a716,39,4,26.2,None,Emergency,92,1171,Yes,Placenta previa,35.8,81,16,136,85,96.9,9.5,14.5,3.1,2.3,Klebsiella pneumoniae,Erythema,No,33,Yes,Yes,18.0,Mortality
+0991db0a-a8de-40af-ba0e-3cfbce9b1bd8,37,0,23.8,None,Emergency,108,701,No,Prolonged labor,36.5,70,14,127,74,93.5,9.2,41.9,1.12,3.9,Negative,Pus discharge,Yes,28,No,No,,Recovered
+2177bc96-2f25-4803-b9e9-bee0fc33ec44,18,5,30.4,Obesity,Emergency,85,448,No,Prolonged labor,35.9,109,15,101,77,97.0,12.5,47.3,1.69,1.2,Klebsiella pneumoniae,Erythema,Yes,20,Yes,Yes,45.0,Mortality
+5c1b3f6a-4b33-4896-97aa-91db641250b6,45,3,31.8,None,Elective,76,805,Yes,Previous C-section,35.1,78,26,138,76,95.5,9.9,27.6,1.6,2.1,E. coli,Erythema,No,30,No,No,,Recovered
+cd568386-2385-402a-8001-208a016db05d,28,4,29.3,None,Emergency,58,1092,No,Prolonged labor,38.0,88,28,94,66,94.5,10.7,40.0,3.57,1.2,E. coli,Erythema,Yes,56,Yes,Yes,15.0,Mortality
+a8d87684-6d0d-4a28-a65a-af88295f3b25,31,3,19.2,Anemia,Elective,59,554,No,Previous C-section,36.2,83,27,126,76,94.6,12.1,47.6,2.36,3.2,Klebsiella pneumoniae,Pus discharge,No,27,Yes,Yes,11.0,Recovered
+7567083e-64e2-4852-9d1c-98476b1777e7,34,3,26.5,Diabetes,Elective,94,653,Yes,Previous C-section,37.4,94,23,101,90,92.5,10.0,40.6,1.04,0.5,Negative,Erythema,No,20,Yes,Yes,28.0,ICU
+08dccce2-cfdc-4989-ab0d-35fc1c928131,18,0,22.9,Diabetes,Emergency,56,640,Yes,Fetal distress,37.0,69,17,111,69,96.2,8.1,62.1,1.6,1.8,Negative,Erythema,Yes,38,Yes,Yes,16.0,ICU
+34c967ad-bf1b-4a3f-804e-af09f9a59b64,31,5,26.2,None,Elective,32,402,No,Previous C-section,36.2,64,22,97,89,98.0,7.4,40.1,1.33,3.7,Staphylococcus aureus,Clean,Yes,27,Yes,Yes,16.0,Mortality
+2094f393-9d16-42da-a2c8-591e89a94516,25,4,22.2,Obesity,Elective,49,513,No,Placenta previa,36.0,73,27,114,62,92.2,13.3,49.9,0.69,2.4,Negative,Erythema,Yes,67,Yes,Yes,4.0,ICU
+ee1b2132-b025-464a-941b-f06eead767a1,19,4,23.1,Diabetes,Elective,70,345,Yes,Placenta previa,37.8,90,30,100,68,99.2,11.5,0.0,4.04,2.2,Negative,Clean,Yes,50,Yes,Yes,14.0,ICU
+d4e9c802-ea52-4060-99cb-a98954704a60,34,0,19.5,Diabetes,Emergency,71,1152,Yes,Placenta previa,37.2,67,26,102,77,95.6,13.2,57.2,2.3,1.2,Klebsiella pneumoniae,Clean,Yes,25,Yes,Yes,5.0,Recovered
+986e0d27-5c57-4cd1-91a1-87ba4791440b,45,4,33.8,Hypertension,Elective,113,705,Yes,Placenta previa,36.2,119,13,92,70,92.2,10.6,31.7,3.65,2.3,Negative,Erythema,Yes,41,No,No,,Recovered
+f096d33c-f3ba-43e9-ae88-6f96a4a77d90,19,2,25.5,Diabetes,Emergency,58,734,Yes,Previous C-section,37.2,123,21,104,90,99.7,8.0,15.0,3.15,3.4,Negative,Erythema,No,74,Yes,Yes,45.0,Recovered
+a61f731f-6baf-48b4-b722-6fd1a2786aa1,38,1,32.0,None,Emergency,95,503,No,Previous C-section,38.6,102,16,113,69,92.4,3.1,14.2,2.46,0.7,Negative,Pus discharge,No,66,No,No,,Recovered
+b21855b9-3f0f-45dd-b233-a7e9dee7b95a,32,5,28.0,None,Elective,88,889,Yes,Placenta previa,36.1,92,19,108,62,98.3,8.0,-6.9,4.24,3.8,Klebsiella pneumoniae,Clean,Yes,33,Yes,Yes,36.0,ICU
+af3ce3f6-5a9d-49e0-a02d-94b8dd972485,39,1,32.7,Hypertension,Elective,97,1108,No,Previous C-section,37.1,132,18,140,81,92.8,12.9,45.4,2.4,3.1,E. coli,Pus discharge,Yes,60,Yes,Yes,1.0,Mortality
+86960268-0f5d-4a2b-aa52-c5ef35ff8ec5,33,1,26.1,Anemia,Elective,37,735,No,Prolonged labor,35.7,108,22,124,78,95.6,9.4,16.2,4.99,2.5,Klebsiella pneumoniae,Erythema,No,20,Yes,Yes,5.0,Recovered
+9233a565-42a7-4343-8e2b-48e6b087e4c1,39,4,26.9,Hypertension,Emergency,58,924,No,Prolonged labor,36.2,72,19,94,87,95.3,9.8,46.1,1.93,3.1,E. coli,Clean,No,71,No,No,,Recovered
+4bb41c98-0a32-47d0-bc47-b8662b8fb866,41,2,26.4,None,Elective,103,898,No,Placenta previa,35.9,78,25,93,68,94.5,16.5,11.1,0.48,3.8,Klebsiella pneumoniae,Erythema,No,57,No,No,,Recovered
+26f68640-ea78-4c51-aadd-328dc65a3f7c,35,0,18.4,None,Emergency,109,1151,No,Previous C-section,36.6,129,29,134,89,94.6,14.3,10.9,3.32,3.4,Klebsiella pneumoniae,Pus discharge,Yes,49,No,No,,Recovered
+2211d7a4-2e97-4592-98da-bdb771adf982,18,3,19.8,Diabetes,Elective,92,967,No,Fetal distress,39.4,70,26,139,78,98.0,10.1,53.1,1.16,0.8,Klebsiella pneumoniae,Pus discharge,Yes,35,No,No,,Recovered
+437f2f45-9f73-4d38-9533-b3848f427834,36,2,24.0,None,Elective,87,661,Yes,Fetal distress,35.3,72,30,100,82,92.1,12.6,19.4,2.92,2.5,Negative,Pus discharge,Yes,72,Yes,Yes,4.0,ICU
+a7632d05-7037-4b00-bc69-9f4a2d6bbacb,30,1,29.7,None,Elective,30,613,Yes,Fetal distress,36.9,131,16,93,86,95.6,6.2,38.1,2.03,2.1,E. coli,Clean,Yes,21,No,No,,Recovered
+3343b14c-40dc-4930-be4d-ff78c446484b,33,2,31.7,Hypertension,Elective,119,389,No,Prolonged labor,37.6,136,30,93,78,99.9,5.8,1.0,4.9,3.4,E. coli,Clean,Yes,22,No,No,,Recovered
+cc9d2a70-9b43-4265-91ed-fd2429f5af4e,27,5,27.1,None,Elective,36,675,Yes,Prolonged labor,37.6,101,26,118,78,92.8,7.8,27.9,4.07,1.0,Negative,Erythema,Yes,34,No,No,,Recovered
+51dc1cd4-a7cd-4bc5-972e-b9e1965fffc9,33,3,25.1,Hypertension,Emergency,49,320,Yes,Prolonged labor,36.9,103,18,124,73,92.9,10.6,46.1,4.79,3.2,E. coli,Pus discharge,Yes,76,Yes,Yes,4.0,ICU
+fa4c59b8-1764-446a-ab13-ce3589c3597d,37,1,33.3,None,Elective,39,1083,No,Placenta previa,37.6,76,27,118,76,98.9,5.3,24.9,1.77,1.6,Negative,Pus discharge,Yes,39,No,No,,Recovered
+e3572c39-b58b-4cc3-943a-0194489c14c0,38,1,34.8,None,Elective,38,745,Yes,Fetal distress,38.3,133,19,106,70,97.7,8.7,43.3,4.87,3.4,E. coli,Erythema,No,20,No,No,,Recovered
+005270be-fdf7-4f55-84f6-c100edea7834,42,2,18.7,Obesity,Elective,41,575,Yes,Previous C-section,36.8,106,23,107,71,98.5,8.9,20.8,1.81,2.3,Negative,Clean,Yes,41,Yes,Yes,43.0,ICU
+c8b9fac8-6e02-41b4-898b-5dba296ea70f,23,0,20.9,Hypertension,Emergency,95,845,Yes,Fetal distress,35.7,112,30,107,84,94.0,15.7,37.1,3.65,1.3,Klebsiella pneumoniae,Erythema,No,37,Yes,Yes,44.0,ICU
+6d5df7ab-8a4b-434f-9770-2c0c4553bb87,33,4,29.1,None,Elective,37,396,No,Prolonged labor,36.9,103,27,124,64,98.8,11.5,18.0,3.64,3.2,Klebsiella pneumoniae,Clean,No,74,No,No,,Recovered
+1200ba21-95eb-4d8c-8153-b4e9093d45ed,27,4,34.6,Hypertension,Elective,52,1103,Yes,Prolonged labor,37.7,140,14,105,60,92.4,12.4,30.2,1.33,3.6,E. coli,Pus discharge,Yes,21,No,No,,Recovered
+a01a8fd3-f7bf-403d-8fc1-ebcfd829c37d,34,0,25.6,None,Elective,90,765,No,Previous C-section,37.2,73,28,108,72,99.3,10.9,54.9,3.75,3.3,E. coli,Clean,Yes,51,Yes,Yes,18.0,ICU
+17969c8b-28e4-4b0f-a072-a5bd5e7a3acc,21,4,25.7,Anemia,Elective,36,813,Yes,Fetal distress,39.1,72,14,110,64,98.4,12.0,27.9,0.88,2.8,E. coli,Erythema,Yes,31,Yes,Yes,18.0,Mortality
+3728769a-cabe-4d66-8dfb-a53ac80b0fb9,19,2,30.6,Diabetes,Emergency,77,712,Yes,Fetal distress,38.3,67,16,113,89,97.4,10.2,20.3,4.25,3.4,Staphylococcus aureus,Pus discharge,No,36,No,No,,Recovered
+0429c9a6-1724-405d-94c8-a6e050bb9075,18,0,20.6,Obesity,Emergency,73,806,Yes,Fetal distress,37.7,128,18,101,82,96.0,12.0,30.5,2.28,0.6,Staphylococcus aureus,Clean,Yes,42,Yes,Yes,11.0,Mortality
+96d2edb7-d20f-410e-a00a-a80a3b3060b4,23,3,25.9,Anemia,Emergency,71,1172,Yes,Fetal distress,38.1,65,30,102,78,94.3,12.6,6.8,2.05,0.6,Staphylococcus aureus,Erythema,No,64,Yes,Yes,41.0,Mortality
+a490ccdc-fb82-4517-85c6-448b70a483fd,24,4,18.7,Diabetes,Elective,33,670,Yes,Placenta previa,37.4,126,19,106,73,92.9,10.0,21.5,1.3,0.7,Klebsiella pneumoniae,Pus discharge,Yes,33,No,No,,Recovered
+bf6e4502-d54f-4858-a688-538c3252d015,31,2,22.9,None,Emergency,99,435,No,Previous C-section,36.1,75,14,114,87,97.8,11.4,-19.2,3.93,1.8,Staphylococcus aureus,Pus discharge,No,68,No,No,,Recovered
+3b118a23-923f-4445-bf90-b53ac0101854,34,0,23.2,None,Elective,61,388,Yes,Placenta previa,36.8,128,29,126,85,94.7,6.7,-22.6,2.19,1.4,E. coli,Erythema,Yes,80,Yes,Yes,16.0,Mortality
+a27fc736-634d-478d-834d-e8d4dff53cae,35,3,27.8,Hypertension,Emergency,113,1168,No,Prolonged labor,35.5,99,27,95,86,96.2,5.4,29.5,2.83,2.9,Staphylococcus aureus,Clean,Yes,51,Yes,Yes,34.0,ICU
+06898433-901c-48a8-a295-6f98aee3bc4f,43,3,21.2,Anemia,Elective,44,564,No,Fetal distress,35.6,101,24,118,87,93.9,10.5,5.2,2.74,3.6,E. coli,Clean,Yes,58,No,No,,Recovered
+326d4f01-5ee5-4da4-ab78-665c9499558e,39,0,18.9,Obesity,Elective,38,718,Yes,Fetal distress,36.9,107,23,130,76,92.9,10.5,40.9,3.92,2.8,Klebsiella pneumoniae,Pus discharge,No,42,No,No,,Recovered
+d692b5b5-f726-482e-b909-490bfc3cc7b6,44,4,19.0,Diabetes,Emergency,37,886,No,Fetal distress,36.5,103,18,121,80,99.7,8.8,52.0,3.55,2.9,Staphylococcus aureus,Clean,Yes,58,No,No,,Recovered
+92738aea-1892-4de2-84f8-0bfd6ebbe700,22,5,27.0,None,Elective,61,699,Yes,Placenta previa,38.5,123,28,91,90,95.5,10.6,36.1,3.5,2.5,Staphylococcus aureus,Pus discharge,No,67,Yes,Yes,15.0,Mortality
+76437275-b6e9-4d47-9bb2-e6cb2641f76a,18,0,25.3,None,Elective,35,502,No,Placenta previa,36.7,116,18,95,80,97.6,13.7,-7.5,2.96,1.8,Klebsiella pneumoniae,Clean,Yes,29,No,No,,Recovered
+2d3649fe-9020-40de-ad3b-c1a367d4ca29,44,2,28.4,Obesity,Emergency,85,997,No,Prolonged labor,34.8,99,28,106,77,95.2,13.6,17.4,3.88,3.4,Negative,Erythema,No,74,Yes,Yes,5.0,ICU
+8fd96fe0-50ab-48e6-adef-6c1674e790d4,43,0,20.6,Obesity,Elective,108,306,No,Fetal distress,36.7,77,20,119,85,95.6,15.2,22.2,4.28,3.6,Negative,Clean,Yes,78,No,No,,Recovered
+b1e00409-a8bf-4f8c-b2e8-35c18bd6b77e,38,2,27.9,Obesity,Emergency,75,873,Yes,Placenta previa,38.0,78,25,127,68,96.1,11.1,9.4,3.97,1.7,Negative,Clean,Yes,33,Yes,Yes,48.0,Mortality
+5f4dfd0b-7713-4dad-a9af-4552e7739cf4,26,0,29.4,Diabetes,Emergency,80,1130,No,Placenta previa,36.2,83,14,111,83,97.7,8.5,24.3,0.84,3.4,E. coli,Clean,Yes,52,No,No,,Recovered
+2dd4e9f1-7407-486b-8b2e-ebbac117f089,45,2,31.5,None,Emergency,86,1047,No,Previous C-section,36.1,110,19,132,80,96.7,6.7,31.5,0.57,1.5,Staphylococcus aureus,Erythema,Yes,36,Yes,Yes,26.0,ICU
+1505b20f-51a3-487e-8403-312eb06a93d2,22,2,30.6,Obesity,Elective,73,322,No,Placenta previa,37.1,100,21,139,80,93.8,10.9,9.0,4.39,3.6,Negative,Clean,Yes,53,Yes,Yes,35.0,Mortality
+55fe85a4-b1bb-4252-988b-b18fa904cdf1,37,2,30.7,None,Emergency,102,1018,No,Placenta previa,35.1,109,22,91,85,93.3,9.4,30.4,2.64,2.8,Klebsiella pneumoniae,Clean,No,64,No,No,,Recovered
+7b29baa1-110e-48b7-b1be-c17662d3d8a4,20,4,19.7,Anemia,Emergency,97,648,No,Prolonged labor,35.8,123,15,102,61,94.6,10.8,14.3,3.38,2.1,Staphylococcus aureus,Pus discharge,No,24,Yes,Yes,1.0,Mortality
+de44f418-81ff-4c35-942f-eb8b657b3bd3,26,3,21.6,Anemia,Elective,107,544,Yes,Previous C-section,36.9,140,12,124,60,98.9,8.1,-9.5,4.68,1.1,Negative,Clean,Yes,75,Yes,Yes,48.0,Mortality
+ab6fdc5b-4b41-4f49-a863-ab7056e66d06,23,3,28.7,Obesity,Elective,39,699,No,Previous C-section,37.0,124,26,128,80,93.6,7.6,5.8,2.41,3.7,Klebsiella pneumoniae,Clean,Yes,39,No,No,,Recovered
+76811d79-9b8d-40f3-8255-fea1ec035b3f,31,2,20.6,Obesity,Emergency,86,921,No,Prolonged labor,35.0,72,22,140,60,95.8,7.5,13.0,0.93,2.2,Negative,Erythema,No,71,Yes,Yes,8.0,Mortality
+67d43c98-ff03-4463-9390-7c38c8479a10,28,0,30.3,Obesity,Emergency,65,354,Yes,Fetal distress,36.1,108,22,109,69,96.7,7.8,44.0,3.69,3.1,Staphylococcus aureus,Clean,Yes,42,Yes,Yes,6.0,ICU
+9aeedc42-a281-4d58-9273-c1d9189ad9db,34,1,20.6,Obesity,Emergency,88,463,No,Prolonged labor,35.2,116,29,115,83,99.4,8.3,36.8,4.5,1.4,E. coli,Pus discharge,No,23,Yes,Yes,38.0,ICU
+b716d919-dbf1-43c4-a61f-62aee40d46b7,19,2,20.4,None,Emergency,91,633,Yes,Placenta previa,36.5,82,29,135,90,96.3,11.7,24.7,0.09,3.7,Negative,Erythema,No,25,No,No,,Recovered
+3a154d40-d26e-49d2-b8da-306d1948cd55,22,1,24.3,Obesity,Emergency,60,562,Yes,Prolonged labor,38.4,76,26,91,79,93.6,12.6,26.7,2.22,0.8,Negative,Clean,No,26,Yes,Yes,23.0,ICU
+2ffda4d9-5fec-4bb9-aa15-0abef65c31fd,25,1,24.2,Obesity,Elective,75,803,Yes,Prolonged labor,37.5,60,18,126,80,98.4,10.6,35.4,0.2,0.8,Klebsiella pneumoniae,Clean,No,26,No,No,,Recovered
+64857a27-24ce-4365-a2f6-4443fde23f20,26,0,30.3,Diabetes,Emergency,38,464,No,Prolonged labor,37.0,94,17,120,87,94.7,12.6,40.7,2.95,3.7,Negative,Pus discharge,Yes,51,Yes,Yes,8.0,Mortality
+4a7dd02b-4ee2-4aa9-ad54-88f41389bbc0,23,4,19.0,Anemia,Emergency,41,361,No,Placenta previa,36.8,64,23,115,68,97.9,12.9,51.9,3.2,0.7,Staphylococcus aureus,Clean,No,33,Yes,Yes,44.0,Recovered
+c15ed4ba-759f-4b85-ae96-ee8926f94275,22,2,33.3,None,Elective,79,794,Yes,Placenta previa,37.2,96,29,128,75,99.0,9.3,15.4,2.43,3.8,Klebsiella pneumoniae,Clean,Yes,25,Yes,Yes,15.0,Recovered
+d6cba65a-bb29-4c93-9265-512843c4626a,33,1,31.8,None,Elective,68,1103,No,Fetal distress,36.8,94,16,134,74,97.3,11.6,55.3,2.83,1.2,Negative,Pus discharge,Yes,66,Yes,Yes,15.0,Recovered
+260db052-6ec3-4fd5-b1f9-16b120f3130b,28,0,26.2,None,Elective,87,304,Yes,Fetal distress,37.4,67,17,98,70,94.2,9.7,16.2,0.74,3.6,Klebsiella pneumoniae,Pus discharge,Yes,52,Yes,Yes,27.0,Recovered
+8d8c5921-3f85-4b22-a538-fee616d4e82c,35,3,34.5,Anemia,Emergency,42,723,No,Prolonged labor,36.1,108,24,124,76,98.9,12.9,20.7,4.44,3.3,Klebsiella pneumoniae,Clean,No,46,No,No,,Recovered
+dd8bd362-00b1-45b7-9345-44d93922e8a8,36,5,25.9,Obesity,Emergency,46,642,Yes,Prolonged labor,37.5,85,29,125,69,98.5,6.9,34.8,3.99,3.1,Staphylococcus aureus,Erythema,Yes,38,Yes,Yes,3.0,Mortality
+333ab048-093e-48d0-ae19-c772904188ca,18,2,32.0,Anemia,Emergency,60,871,Yes,Fetal distress,38.0,131,21,105,68,92.7,4.5,30.5,0.26,2.9,Klebsiella pneumoniae,Clean,Yes,54,No,No,,Recovered
+dad12624-8a44-412c-a9de-619485d2355a,26,1,28.2,Diabetes,Elective,37,914,No,Previous C-section,37.1,139,25,114,61,98.5,11.7,6.5,4.96,2.0,Staphylococcus aureus,Clean,No,77,No,No,,Recovered
+b9b422f3-f365-44cd-ade2-5c3d43ba1d50,45,1,22.9,Diabetes,Emergency,85,503,No,Previous C-section,36.4,115,17,99,60,95.1,7.8,-3.1,0.27,1.1,Negative,Erythema,No,45,No,No,,Recovered
+97ac1ecf-7f06-4c53-9b4c-972ccdf00eca,33,5,32.8,Anemia,Elective,58,1049,Yes,Placenta previa,37.4,102,24,118,84,99.9,8.7,16.6,1.26,1.8,Negative,Clean,No,67,No,No,,Recovered
+6d8cd2da-ef90-4cbd-8ec9-d6d5672b9bf9,43,2,20.6,Obesity,Emergency,45,497,Yes,Fetal distress,35.8,98,19,97,74,99.0,14.1,24.8,1.71,3.4,Staphylococcus aureus,Pus discharge,No,26,Yes,Yes,29.0,ICU
+c206a6ba-b59e-440b-8d04-90608e03ac28,44,2,32.8,Diabetes,Emergency,113,1012,No,Previous C-section,35.3,96,17,132,68,92.5,10.7,41.7,1.64,2.8,Klebsiella pneumoniae,Erythema,Yes,67,Yes,Yes,8.0,Mortality
+8ad6ff59-d17a-4445-9d2c-3c275c06ad7b,40,5,20.6,Hypertension,Emergency,101,779,Yes,Prolonged labor,37.3,133,12,120,88,96.2,9.4,43.9,1.92,1.5,Negative,Pus discharge,No,32,No,No,,Recovered
+a48f657a-eb25-41dc-aaff-d3d5ffd3923a,19,3,19.5,None,Elective,52,1081,Yes,Fetal distress,37.7,79,15,95,73,97.9,5.9,-0.0,1.29,1.0,Klebsiella pneumoniae,Pus discharge,Yes,68,No,No,,Recovered
+72ef3139-b06c-4eed-bce2-764cfcf312eb,33,1,22.5,Obesity,Emergency,40,792,Yes,Placenta previa,37.0,121,16,127,64,99.6,15.0,70.4,0.5,1.7,Negative,Pus discharge,Yes,22,Yes,Yes,27.0,Recovered
+2f634b97-e815-4356-aa2a-6ef285aadef4,26,2,31.8,None,Emergency,117,471,No,Prolonged labor,37.2,103,22,134,85,92.1,7.5,35.9,0.86,0.9,Staphylococcus aureus,Erythema,No,23,Yes,Yes,20.0,Mortality
+d0ac6520-5a73-42e9-b920-dfe670f5d905,38,4,34.1,None,Elective,47,962,No,Placenta previa,37.0,100,12,92,82,94.5,8.6,37.7,0.51,2.7,Staphylococcus aureus,Clean,Yes,24,No,No,,Recovered
+dd597053-f6c8-4f28-a445-cfa99ac0cc41,27,5,34.0,Diabetes,Elective,79,890,Yes,Placenta previa,37.1,102,17,130,77,92.8,9.4,9.7,4.32,1.5,Negative,Pus discharge,No,73,No,No,,Recovered
+22a6db14-d75d-4f0a-92cb-83d7bd9e082a,29,0,22.6,Hypertension,Elective,40,396,Yes,Fetal distress,36.6,121,25,99,69,92.2,10.9,36.9,3.19,2.6,Staphylococcus aureus,Clean,No,56,No,No,,Recovered
+abbcc5ad-f2e1-4c89-8d47-ed4476f43592,30,0,22.4,None,Elective,61,889,Yes,Previous C-section,35.8,102,27,133,70,94.2,14.6,59.9,3.19,1.4,Staphylococcus aureus,Erythema,No,65,No,No,,Recovered
+08e03743-cd67-4907-aa5d-958be2878c41,42,3,28.8,None,Emergency,30,1038,No,Placenta previa,37.3,70,27,129,60,96.6,8.6,-2.3,2.09,2.3,Klebsiella pneumoniae,Erythema,Yes,50,No,No,,Recovered
+ed3c9d1f-fca0-4855-a096-dd7ebfe99bc7,40,4,34.9,Anemia,Elective,40,1175,No,Fetal distress,37.8,80,21,97,63,95.0,4.7,35.3,3.19,1.1,Staphylococcus aureus,Erythema,No,68,No,No,,Recovered
+3f1feeb6-0674-4074-91f1-7eabd6c3ffcb,22,1,25.7,Hypertension,Elective,62,542,Yes,Prolonged labor,36.7,114,19,130,82,92.2,7.9,0.9,2.16,1.3,Negative,Pus discharge,No,33,Yes,Yes,8.0,ICU
+5fdde604-462c-4704-ac2b-7f6be799d38e,22,3,28.6,Diabetes,Emergency,116,636,Yes,Placenta previa,36.6,74,24,119,65,92.9,14.5,25.3,4.82,3.0,E. coli,Pus discharge,No,77,No,No,,Recovered
+8c750952-a461-4da9-94c4-bc67d6ec65c2,40,4,29.8,Diabetes,Elective,37,998,No,Placenta previa,37.7,82,28,111,85,98.3,8.7,5.2,2.63,2.9,Staphylococcus aureus,Pus discharge,Yes,72,No,No,,Recovered
+dd697344-1e3f-4d74-9e4b-936637608e54,31,0,20.1,Obesity,Emergency,106,767,No,Placenta previa,37.6,85,13,123,60,99.1,7.7,45.4,3.74,3.9,Klebsiella pneumoniae,Pus discharge,No,41,Yes,Yes,9.0,Mortality
+d8f598e9-f92d-405e-9bfe-72a8d6a26667,33,0,24.6,Diabetes,Elective,76,408,No,Previous C-section,37.3,83,30,108,82,94.4,6.2,14.1,3.94,3.0,Staphylococcus aureus,Erythema,No,41,Yes,Yes,20.0,Recovered
+4e9df969-c4ca-45af-aac9-597c53f4e7d8,21,2,18.4,Anemia,Emergency,101,1200,No,Previous C-section,34.9,110,27,94,67,94.8,10.4,9.6,2.03,1.6,E. coli,Erythema,Yes,74,Yes,Yes,41.0,ICU
+cfd17135-477c-4fa7-a042-64933db50b84,27,4,20.5,Anemia,Emergency,107,354,No,Prolonged labor,37.2,105,29,111,71,99.7,8.9,26.7,3.45,3.8,Staphylococcus aureus,Erythema,Yes,52,Yes,Yes,26.0,Mortality
+1676bd2e-4ad1-449f-9a78-5484bbda900d,25,4,19.8,Obesity,Elective,116,693,Yes,Previous C-section,36.8,139,13,115,64,99.9,12.3,16.5,3.75,2.3,E. coli,Pus discharge,No,24,Yes,Yes,15.0,Mortality
+856c2342-057f-49d6-af5a-0336e99bb77b,20,2,23.2,Hypertension,Elective,41,459,No,Fetal distress,38.0,64,28,137,73,97.6,7.8,25.3,2.88,0.8,Negative,Pus discharge,No,63,No,No,,Recovered
+6f5ff2ae-7257-4ef1-9ddf-781e89047101,22,1,28.5,Diabetes,Emergency,96,375,Yes,Prolonged labor,38.1,119,27,124,90,97.1,9.4,36.6,2.43,1.7,E. coli,Pus discharge,No,57,No,No,,Recovered
+90d7a0c8-529b-488f-bc39-c0b005c976dd,25,0,25.6,None,Elective,111,722,Yes,Fetal distress,37.4,127,12,106,76,96.7,6.7,63.5,4.35,2.4,E. coli,Erythema,Yes,57,Yes,Yes,13.0,Recovered
+3281b6a8-0bb7-40ff-9f70-d748be8c488d,37,5,20.2,Obesity,Elective,84,489,No,Fetal distress,36.7,98,12,136,89,93.7,12.4,22.2,0.75,3.4,Klebsiella pneumoniae,Erythema,No,66,No,No,,Recovered
+83a2a62c-d047-4fa7-9ad0-03da51019a62,25,3,25.7,Hypertension,Emergency,51,593,No,Fetal distress,37.7,100,30,100,71,96.4,5.4,25.4,1.91,0.8,Negative,Pus discharge,Yes,56,No,No,,Recovered
+889f8422-f39e-4e76-b71f-b1881a03c682,18,0,29.9,Hypertension,Emergency,71,841,No,Previous C-section,37.9,62,22,131,72,95.2,6.4,48.7,0.16,2.1,Klebsiella pneumoniae,Pus discharge,Yes,37,No,No,,Recovered
+9c4bdb8a-7586-4d68-a5ff-1df638d61313,32,3,27.0,Hypertension,Emergency,59,953,Yes,Prolonged labor,39.2,100,12,101,60,96.6,12.0,-7.4,3.29,1.8,Klebsiella pneumoniae,Erythema,Yes,71,Yes,Yes,30.0,Recovered
+4c08fe24-6e3e-4691-9d06-3cb78cfbc99e,45,3,31.7,Obesity,Elective,40,798,No,Previous C-section,37.5,83,22,139,72,92.6,3.0,41.6,3.02,1.4,Staphylococcus aureus,Erythema,No,78,No,No,,Recovered
+3287da26-5c57-4186-9979-13f4237c8e82,30,0,24.2,Diabetes,Elective,108,609,No,Prolonged labor,36.5,112,30,119,79,99.1,5.0,39.1,1.58,3.7,E. coli,Clean,No,23,Yes,Yes,31.0,ICU
+ed7d56ef-aca4-475e-9c56-1a4f5e39f495,31,1,35.0,None,Emergency,116,491,No,Prolonged labor,37.1,103,12,104,77,95.9,14.7,29.6,0.61,1.9,Klebsiella pneumoniae,Pus discharge,No,74,No,No,,Recovered
+13f66df9-f517-41cf-8e18-ff2335d588d1,25,1,30.8,Diabetes,Elective,57,486,No,Placenta previa,37.6,135,14,107,61,97.3,14.6,48.3,3.05,3.7,Klebsiella pneumoniae,Pus discharge,No,31,No,No,,Recovered
+89630068-99ba-4d82-8953-1cb1c24e2aee,27,1,31.7,Hypertension,Elective,49,1061,No,Prolonged labor,36.4,96,20,91,60,98.2,10.1,56.6,0.45,1.5,Staphylococcus aureus,Clean,Yes,43,No,No,,Recovered
+6e3ae645-3027-4dc7-8989-0641cdb72ad4,35,4,34.4,Hypertension,Elective,49,412,No,Fetal distress,38.0,83,18,128,87,93.6,12.4,34.5,2.62,3.8,Klebsiella pneumoniae,Erythema,No,59,No,No,,Recovered
+05b4d6ce-49af-4815-8093-77b095470d26,20,4,23.7,Diabetes,Emergency,78,576,No,Prolonged labor,37.5,132,26,122,73,93.4,17.4,86.3,2.08,1.8,Staphylococcus aureus,Pus discharge,No,41,Yes,Yes,9.0,Recovered
+7278e73c-19ad-406a-aa07-8b888ccf76db,42,0,22.8,None,Elective,43,747,Yes,Previous C-section,37.6,111,27,135,88,94.0,9.7,49.0,3.05,2.6,E. coli,Erythema,No,30,No,No,,Recovered
+e3f98871-16dd-47af-a604-728f4ccbd4d9,34,5,29.9,Diabetes,Emergency,44,382,Yes,Placenta previa,36.9,134,23,93,80,94.0,11.4,37.8,3.84,3.4,Klebsiella pneumoniae,Pus discharge,No,56,No,No,,Recovered
+190fb05d-5fb9-4f61-ad28-dbf2e0926a35,44,3,22.1,Hypertension,Emergency,90,1047,No,Previous C-section,37.4,137,19,126,84,92.2,14.2,39.8,0.21,0.9,Negative,Clean,No,27,No,No,,Recovered
+0301eb31-91cd-4256-953e-53a32d3fd31b,43,2,19.7,Anemia,Emergency,75,305,Yes,Placenta previa,37.2,60,20,90,64,98.5,11.7,-29.8,4.54,1.3,Negative,Erythema,No,62,Yes,Yes,30.0,Recovered
+6efba373-9558-47ab-9e56-c21366c90aac,32,4,24.5,None,Emergency,37,345,No,Fetal distress,38.6,86,21,102,60,93.3,7.9,45.3,2.21,1.7,Staphylococcus aureus,Erythema,No,48,No,No,,Recovered
+c37bc4db-3de0-4f82-a6d2-766a72256103,45,4,19.6,Diabetes,Emergency,45,544,Yes,Placenta previa,37.4,80,12,105,87,96.6,11.2,42.5,2.58,0.6,Klebsiella pneumoniae,Pus discharge,Yes,28,Yes,Yes,32.0,ICU
+67abf8ff-b203-4b23-ab75-329c5c14b9b8,34,5,18.8,Obesity,Emergency,100,858,Yes,Fetal distress,36.7,83,30,104,77,92.9,9.6,14.6,0.62,1.5,Klebsiella pneumoniae,Erythema,No,26,No,No,,Recovered
+1cb29e6d-2fc4-46f1-bcbf-01da4d378952,33,2,22.6,Obesity,Elective,79,304,No,Prolonged labor,37.4,104,29,129,86,93.3,11.2,25.3,1.37,3.0,E. coli,Pus discharge,No,24,No,No,,Recovered
+1044bfc5-4730-4b26-a63e-0411feedc651,25,0,34.9,Diabetes,Emergency,69,673,Yes,Placenta previa,37.9,115,22,112,85,93.7,7.6,50.7,3.73,3.6,E. coli,Clean,No,20,Yes,Yes,3.0,ICU
+28f2dd57-002d-462d-9570-ea4b9e1eed24,32,4,19.8,None,Elective,98,463,No,Previous C-section,37.6,106,17,118,73,98.3,9.4,37.4,0.92,4.0,Klebsiella pneumoniae,Erythema,No,53,No,No,,Recovered
+854feb3d-864a-4ce7-82f2-1622706c9e66,28,3,25.9,Hypertension,Elective,110,419,No,Placenta previa,37.6,91,14,112,61,93.2,13.7,41.0,1.94,0.8,Staphylococcus aureus,Clean,Yes,61,No,No,,Recovered
+0565a753-c18b-4d05-8cc0-3204ddf0252e,45,1,31.1,Hypertension,Emergency,41,750,No,Prolonged labor,35.6,126,26,115,70,98.1,9.6,39.7,4.59,3.1,Klebsiella pneumoniae,Pus discharge,Yes,28,Yes,Yes,42.0,ICU
+f386c734-851a-4dc4-a082-2da7918b3b78,30,2,20.8,Diabetes,Emergency,76,334,Yes,Prolonged labor,36.7,60,15,138,76,95.2,11.8,10.8,0.58,3.6,Negative,Pus discharge,No,27,No,No,,Recovered
+1fd50d8e-2932-4101-8ee3-f8a867bf9ee7,45,5,30.1,Hypertension,Emergency,97,944,No,Placenta previa,36.0,139,19,135,69,92.6,11.3,19.2,1.0,3.8,Staphylococcus aureus,Pus discharge,Yes,65,Yes,Yes,23.0,ICU
+3e107f50-6b89-4f25-93a3-3995bbabee40,39,1,21.0,Obesity,Elective,66,976,No,Prolonged labor,38.1,102,24,103,76,97.2,11.5,41.3,3.7,2.2,Negative,Erythema,No,23,No,No,,Recovered
+abd80ce4-ccb2-4872-b685-e129703f694c,26,0,27.8,Anemia,Elective,34,803,Yes,Fetal distress,35.5,122,28,136,85,98.0,9.4,28.7,3.86,0.6,Klebsiella pneumoniae,Pus discharge,Yes,47,No,No,,Recovered
+13cee435-9e8b-43b1-8f4d-93ecede68eb9,39,2,34.1,None,Emergency,73,626,No,Fetal distress,38.0,111,16,125,78,94.5,10.4,37.6,3.95,2.7,E. coli,Erythema,No,73,Yes,Yes,6.0,Mortality
+b890d9c3-80ab-408f-8d95-b3209a5064a4,39,4,20.7,Hypertension,Emergency,105,346,No,Placenta previa,37.0,127,25,133,72,96.4,8.9,52.4,3.91,2.3,E. coli,Erythema,Yes,43,No,No,,Recovered
+750e38db-3a8b-4bae-a68d-1f29a729e686,45,1,30.1,Anemia,Elective,46,500,Yes,Previous C-section,37.1,88,12,120,60,93.3,8.2,17.5,0.62,2.3,E. coli,Clean,Yes,50,Yes,Yes,27.0,Mortality
+5c5ed330-572f-43e8-8b97-4985f16626b0,28,2,29.2,Diabetes,Elective,45,951,Yes,Prolonged labor,37.8,70,29,130,85,96.0,8.3,21.7,3.5,3.2,Staphylococcus aureus,Clean,No,44,Yes,Yes,43.0,Mortality
+e7576fcb-a317-4e50-a70b-69e9a76a891f,28,0,22.0,Obesity,Emergency,119,1188,No,Prolonged labor,37.8,88,23,99,71,95.1,9.6,59.0,0.42,3.4,E. coli,Erythema,Yes,33,No,No,,Recovered
+4615b6ed-3dbf-408e-a75c-055e67d806d7,45,1,25.3,Anemia,Elective,52,644,No,Previous C-section,36.9,77,15,113,64,97.5,16.0,18.1,1.96,3.8,Staphylococcus aureus,Erythema,No,29,No,No,,Recovered
+e94c22fc-5c9f-4cd1-a619-ad893fd6e1f2,19,3,31.8,Obesity,Emergency,114,1152,No,Previous C-section,36.9,82,12,128,81,92.1,9.6,37.5,3.78,0.8,E. coli,Erythema,Yes,38,No,No,,Recovered
+eb9c6f1a-da9e-41d1-a2f0-dc755e0a8c13,18,4,27.1,Anemia,Emergency,39,1067,Yes,Fetal distress,37.0,138,14,129,68,95.6,8.1,12.5,1.32,1.3,Staphylococcus aureus,Clean,Yes,71,Yes,Yes,33.0,Recovered
+3cc8ec52-807d-4f9f-ad01-b753ed2194db,36,1,26.6,Diabetes,Emergency,56,512,No,Placenta previa,37.0,112,19,90,65,93.2,7.1,26.4,0.81,3.0,Negative,Pus discharge,Yes,61,No,No,,Recovered
+fbc19f4a-152f-43ae-8801-68600baa39a4,27,4,23.3,Obesity,Elective,112,570,Yes,Placenta previa,38.8,74,15,123,83,98.3,14.3,31.3,3.66,3.6,Negative,Clean,Yes,54,No,No,,Recovered
+3e2dd138-4017-4d5d-822b-ff577fac359d,25,5,29.3,None,Emergency,47,373,No,Placenta previa,36.5,97,25,130,82,92.9,8.5,41.9,1.7,1.2,Klebsiella pneumoniae,Erythema,Yes,78,No,No,,Recovered
+becfcdb0-c0b2-4daf-b8e5-c634ecc8c09e,36,0,22.3,None,Elective,89,1191,Yes,Prolonged labor,36.7,79,21,110,68,93.4,8.7,58.4,0.97,0.9,Staphylococcus aureus,Erythema,Yes,39,Yes,Yes,43.0,Mortality
+774ad4c6-5735-4467-9091-79767b4c1d5d,26,0,23.7,Diabetes,Elective,67,817,No,Placenta previa,38.1,131,28,122,87,99.7,9.9,33.3,2.79,2.1,Staphylococcus aureus,Erythema,Yes,28,Yes,Yes,29.0,Recovered
+a27c96a6-2c38-4247-b904-5d7b52dfceba,30,2,26.0,Anemia,Emergency,53,394,Yes,Placenta previa,35.6,111,18,117,87,95.5,12.6,19.9,2.83,3.9,E. coli,Erythema,Yes,64,No,No,,Recovered
+929a5643-458d-4e8b-9b34-1a0df18bee87,44,4,22.4,Obesity,Elective,115,561,No,Placenta previa,37.9,63,15,102,61,98.7,11.7,4.6,4.36,0.7,Klebsiella pneumoniae,Clean,Yes,47,No,No,,Recovered
+a0525f8f-a9ab-4ef8-aadc-f754a584d7b1,27,2,20.5,Hypertension,Emergency,109,927,Yes,Previous C-section,37.0,99,24,101,68,95.8,15.6,-5.8,3.17,0.8,Klebsiella pneumoniae,Clean,No,25,Yes,Yes,20.0,Recovered
+405bdf04-b1de-4f06-9ad5-9636d0d2a601,45,1,30.8,Obesity,Emergency,46,506,No,Fetal distress,37.6,61,30,130,90,98.4,9.9,45.4,2.39,3.1,E. coli,Erythema,Yes,69,Yes,Yes,30.0,Recovered
+0f9b4d7f-a97b-4192-816a-69b2c1de9891,40,0,28.3,Hypertension,Emergency,46,623,Yes,Previous C-section,36.3,91,28,122,74,92.8,6.5,3.6,1.45,3.7,E. coli,Pus discharge,No,41,No,No,,Recovered
+5c23c0a3-2b77-4a0b-8811-bda1c66d4063,36,3,25.4,Anemia,Emergency,120,477,No,Prolonged labor,37.0,137,29,125,90,95.3,6.1,47.2,2.02,2.8,Staphylococcus aureus,Clean,Yes,52,No,No,,Recovered
+e77132d4-517d-4387-8d0c-29ab72f85c79,43,5,18.3,Obesity,Emergency,34,749,Yes,Prolonged labor,37.0,132,24,140,75,95.8,10.2,9.3,2.64,0.6,Staphylococcus aureus,Pus discharge,No,73,Yes,Yes,34.0,ICU
+8f164340-f820-4e45-b4ec-6785c5a90993,25,2,33.6,Hypertension,Emergency,44,516,Yes,Previous C-section,36.7,105,18,113,84,95.1,10.4,67.1,0.64,3.9,Klebsiella pneumoniae,Clean,Yes,80,No,No,,Recovered
+d96fa171-001b-4756-8423-fd76e1bb1f24,32,4,32.9,Hypertension,Emergency,84,882,Yes,Placenta previa,37.2,77,24,98,89,95.8,5.9,34.4,1.81,1.5,E. coli,Clean,No,49,Yes,Yes,2.0,Recovered
+f4aa90b5-a76b-419b-a1c9-32a50b653198,19,1,22.1,Hypertension,Elective,114,840,No,Fetal distress,37.4,97,27,129,79,99.9,12.0,18.1,3.52,2.2,Staphylococcus aureus,Clean,Yes,34,Yes,Yes,33.0,ICU
+be9c6355-1db2-432f-9f7f-18be0b8c5d53,22,1,29.6,Diabetes,Elective,53,913,Yes,Prolonged labor,37.6,89,18,109,75,92.7,9.4,6.3,0.42,1.0,Staphylococcus aureus,Clean,Yes,37,Yes,Yes,19.0,Mortality
+b239e83c-b95c-4ff3-ae2b-0f716a2c09fb,36,0,25.4,None,Elective,56,695,No,Previous C-section,36.6,118,23,120,85,94.0,7.2,64.5,2.82,3.6,Negative,Pus discharge,No,25,Yes,Yes,17.0,Mortality
+85f37d3f-918b-4323-837c-d23f53c38731,39,5,25.0,Diabetes,Emergency,82,687,No,Previous C-section,36.1,94,30,128,67,97.6,11.1,41.2,1.29,1.7,E. coli,Pus discharge,No,47,No,No,,Recovered
+11d3ee62-9dfc-4819-80cc-dbc474a55ac7,43,5,21.1,None,Emergency,33,474,Yes,Prolonged labor,37.7,133,21,90,76,99.1,10.6,-0.6,0.66,2.1,Klebsiella pneumoniae,Erythema,Yes,29,Yes,Yes,8.0,ICU
