@@ -1,4 +1,4 @@
-# SepsisGuard: AI-Powered Early Warning System for Post-Cesarean Sepsis Detection
+# SepsisGuard: AI-Powered Early Warning System for Post-Cesarean Sepsis Prediction
 by Zainab Umar Faruq FE/23/14748402 &  Umar Lawal Jari FE/23/33736272
 
 # 🏷️ Project Overview
