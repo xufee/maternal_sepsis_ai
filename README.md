@@ -21,6 +21,10 @@ sepsis_model.pkl — Trained Random Forest classifier
 app.py — Streamlit web interface for sepsis risk prediction
 
 
+#🩺 Clinical Impact
+SepsisGuard provides AI-assisted early detection of maternal sepsis, enabling timely intervention in hospital settings. Its lightweight design integrates seamlessly into existing workflows, offering decision support for clinicians and improving patient outcomes.
+
+
 # 🧪 Proof of Concept Highlights
 Predicts maternal sepsis risk post-C-section using vital signs.
 
