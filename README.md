@@ -22,7 +22,7 @@ app.py — Streamlit web interface for sepsis risk prediction
 
 
 
-#⚕️ Deployment Potential in Healthcare Settings
+# ⚕️ Deployment Potential in Healthcare Settings
 This project demonstrates how machine learning can be used to support early detection of maternal sepsis—a critical issue in many healthcare systems, especially in low-resource settings.
 
 With minimal infrastructure (internet access and a basic computer), this web-based tool can be deployed in hospitals, especially at the Primary and Secondary healthcare levels.
