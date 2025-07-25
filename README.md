@@ -6,7 +6,7 @@ SepsisGuard is a Python-based clinical AI system designed to predict the risk of
 The system includes interpretable AI outputs using a large language model (LLM) for transparent, clinician-friendly explanations. Built as a real-world proof-of-concept for clinical decision support, SepsisGuard showcases how AI can empower early intervention, reduce maternal mortality, and enhance trust in AI-driven healthcare.
 
 # 🏷️ The Problem We’re Solving
-Maternal sepsis after C-section remains a leading cause of preventable deaths. SepsisGuard uses AI to turn vital signs into early risk alerts, enabling timely clinical decisions and improving patient outcomes
+Maternal sepsis after C-section remains a leading cause of preventable deaths. SepsisGuard uses AI to turn vital signs into early risk alerts.
 
 # 🏷️ Tech Stack
 Data: Python Faker synthetic clinical data, Model: Scikit-learn ML classification,  AI: Local LLM- model explanations,  Deployment: Streamlit healthcare dashboard
