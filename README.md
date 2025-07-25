@@ -21,8 +21,25 @@ sepsis_model.pkl — Trained Random Forest classifier
 app.py — Streamlit web interface for sepsis risk prediction
 
 
-# 🩺 Clinical Impact
-SepsisGuard provides AI-assisted early detection of maternal sepsis, enabling timely intervention in hospital settings. Its lightweight design integrates seamlessly into existing workflows, offering decision support for clinicians and improving patient outcomes.
+
+#⚕️ Deployment Potential in Healthcare Settings
+This project demonstrates how machine learning can be used to support early detection of maternal sepsis—a critical issue in many healthcare systems, especially in low-resource settings.
+
+With minimal infrastructure (internet access and a basic computer), this web-based tool can be deployed in hospitals, especially at the Primary and Secondary healthcare levels.
+
+Potential Adoption Pathway:
+
+1. Pilot Testing in hospitals using synthetic or retrospective patient data.
+
+2. Integration with electronic health records (EHRs) to automate risk scoring.
+
+3. Training of clinical staff to use the tool for triage and early decision support.
+
+4. Feedback Loop to retrain and improve the model using local hospital data.
+
+By aiding early recognition of high-risk patients, the tool can reduce delays in diagnosis and treatment—ultimately improving maternal outcomes and saving lives.
+
+
 
 
 # 🧪 Proof of Concept Highlights
@@ -63,6 +80,7 @@ Sepsis_Label — Target variable (1 = Sepsis, 0 = No Sepsis)
 
 
 # 3-MINUTE VIDEO SUNMISSION
+https://drive.google.com/file/d/1nztyjxKTmxxiY3FvWwjks0R9ylB5JL2b/view?usp=drive_link
 
 
 #3MTTLearningCommunity #My3MTT
